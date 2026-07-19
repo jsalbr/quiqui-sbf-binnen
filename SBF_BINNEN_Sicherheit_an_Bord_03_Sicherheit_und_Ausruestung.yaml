@@ -44,7 +44,8 @@
   answers:
   - Auf bestimmten Wasserstraßen ist ohne Radar und Sprechfunk die Fahrt unverzüglich einzustellen.
   - Auf allen Wasserstraßen ist ohne Radar und Sprechfunk die Fahrt unverzüglich einzustellen.
-  - Auf bestimmten Wasserstraßen ist ohne Radar und AIS-- die Fahrt unverzüglich einzustellen.
+  - Auf bestimmten Wasserstraßen ist ohne Radar und <span lang="en-GB"><abbr title="Automatic Identification
+    System">AIS</abbr></span> die Fahrt unverzüglich einzustellen.
   - Auf allen Wasserstraßen ist ohne Radar und <span lang="en-GB"><abbr title="Electronic Chart Display
     and Information System">ECDIS</abbr></span> die Fahrt unverzüglich einzustellen.
   correct: A
