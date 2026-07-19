@@ -1,0 +1,42 @@
+- question: Welche Seite wird als Luvseite bezeichnet?
+  type: single
+  answers:
+  - Die dem Wind zugekehrte Seite.
+  - Die dem Wind abgewandte Seite.
+  - Die Seite in Fahrtrichtung rechts.
+  - Die Seite in Fahrtrichtung links.
+  correct: A
+- question: Welche Seite wird als Leeseite bezeichnet?
+  type: single
+  answers:
+  - Die dem Wind abgewandte Seite.
+  - Die dem Wind zugekehrte Seite.
+  - Die Seite in Fahrtrichtung rechts.
+  - Die Seite in Fahrtrichtung links.
+  correct: A
+- question: Ein Segelboot segelt am Wind, plötzlich bricht das Luvwant. Welches Manöver ist sinnvoll?
+  type: single
+  answers:
+  - Wende.
+  - Halse.
+  - Q-Wende.
+  - Aufschießer.
+  correct: A
+- question: Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht
+    das Vorstag. Was ist sofort zu unternehmen?
+  type: single
+  answers:
+  - Abfallen auf Vorwindkurs.
+  - Dichtholen und Anluven.
+  - Einen Aufschießer fahren.
+  - Eine Halse fahren.
+  correct: A
+- question: Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht
+    das Vorstag. Womit kann das gebrochene Vorstag schnell provisorisch ersetzt werden?
+  type: single
+  answers:
+  - Durch die Fock oder ein Fall.
+  - Durch die Fockschot oder das Großfall.
+  - Durch die Vor- oder die Achterleine.
+  - Durch die Fockschot oder eine Reffleine.
+  correct: A

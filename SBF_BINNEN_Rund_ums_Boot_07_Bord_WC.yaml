@@ -1,0 +1,8 @@
+- question: Welche Vorkehrungen sind für das längere Verlassen des Fahrzeugs zu treffen?
+  type: single
+  answers:
+  - Alle Seeventile schließen und den Hauptschalter des Bordnetzes ausschalten.
+  - Kraftstoff- und Wassertank auffüllen und das Bordnetz aufladen.
+  - Tagestank schließen und Kraftstofffilter entwässern.
+  - Fahrzeug seefest hinterlassen und den Hafenmeister verständigen.
+  correct: A

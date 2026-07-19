@@ -1,0 +1,16 @@
+- question: Warum sollte Tauwerk an Bord stets ordentlich aufgeschossen werden?
+  type: single
+  answers:
+  - Damit es im Gebrauchsfall klar liegt.
+  - Damit es trocknen kann und nicht verrottet.
+  - Damit die Reißfestigkeit erhalten bleibt.
+  - Damit es nicht durch <abbr title="Ultraviolett">UV</abbr>-Strahlung beschädigt wird.
+  correct: A
+- question: Warum sollten Fallen stets ordentlich aufgeschossen werden?
+  type: single
+  answers:
+  - Damit sie im Gebrauchsfall schnell und sicher gefiert werden können.
+  - Damit sie trocknen können und nicht verrotten.
+  - Damit sie nicht durch UV-Strahlung beschädigt werden.
+  - Damit sie nicht mit den Schoten verwechselt werden können.
+  correct: A

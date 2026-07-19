@@ -1,0 +1,245 @@
+- question: Was ist zu tun, wenn vor Antritt der Fahrt nicht feststeht, wer Schiffsführer ist?
+  type: single
+  answers:
+  - Der verantwortliche Schiffsführer muss bestimmt werden.
+  - Der verantwortliche Schiffsführer muss gewählt werden.
+  - Ein Inhaber eines Sportbootführerscheins muss die Fahrzeugführung übernehmen.
+  - Ein Inhaber eines Sportbootführerscheins muss die Verantwortung übernehmen.
+  correct: A
+- question: In welchen Fällen darf weder ein Sportboot geführt noch dessen Kurs oder Geschwindigkeit selbstständig
+    bestimmt werden?
+  type: single
+  answers:
+  - Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke
+    oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration
+    von 0,5 ‰ oder mehr im Körper vorhanden ist.
+  - Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke
+    oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration
+    von 0,8 ‰ oder mehr im Körper vorhanden ist.
+  - Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke
+    oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration
+    von 1,0 ‰ oder mehr im Körper vorhanden ist.
+  - Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke
+    oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration
+    von 0,3 ‰ oder mehr im Körper vorhanden ist.
+  correct: A
+- question: Für welche Sportboote ist der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen
+    vorgeschrieben?
+  type: single
+  answers:
+  - Für Sportboote von mehr als 11,03 <abbr title="Kilowatt">kW</abbr> (15 <abbr title="Pferdestärke,
+    eine veraltete physikalische Maßeinheit für die Leistung">PS</abbr>) Nutzleistung bei Verwendung eines
+    Verbrennungsmotors <abbr title="beziehungsweise">bzw.</abbr> 7,5 kW bei Verwendung eines Elektromotors
+    Betriebsart <abbr title="Dauerbetrieb mit konstanter Belastung">S1</abbr> (Dauerbetrieb) und weniger
+    als 20 m Länge.
+  - Für Sportboote von weniger als 11,03 kW (15 PS) Nutzleistung bei Verwendung eines Verbrennungsmotors
+    bzw. 7,5 kW bei Verwendung eines Elektromotors Betriebsart S1 (Dauerbetrieb) und mehr als 20 m Länge.
+  - Für Sportboote von mehr als 11,03 kW (15 PS) Nutzleistung bei Verwendung eines Verbrennungsmotors
+    bzw. 7,5 kW bei Verwendung eines Elektromotors Betriebsart S1 (Dauerbetrieb) und mehr als 20 m Länge.
+  - Für Sportboote von weniger als 11,03 kW (15 PS) Nutzleistung bei Verwendung eines Verbrennungsmotors
+    bzw. 7,5 kW bei Verwendung eines Elektromotors Betriebsart S1 (Dauerbetrieb) und weniger als 20 m
+    Länge.
+  correct: A
+- question: Auf welchen Gewässern gilt der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen?
+  type: single
+  answers:
+  - Auf den Bundeswasserstraßen im Binnenbereich.
+  - Auf allen Landesgewässern.
+  - Auf den Bundeswasserstraßen und allen Landesgewässern.
+  - Auf allen Seewasserstraßen.
+  correct: A
+- question: Aus welchen Gründen muss der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen
+    entzogen werden?
+  type: single
+  answers:
+  - Bei fehlender Tauglichkeit oder fehlender Zuverlässigkeit.
+  - Bei zweifelhafter Tauglichkeit wegen Alkoholmissbrauch.
+  - Bei zweifelhafter Zuverlässigkeit aus Altersgründen.
+  - Bei fehlender Zuverlässigkeit nach einer begangenen Ordnungswidrigkeit.
+  correct: A
+- question: Was beinhaltet die allgemeine Sorgfaltspflicht?
+  type: single
+  answers:
+  - Vermeidung der Gefährdung von Menschenleben, von Beschädigungen an Fahrzeugen, Anlagen oder Ufern,
+    Behinderung der Schifffahrt und Beeinträchtigung der Umwelt.
+  - Gefährdung von Menschenleben, Beschädigungen an Fahrzeugen, Anlagen oder Ufern und Beeinträchtigung
+    der Umwelt.
+  - Es ist alles zu tun, was zur Vermeidung der Gefährdung von Menschenleben, Behinderung der Schifffahrt
+    und Beeinträchtigung der Umwelt nötig ist.
+  - Es ist alles zu tun, was zur Vermeidung von Beschädigungen an Fahrzeugen, Anlagen oder Ufern, Behinderung
+    der Schifffahrt und Beeinträchtigung der Umwelt nötig ist.
+  correct: A
+- question: Unter welchen Umständen darf von den geltenden Bestimmungen über das Verhalten im Verkehr
+    auf den Binnenschifffahrtsstraßen abgewichen werden?
+  type: single
+  answers:
+  - Bei unmittelbar drohender Gefahr für sich oder andere.
+  - Bei unmittelbar bevorstehender Begegnung.
+  - Bei unmittelbar bevorstehendem Überholvorgang.
+  - Bei mittelbar drohender Gefahr für sich oder andere.
+  correct: A
+- question: Welche Anforderungen neben der körperlichen und geistigen Tauglichkeit und fachlichen Eignung
+    muss der Führer eines Sportbootes auf Binnenschifffahrtsstraßen erfüllen, wenn die größte Nutzleistung
+    der Antriebsmaschine 11,03 kW bei Verbrennungsmotoren bzw. 7,5 kW bei Elektromotoren Betriebsart S1
+    (Dauerbetrieb) oder weniger beträgt?
+  type: single
+  answers:
+  - Mindestalter 16 Jahre.
+  - Nachweis der Zuverlässigkeit.
+  - Mindestalter 14 Jahre.
+  - Besitz eines Sportbootführerscheins mit dem Geltungsbereich Binnenschifffahrtsstraßen für Sportboote
+    mit Antriebsmaschine oder eines gleichgestellten Befähigungszeugnisses.
+  correct: A
+- question: Welche Anforderungen neben der körperlichen und geistigen Tauglichkeit und fachlichen Eignung
+    muss der Führer eines Sportbootes auf dem Rhein erfüllen, wenn die Nutzleistung der Antriebsmaschine
+    mehr als 11,03 kW bei Verbrennungsmotoren bzw. 7,5 kW bei Elektromotoren Betriebsart S1 (Dauerbetrieb)
+    beträgt?
+  type: single
+  answers:
+  - Besitz eines Sportbootführerscheins mit dem Geltungsbereich Binnenschifffahrtsstraßen für Sportboote
+    mit Antriebsmaschine oder eines gleichgestellten Befähigungszeugnisses.
+  - Nachweis der Zuverlässigkeit.
+  - Mindestens 14 Jahre.
+  - Mindestalter 16 Jahre.
+  correct: A
+- question: Welche Anforderungen werden an die Person gestellt, mit der der Schiffsführer das Ruder eines
+    Sportbootes mit Antriebsmaschine auf Binnenschifffahrtstraßen besetzen will?
+  type: single
+  answers:
+  - Sie muss mindestens 16 Jahre alt und körperlich, geistig und fachlich geeignet sein.
+  - Sie muss mindestens 18 Jahre alt und körperlich, geistig und fachlich geeignet sein.
+  - Sie muss mindestens 16 Jahre alt und Inhaber des Sportbootführerscheins mit dem Geltungsbereich Binnenschifffahrtsstraßen
+    für Sportboote mit Antriebsmaschine sein.
+  - Sie muss mindestens 14 Jahre alt und körperlich, geistig und fachlich geeignet sein.
+  correct: A
+- question: Wo erhält man Auskünfte über Verkehrsbeschränkungen und aktuelle Informationen über Binnenschifffahrtsstraßen?
+  type: single
+  answers:
+  - Bei der Wasserstraßen- und Schifffahrtsverwaltung, im Internet unter www.elwis.de und bei der Wasserschutzpolizei.
+  - Bei einem Wasserwirtschaftsamt und bei der Wasserschutzpolizei.
+  - In der Binnenschifffahrtsstraßen-Ordnung Teil II.
+  - In der Binnenschiffsuntersuchungsordnung.
+  correct: A
+- question: Wozu muss der Rudergänger eines Sportbootes zur sicheren Steuerung in der Lage sein?
+  type: single
+  answers:
+  - Alle Informationen und Weisungen zu empfangen und zu geben, alle Schallzeichen wahrzunehmen und nach
+    allen Seiten genügend freie Sicht zu haben.
+  - Alle Informationen und Weisungen zu empfangen und zu geben.
+  - Alle Schallzeichen wahrnehmen zu können und nach allen Seiten genügend freie Sicht zu haben.
+  - Alle Informationen und Weisungen zu empfangen und zu geben und nach allen Seiten genügend freie Sicht
+    zu haben.
+  correct: A
+- question: Bis zu welcher Schiffslänge berechtigt der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen
+    zum Führen eines Sportbootes auf Binnenschifffahrtsstraßen?
+  type: single
+  answers:
+  - Bis zu einer Länge von weniger als 20 m (ohne Ruder und Bugspriet).
+  - Bis zu einer Länge von weniger als 25 m (mit Ruder und Bugspriet).
+  - Bis zu einer Länge von weniger als 25 m (ohne Ruder und Bugspriet).
+  - Bis zu einer Länge von weniger als 15 m (mit Ruder und Bugspriet).
+  correct: A
+- question: Wo findet man die allgemeinen Verkehrsregeln für die Binnenschifffahrtsstraßen und den Rhein?
+  type: single
+  answers:
+  - Binnenschifffahrtsstraßen-Ordnung, Rheinschifffahrtspolizeiverordnung.
+  - Binnenschiffsuntersuchungsordnung, Rheinschifffahrtspolizeiverordnung.
+  - Moselschifffahrtspolizeiverordnung, Donauschifffahrtspolizeiverordnung.
+  - Wassermotorräderverordnung, Wasserskiverordnung.
+  correct: A
+- question: Wo findet man die allgemeinen Verkehrsregeln für die Mosel und die Donau?
+  type: single
+  answers:
+  - Moselschifffahrtspolizeiverordnung, Donauschifffahrtspolizeiverordnung.
+  - Donauschifffahrtspolizeiverordnung, Binnenschifffahrtsstraßen-Ordnung.
+  - Moselschifffahrtspolizeiverordnung, Binnenschiffsuntersuchungsordnung.
+  - Wassermotorräderverordnung, Wasserskiverordnung.
+  correct: A
+- question: Wo findet man Regeln für den Verkehr von Wassermotorrädern und für das Wasserskilaufen?
+  type: single
+  answers:
+  - Wassermotorräderverordnung, Wasserskiverordnung.
+  - Moselschifffahrtspolizeiverordnung, Donauschifffahrtspolizeiverordnung.
+  - Binnenschifffahrtsstraßen-Ordnung, Rheinschifffahrtspolizeiverordnung.
+  - Moselschifffahrtspolizeiverordnung, Binnenschiffsuntersuchungsordnung.
+  correct: A
+- question: Wann gilt ein Sportboot auf den Binnenschifffahrtsstraßen nicht mehr als Kleinfahrzeug?
+  type: single
+  answers:
+  - Wenn es 20 m oder länger ist.
+  - Wenn es 15 m oder länger ist.
+  - Wenn es 10 m oder länger ist.
+  - Wenn es 18 m oder länger ist.
+  correct: A
+- question: Wem darf der Schiffsführer das Ruder eines motorisierten Sportbootes überlassen?
+  type: single
+  answers:
+  - Einer Person, die mindestens 16 Jahre alt, sowie körperlich und geistig geeignet ist.
+  - Einer Person, die mindestens 18 Jahre alt, sowie körperlich und geistig geeignet ist.
+  - Einer Person, die mindestens 14 Jahre alt, sowie körperlich und geistig geeignet ist.
+  - Einer Person jeden Alters, die körperlich und geistig geeignet ist.
+  correct: A
+- question: Auf welchen Gewässern ist die Fahrerlaubnis für Sportboote unter Segeln erforderlich?
+  type: single
+  answers:
+  - Auf bestimmten Wasserstraßen in Berlin und Brandenburg.
+  - Auf allen Landesgewässern.
+  - Auf den Binnenschifffahrtsstraßen und allen Landesgewässern.
+  - Auf allen deutschen Wasserstraßen.
+  correct: A
+- question: Weshalb muss sich der Schiffsführer vor dem Befahren fremder Gewässer über die dort geltenden
+    Vorschriften informieren?
+  type: single
+  answers:
+  - Um die jeweils geltenden Vorschriften einhalten zu können.
+  - Da diese auf Landesgewässern grundsätzlich inhaltlich abweichen.
+  - Da diese auf Bundesgewässern grundsätzlich inhaltlich abweichen.
+  - Weil die jeweils geltenden Vorschriften wichtige Informationen über die Brückendurchfahrtshöhen enthalten.
+  correct: A
+- question: Welcher Befähigungsnachweis berechtigt zum Führen eines Sportbootes bis zu einer Länge von
+    25 m auf dem Rhein?
+  type: single
+  answers:
+  - Das Sportpatent.
+  - Das Sportschifferzeugnis.
+  - Der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen.
+  - Der Sportbootführerschein mit dem Geltungsbereich Seeschifffahrtsstraßen.
+  correct: A
+- question: Welcher Befähigungsnachweis berechtigt zum Führen eines Sportbootes mit einer Länge von 20
+    m bis 25 m auf den Binnenschifffahrtsstraßen außerhalb des Rheins?
+  type: single
+  answers:
+  - Das Sportschifferzeugnis oder das Sportpatent.
+  - Der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen.
+  - Der Sportbootführerschein mit dem Geltungsbereich Seeschifffahrtsstraßen.
+  - Der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen zum Führen von Sportbooten
+    mit Antriebsmaschine oder das Sportpatent.
+  correct: A
+- question: Wo sind umfangreiche Hinweise auf die Binnenschifffahrtsstraßen und deren Grenzen zu finden?
+  type: single
+  answers:
+  - Im Teil II der Binnenschifffahrtsstraßen-Ordnung.
+  - Im Teil I der Binnenschifffahrtsstraßen-Ordnung.
+  - In der Binnenschiffsuntersuchungsordnung.
+  - In der Kleinfahrzeugkennzeichenverordnung.
+  correct: A
+- question: Was ist bei der Ausübung des Wassersports auf Gewässern außerhalb der Bundeswasserstraßen
+    (<abbr title="zum Beispiel">z. B.</abbr> Landeswasserstraßen, kommunale und private Gewässer) zu beachten?
+  type: single
+  answers:
+  - Es ist gegebenenfalls die Genehmigung des Eigentümers einzuholen sowie die jeweilige Befahrensordnung
+    zu beachten.
+  - Es ist immer die Genehmigung des Eigentümers einzuholen sowie die jeweilige Befahrensordnung zu beachten.
+  - Es ist immer die Genehmigung des Wasserstraßen- und Schifffahrtsamtes einzuholen sowie die jeweilige
+    Befahrensordnung zu beachten.
+  - Es ist gegebenenfalls die Genehmigung des Eigentümers einzuholen sowie die Binnenschifffahrtsstraßen-Ordnung
+    zu beachten.
+  correct: A
+- question: Wann gilt ein Sportboot auf den Binnenschifffahrtsstraßen als Kleinfahrzeug?
+  type: single
+  answers:
+  - Wenn das Fahrzeug eine Länge von weniger als 20 m hat.
+  - Wenn das Fahrzeug eine Länge von 20 m hat.
+  - Wenn das Fahrzeug eine Länge von 25 m hat.
+  - Wenn das Fahrzeug eine Länge von mehr als 20 m hat.
+  correct: A

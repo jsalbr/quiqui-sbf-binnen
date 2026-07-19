@@ -1,0 +1,17 @@
+- question: Welche Vorkehrungen sind für das längere Verlassen des Fahrzeugs zu treffen?
+  type: single
+  answers:
+  - Alle Seeventile schließen und den Hauptschalter des Bordnetzes ausschalten.
+  - Kraftstoff- und Wassertank auffüllen und das Bordnetz aufladen.
+  - Tagestank schließen und Kraftstofffilter entwässern.
+  - Fahrzeug seefest hinterlassen und den Hafenmeister verständigen.
+  correct: A
+- question: Welche technische Einrichtung gegen einen Stromschlag muss in der Landstromversorgung unbedingt
+    installiert sein?
+  type: single
+  answers:
+  - Ein Fehlerstromschutzschalter.
+  - Ein geringer Ladungsstrom ist ungefährlich.
+  - Ein Überspannungsschutz.
+  - Ein Schutzkleinspannungsschalter.
+  correct: A

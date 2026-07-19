@@ -1,0 +1,99 @@
+- question: Was bewirkt der Quickstopp?
+  type: single
+  answers:
+  - Unterbrechung von Zündkontakt bzw. Kraftstoffzufuhr.
+  - Automatisches Anlassen des Motors.
+  - Kurze Unterbrechung des Motorlaufs.
+  - Automatische Schubumkehr.
+  correct: A
+- question: Was ist zu unternehmen, wenn Treibstoff oder Öl in die Bilge gelangt?
+  type: single
+  answers:
+  - Mit Lappen aufnehmen und umweltgerecht entsorgen.
+  - Räume lüften und abwarten.
+  - Gleichmäßig verteilen.
+  - Mit entsprechendem Mittel neutralisieren.
+  correct: A
+- question: Was muss beim Tanken beachtet werden?
+  type: single
+  answers:
+  - Motor abstellen, keine elektrischen Schalter betätigen, Vorbereitung gegen das Überlaufen von Kraftstoff
+    treffen, kein offenes Feuer.
+  - Motor in Leerlaufstellung, keine elektrischen Schalter betätigen, Vorbereitung gegen das Überlaufen
+    von Kraftstoff treffen, kein offenes Feuer.
+  - Fenster schließen, keine elektrischen Schalter betätigen, Vorbereitung gegen das Überlaufen von Kraftstoff
+    treffen, kein offenes Feuer.
+  - Motor abstellen, Feuerlöscher bereithalten, Vorbereitung gegen das Überlaufen von Kraftstoff treffen,
+    kein offenes Feuer.
+  correct: A
+- question: Während der Fahrt sollte die Maschinenanlage ständig überwacht werden. Worauf muss besonders
+    geachtet werden?
+  type: single
+  answers:
+  - Motortemperatur, Öldruck, Ladekontrolle.
+  - Kühlwasseraustritt, Drehzahlmesser, Keilriemenspannung.
+  - Schraubendrehzahl, Getriebeöltemperatur, Öldruck.
+  - Druck der Einspritzpumpe, Impellerpumpe, Ölpumpe.
+  correct: A
+- question: Die Temperatur der Antriebsmaschine überschreitet die zulässigen Grenzwerte. Was könnte die
+    mögliche Ursache sein?
+  type: single
+  answers:
+  - Defektes Thermostat, defekte Impellerpumpe, geschlossenes Seeventil, zu niedriger Kühlwasserstand.
+  - Zu viel Motoröl, defekte Impellerpumpe, geschlossenes Seeventil, zu niedriger Kühlwasserstand.
+  - Defektes Thermostat, defekte Impellerpumpe, geschlossenes Seeventil, zu hohe Batteriespannung.
+  - Defektes Thermostat, defekte Kupplung, geschlossenes Seeventil, zu niedriger Kühlwasserstand.
+  correct: A
+- question: Die Ladekontrolllampe erlischt nach dem Starten nicht. Was könnte die mögliche Ursache sein?
+  type: single
+  answers:
+  - Lichtmaschine bzw. Regler der Lichtmaschine defekt.
+  - Zu hohe Motordrehzahl.
+  - Keilriemen gerissen und hoher Stromverbrauch.
+  - Anlasser ist nach dem Starten ausgefallen.
+  correct: A
+- question: Die Ölkontrollleuchte leuchtet nach dem Starten weiter. Was könnte die mögliche Ursache sein?
+  type: single
+  answers:
+  - Druckschalter bzw. Öldruckpumpe defekt.
+  - Zu viel Motoröl im Motor.
+  - <abbr title="Fehlerstromschutzschalter">FI-Schalter</abbr> defekt.
+  - Zu hohe Motordrehzahl.
+  correct: A
+- question: Der Motor ist gestartet worden. Was kann die Ursache sein, wenn nach dem Einkuppeln der Antriebswelle
+    der Motor stehenbleibt?
+  type: single
+  answers:
+  - Blockierter Propeller.
+  - Blockierte Kraftstoffzufuhr.
+  - Verschmutzter Ölfilter.
+  - Verschmutzter Luftfilter.
+  correct: A
+- question: Ein Außenborder mit gefülltem Tank bleibt während der Fahrt stehen. Was könnten die Ursachen
+    sein?
+  type: single
+  answers:
+  - Belüftungsschraube geschlossen; verstopfte Kraftstoffleitung.
+  - Ansaugdüsen zu groß bzw. zu klein.
+  - Tankdeckel ist offen.
+  - Schraube an der Welle lose.
+  correct: A
+- question: Welche Veröffentlichungen enthalten wichtige Regeln und Tipps für Wassersportler, Empfehlungen
+    zur Ausrüstung von Sportbooten sowie Hinweise zu umweltgerechtem Verhalten auf dem Wasser?
+  type: single
+  answers:
+  - Nautische Publikationen wie „Sicherheit auf dem Wasser“ und „Sicher auf See".
+  - Verordnung über die Sicherung der Seefahrt und nautische Publikationen wie „Sicher auf See".
+  - Nautische Publikation wie „Sicherheit auf dem Wasser“ und Internationales Signalbuch.
+  - Internationales Signalbuch und Verordnung über die Sicherung der Seefahrt.
+  correct: A
+- question: Unter welchen Voraussetzungen darf ein Sportboot mit Elektromotor ohne Fahrerlaubnis geführt
+    werden?
+  type: single
+  answers:
+  - Die Antriebsleistung beträgt höchstens 7,5 Kilowatt Betriebsart <abbr title="Dauerbetrieb mit konstanter
+    Belastung">S1</abbr> (Dauerbetrieb).
+  - Es darf immer ohne Fahrerlaubnis geführt werden, unabhängig von der Antriebsleistung.
+  - Bis zu einer Antriebsleistung von 11,03 Kilowatt Betriebsart S1 (Dauerbetrieb).
+  - Es darf nie ohne Fahrerlaubnis geführt werden, unabhängig von der Antriebsleistung.
+  correct: A

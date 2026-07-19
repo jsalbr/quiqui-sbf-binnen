@@ -1,0 +1,18 @@
+- question: Wo finden Sie Informationen über umweltfreundliche Farben, Lacke und Antifouling-Beschichtungen
+    für Ihr Boot?
+  type: single
+  answers:
+  - Beim Umweltbundesamt.
+  - Beim Bundesministerium für Digitales und Verkehr.
+  - In der Sportbootführerscheinverordnung.
+  - In der Sportbootvermietungsverordnung.
+  correct: A
+- question: Was ist mit Schwert und Ruder einer Jolle zu tun, wenn das Boot an einer Boje liegen gelassen
+    wird?
+  type: single
+  answers:
+  - Schwert und Ruderblatt aufholen, damit das Boot frei schwojen kann.
+  - Schwert absenken, Ruder aufholen, damit das Boot frei schwojen kann.
+  - Schwert aufholen, Ruder absenken, damit das Boot frei schwojen kann.
+  - Schwert und Ruder absenken, damit das Boot frei schwojen kann.
+  correct: A

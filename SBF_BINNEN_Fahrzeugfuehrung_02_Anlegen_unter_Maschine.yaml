@@ -1,0 +1,24 @@
+- question: Warum soll man möglichst gegen Strom und Wind anlegen?
+  type: single
+  answers:
+  - Weil sich das Fahrzeug dabei sicherer manövrieren lässt.
+  - Weil dadurch Sog und Wellenschlag vermieden wird.
+  - Weil dadurch Einflüsse von Wellen und Wassertiefe ausgeglichen werden.
+  - Weil dies die Steuerwirkung der Schraube erhöht.
+  correct: A
+- question: Welches ist der günstigste Anlaufwinkel beim Anlegen?
+  type: single
+  answers:
+  - Ein möglichst spitzer Winkel.
+  - Ein Winkel von 90° bis 100°.
+  - Ein möglichst stumpfer Winkel.
+  - Ein Winkel von 60° bis 70°.
+  correct: A
+- question: Welche Anlegeseite ist mit rechtsdrehendem Propeller empfehlenswert und warum?
+  type: single
+  answers:
+  - Die Backbordseite - der Radeffekt zieht das Fahrzeug an die Pier.
+  - Die Steuerbordseite - der Radeffekt zieht das Fahrzeug an die Pier.
+  - Die Steuerbord- oder Backbordseite je nach Ruderlage.
+  - Es gibt keine empfehlenswerte Anlegeseite.
+  correct: A

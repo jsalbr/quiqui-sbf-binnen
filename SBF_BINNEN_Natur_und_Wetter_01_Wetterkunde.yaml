@@ -1,0 +1,42 @@
+- question: Welches Signal führt ein Fahrzeug unter Segel, das als Maschinenfahrzeug gilt, zusätzlich
+    am Tage?
+  type: single
+  answers:
+  - Einen schwarzen Kegel, Spitze unten.
+  - Einen schwarzen Kegel, Spitze oben.
+  - Einen schwarzen Rhombus.
+  - Zwei schwarze Bälle senkrecht übereinander.
+  correct: A
+- question: Welche Seite wird als Luvseite bezeichnet?
+  type: single
+  answers:
+  - Die dem Wind zugekehrte Seite.
+  - Die dem Wind abgewandte Seite.
+  - Die Seite in Fahrtrichtung rechts.
+  - Die Seite in Fahrtrichtung links.
+  correct: A
+- question: Welche Faktoren sind hauptsächlich für das Wettergeschehen, also für Wind und Niederschläge,
+    ausschlaggebend?
+  type: single
+  answers:
+  - Luftdruckänderung, Luftfeuchtigkeit und Temperatur.
+  - Luftdruckänderung, Sonneneinstrahlung und Höhenlage.
+  - Luftdruckänderung, Luftfeuchtigkeit und Jahreszeit.
+  - Luftdruckänderung, Tageszeit und Temperatur.
+  correct: A
+- question: Mit welcher Wetterentwicklung ist bei schnellem und stetig fallendem Luftdruck zu rechnen?
+  type: single
+  answers:
+  - Schlechtes Wetter, Starkwind oder Sturm.
+  - Besseres Wetter, steigende Temperatur.
+  - Schlechtes Wetter ist nicht zu erwarten.
+  - Besseres Wetter, Sonne.
+  correct: A
+- question: Welches Wetter ist zu erwarten, wenn der Luftdruck langsam aber stetig steigt?
+  type: single
+  answers:
+  - Besseres Wetter, Sonne.
+  - Besseres Wetter, steigende Temperatur.
+  - Schlechtes Wetter ist nicht zu erwarten.
+  - Schlechtes Wetter, Starkwind oder Sturm.
+  correct: A

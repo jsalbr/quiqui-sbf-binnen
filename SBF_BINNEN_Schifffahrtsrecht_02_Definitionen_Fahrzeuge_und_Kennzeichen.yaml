@@ -1,0 +1,89 @@
+- question: Wann ist ein Fahrzeug in Fahrt?
+  type: single
+  answers:
+  - Wenn es weder vor Anker liegt noch an Land festgemacht ist noch auf Grund sitzt.
+  - Wenn es weder vor Anker liegt noch an Land festgemacht ist noch Fahrt über Grund macht.
+  - Wenn es weder auf Grund sitzt noch vor Anker liegt noch manövrierbehindert oder manövrierunfähig ist.
+  - Wenn es weder an Land festgemacht ist noch vor Anker liegt noch Fahrt durchs Wasser macht.
+  correct: A
+- question: Wann gilt ein Fahrzeug unter Segel als Maschinenfahrzeug?
+  type: single
+  answers:
+  - Wenn es gleichzeitig mit Maschinenkraft fährt.
+  - Wenn es mit einer Antriebsmaschine ausgerüstet ist.
+  - Wenn es durch das Segeln keine Fahrt durchs Wasser macht.
+  - Wenn es durch das Segeln keine Fahrt über Grund macht.
+  correct: A
+- question: Wann gilt ein Sportboot auf den Binnenschifffahrtsstraßen nicht mehr als Kleinfahrzeug?
+  type: single
+  answers:
+  - Wenn es 20 m oder länger ist.
+  - Wenn es 15 m oder länger ist.
+  - Wenn es 10 m oder länger ist.
+  - Wenn es 18 m oder länger ist.
+  correct: A
+- question: Welche Sichtbeeinträchtigungen führen zu unsichtigem Wetter?
+  type: single
+  answers:
+  - Nebel, Schneefall, starker Regen.
+  - Dunkelheit, Nebel, Schneefall, starker Regen.
+  - Nacht, Schneefall, starker Regen.
+  - Dämmerung, Nebel, Schneefall, starker Regen.
+  correct: A
+- question: Welche Kennzeichnungsarten für Sportboote gibt es?
+  type: single
+  answers:
+  - Amtliche Kennzeichen und amtlich anerkannte Kennzeichen.
+  - Nur amtliche Kennzeichen.
+  - Nur amtlich anerkannte Kennzeichen.
+  - Kennzeichen gemäß Konformitätserklärung (<span lang="fr"><abbr title="Conformité Européenne">CE</abbr></span>-Zeichen).
+  correct: A
+- question: Welche Stelle ist für die Zuteilung eines amtlichen Kennzeichens für Sportboote zuständig?
+  type: single
+  answers:
+  - Jedes Wasserstraßen- und Schifffahrtsamt.
+  - Der Deutsche Motoryachtverband.
+  - Der Deutsche Segler-Verband.
+  - Der Allgemeine Deutsche Automobilclub.
+  correct: A
+- question: Woraus bestehen die amtlich anerkannten Kennzeichen?
+  type: single
+  answers:
+  - Nummer des Internationalen Bootsscheins, gefolgt vom Kennbuchstaben für die ausstellende Organisation.
+  - Nummer des Binnenschiffsregisters, gefolgt vom Kennbuchstaben für die ausstellende Organisation.
+  - Nummer des Seeschiffsregisters, gefolgt vom Kennbuchstaben für die ausstellende Organisation.
+  - Die europäische Schiffsnummer, gefolgt vom Kennbuchstaben für die ausstellende Organisation.
+  correct: A
+- question: Welche Stellen sind für die Zuteilung eines amtlich anerkannten Kennzeichens für Sportboote
+    zuständig?
+  type: single
+  answers:
+  - Der Deutsche Motoryachtverband, der Deutsche Segler-Verband, der Allgemeine Deutsche Automobilclub.
+  - Die Wasserstraßen- und Schifffahrtsämter.
+  - Die Wasserschutzpolizei.
+  - Amtsgerichte, bei denen ein Schiffsregister geführt wird.
+  correct: A
+- question: Wann muss ein Wassersportfahrzeug in das Binnenschiffsregister eingetragen werden?
+  type: single
+  answers:
+  - Ab 10 <abbr title="Kubikmeter">cbm</abbr> Wasserverdrängung.
+  - Ab 15 cbm Wasserverdrängung.
+  - Ab 10 m Schiffslänge.
+  - Ab 15 m Schiffslänge.
+  correct: A
+- question: Wann gilt ein Sportboot auf den Binnenschifffahrtsstraßen als Kleinfahrzeug?
+  type: single
+  answers:
+  - Wenn das Fahrzeug eine Länge von weniger als 20 m hat.
+  - Wenn das Fahrzeug eine Länge von 20 m hat.
+  - Wenn das Fahrzeug eine Länge von 25 m hat.
+  - Wenn das Fahrzeug eine Länge von mehr als 20 m hat.
+  correct: A
+- question: Was bedeutet Radarfahrt?
+  type: single
+  answers:
+  - Eine Fahrt bei unsichtigem Wetter mit Radar.
+  - Eine Fahrt bei Nacht mit Radar.
+  - Eine Fahrt mit Radar.
+  - Eine Fahrt am Tage mit Radar.
+  correct: A

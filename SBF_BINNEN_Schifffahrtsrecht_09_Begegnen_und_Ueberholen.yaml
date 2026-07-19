@@ -1,0 +1,60 @@
+- question: |-
+    Welche Bedeutung hat folgendes Tafelzeichen?
+
+    ![Bild zu Frage 17](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Verbotszeichen-A02.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Überholverbot.
+  - Begegnungsverbot.
+  - Überholverbot für Fahrzeuge unter 20 m Länge.
+  - Begegnungsverbot für Fahrzeuge über 20 m Länge.
+  correct: A
+- question: |-
+    Welche Bedeutung hat folgendes Tafelzeichen?
+
+    ![Bild zu Frage 18](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Verbotszeichen-A04.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Begegnungsverbot an einer Engstelle.
+  - Begegnungsverbot für Fahrzeuge über 12 m Länge.
+  - Überholverbot; mit Gegenverkehr muss gerechnet werden.
+  - Überholverbot für alle Fahrzeuge.
+  correct: A
+- question: Warum soll ein kleines Fahrzeug nicht dicht an ein großes in Fahrt befindliches Fahrzeug heranfahren?
+  type: single
+  answers:
+  - Es kann durch dessen Bug- oder Heckwelle kentern oder durch den Sog mit dem Fahrzeug kollidieren.
+  - Dichtes Heranfahren ist ein Verstoß gegen die Grundregeln für das Verhalten im Verkehr.
+  - Da es dem großen in Fahrt befindlichen Fahrzeug sonst nicht ausweichen kann.
+  - Es kann durch dessen Bug- oder Heckwelle Seeschlag erleiden.
+  correct: A
+- question: Wie verhält man sich beim Begegnen mit anderen Fahrzeugen in einem engen Fahrwasser?
+  type: single
+  answers:
+  - Geschwindigkeit herabsetzen und ausreichenden Passierabstand halten.
+  - Geschwindigkeit erhöhen, um das Begegnungsmanöver zügig durchzuführen.
+  - Das gegen den Strom fahrende Fahrzeug ist ausweichpflichtig.
+  - Das mit dem Strom fahrende Fahrzeug hat aufzustoppen.
+  correct: A
+- question: Welche Gefahren können entstehen, wenn ein kleines von einem größeren Fahrzeug überholt wird?
+  type: single
+  answers:
+  - Das kleinere Fahrzeug kann durch Stau, Sog oder Schwell aus dem Kurs laufen und kollidieren oder querschlagen,
+    in flachen Gewässern auf Grund laufen.
+  - Das größere Fahrzeug kann durch Stau, Sog oder Schwell aus dem Kurs laufen und kollidieren oder querschlagen,
+    in flachen Gewässern auf Grund laufen.
+  - Das kleinere Fahrzeug kann durch Stau, Sog oder Schwell aus dem Kurs laufen und kollidieren oder kentern,
+    in flachen Gewässern extrem versetzt werden.
+  - Das größere Fahrzeug kann durch Wellenbildung aus dem Kurs laufen und kollidieren oder querschlagen,
+    in flachen Gewässern auf Grund laufen.
+  correct: A
+- question: Wie ist ein Überholmanöver durchzuführen?
+  type: single
+  answers:
+  - Zügig überholen. Beteiligte Fahrzeuge nicht behindern. Verkehrslage und eventuelle Schallzeichen beachten.
+    Ausreichend Abstand halten.
+  - Zügig überholen. Gegebenenfalls das Fahrzeug stark beschleunigen, um schnell passieren zu können.
+  - Zügig überholen; überholen nur auf der Steuerbordseite erlaubt, ausreichend Abstand halten.
+  - Zügig überholen. Dicht am Ufer entlang fahren, eventuelle Schallzeichen müssen von Kleinfahrzeugen
+    beachtet werden.
+  correct: A

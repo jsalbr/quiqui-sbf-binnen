@@ -1,0 +1,510 @@
+- question: Wann gilt ein Fahrzeug unter Segel als Maschinenfahrzeug?
+  type: single
+  answers:
+  - Wenn es gleichzeitig mit Maschinenkraft fährt.
+  - Wenn es mit einer Antriebsmaschine ausgerüstet ist.
+  - Wenn es durch das Segeln keine Fahrt durchs Wasser macht.
+  - Wenn es durch das Segeln keine Fahrt über Grund macht.
+  correct: A
+- question: Welches Signal führt ein Fahrzeug unter Segel, das als Maschinenfahrzeug gilt, zusätzlich
+    am Tage?
+  type: single
+  answers:
+  - Einen schwarzen Kegel, Spitze unten.
+  - Einen schwarzen Kegel, Spitze oben.
+  - Einen schwarzen Rhombus.
+  - Zwei schwarze Bälle senkrecht übereinander.
+  correct: A
+- question: Wann müssen die Lichter von Fahrzeugen geführt oder gezeigt werden?
+  type: single
+  answers:
+  - Von Sonnenuntergang bis Sonnenaufgang und bei verminderter Sicht.
+  - Von Sonnenaufgang bis Sonnenuntergang und bei verminderter Sicht.
+  - Von abends 18:00 Uhr bis morgens 06:00 Uhr und bei verminderter Sicht.
+  - Bei Dunkelheit, schlechtem Wetter und verminderter Sicht.
+  correct: A
+- question: Wozu dient die Lichterführung?
+  type: single
+  answers:
+  - Sie zeigt Fahrtrichtung und Lage eines Fahrzeugs an.
+  - Sie zeigt Kurs und Geschwindigkeit eines Fahrzeugs an.
+  - Sie zeigt Fahrtrichtung und Position eines Fahrzeugs an.
+  - Sie zeigt Fahrtrichtung und Kurs eines Fahrzeugs an.
+  correct: A
+- question: Was für eine Laterne kann ein Segelfahrzeug von weniger als 20 <abbr title="Meter">m</abbr>
+    Länge anstelle der Seitenlichter und des Hecklichtes führen?
+  type: single
+  answers:
+  - Eine Dreifarbenlaterne an oder nahe der Mastspitze.
+  - Eine Zweifarbenlaterne an gut sichtbarer Stelle.
+  - Eine Dreifarbenlaterne an gut sichtbarer Stelle.
+  - Eine Zweifarbenlaterne an oder nahe der Mastspitze.
+  correct: A
+- question: Welche Lichter muss ein Fahrzeug unter Segel, das gleichzeitig mit Maschinenkraft fährt, führen?
+  type: single
+  answers:
+  - Die für ein Maschinenfahrzeug vorgeschriebenen Lichter.
+  - Die für ein Segelfahrzeug vorgeschriebenen Lichter.
+  - Zwei rote Rundumlichter senkrecht übereinander.
+  - Seitenlichter rot und grün und ein rotes Rundumlicht.
+  correct: A
+- question: Was bedeuten auf einem stillliegenden Fahrzeug zwei weiße Lichter übereinander?
+  type: single
+  answers:
+  - Ein Ankerlieger, dessen Anker die Schifffahrt gefährden kann.
+  - Ein stillliegender Schubverband.
+  - Ein Ankerlieger, der zwei Anker ausgelegt hat.
+  - Ein Fahrzeug über 135 m.
+  correct: A
+- question: Welches Licht setzt ein stillliegendes Fahrzeug?
+  type: single
+  answers:
+  - Ein von allen Seiten sichtbares weißes Rundumlicht auf der Fahrwasserseite.
+  - Ein weißes Topplicht und ein weißes Hecklicht.
+  - Die Seitenlichter und ein sichtbares weißes Rundumlicht.
+  - Ein von allen Seiten sichtbares weißes Blinklicht auf der Fahrwasserseite.
+  correct: A
+- question: Wie sind Anker am Tage bezeichnet, die die Schifffahrt behindern können?
+  type: single
+  answers:
+  - Mit einem gelben Döpper.
+  - Mit einem weißen Döpper.
+  - Mit einem grünen Döpper.
+  - Mit einem roten Döpper.
+  correct: A
+- question: |-
+    Was bedeuten diese Lichter?
+
+    ![Bild zu Frage 120](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Lichter-Frage-120.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Fahrzeug mit Maschinenantrieb länger als 110 m.
+  - Schubverband kürzer als 110 m.
+  - Schubverband länger als 110 m.
+  - Fahrzeug ohne Maschinenantrieb länger als 110 m.
+  correct: A
+- question: |-
+    Was bedeutet dieses Sichtzeichen?
+
+    ![Bild zu Frage 121](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-004-Tag.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Schleppfahrzeug an der Spitze eines Schleppverbandes.
+  - Fahrzeug, das vor Anker liegt.
+  - Fahrzeuge mit Vorrang an einer Schleuse.
+  - Fahrzeug eines Schleppverbandes.
+  correct: A
+- question: |-
+    Was bedeutet dieses Sichtzeichen?
+
+    ![Bild zu Frage 122](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-006-Tag.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Fahrzeug eines Schleppverbandes.
+  - Fahrzeug, das vor Anker liegt.
+  - Fahrzeuge mit Vorrang an einer Schleuse.
+  - Schleppfahrzeug an der Spitze eines Schleppverbandes.
+  correct: A
+- question: |-
+    Was bedeuten diese Lichter?
+
+    ![Bild zu Frage 123](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Lichter-Frage-123.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Schubverband in Fahrt von vorne.
+  - Schubverband in Fahrt von achtern.
+  - Schubverband vor Anker liegend.
+  - Schubverband unter 110 m Länge.
+  correct: A
+- question: |-
+    Was bedeuten diese Lichter?
+
+    ![Bild zu Frage 124](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Lichter-Frage-124.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Nicht frei fahrende Fähre.
+  - Frei fahrende Fähre.
+  - Schubverband von achtern.
+  - Schubverband von Steuerbordseite.
+  correct: A
+- question: |-
+    Was bedeuten diese Lichter?
+
+    ![Bild zu Frage 125](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Lichter-Frage-125.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Frei fahrende Fähre.
+  - Nicht frei fahrende Fähre.
+  - Schubverband von achtern.
+  - Schubverband von Steuerbordseite.
+  correct: A
+- question: Was bedeutet auf einem Fahrzeug ein blaues Licht?
+  type: single
+  answers:
+  - Fahrzeug hat brennbare Stoffe geladen. Abstand beim Stillliegen 10 m.
+  - Fahrzeug hat gesundheitsschädliche Stoffe geladen. Abstand beim Stillliegen 50 m.
+  - Fahrzeug hat explosive Stoffe geladen. Abstand beim Stillliegen 100 m.
+  - Fahrzeug der Überwachungsbehörden im Einsatz.
+  correct: A
+- question: |-
+    Was bedeutet dieses Sichtzeichen?
+
+    ![Bild zu Frage 127](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-027a-Tag.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Fahrzeug hat brennbare Stoffe geladen, Abstand beim Stillliegen 10 m.
+  - Fahrzeug hat gesundheitsschädliche Stoffe geladen, Abstand beim Stillliegen 50 m.
+  - Fahrzeug hat explosive Stoffe geladen. Abstand beim Stillliegen 100 m.
+  - Fahrzeug der Überwachungsbehörden im Einsatz.
+  correct: A
+- question: Was bedeuten auf einem Fahrzeug zwei blaue Lichter übereinander?
+  type: single
+  answers:
+  - Fahrzeug hat gesundheitsschädliche Stoffe geladen, Abstand beim Stillliegen 50 m.
+  - Fahrzeug hat explosive Stoffe geladen, Abstand beim Stillliegen 100 m.
+  - Fahrzeug hat brennbare Stoffe geladen, Abstand beim Stillliegen 10 m.
+  - Fahrzeug der Überwachungsbehörden im Einsatz.
+  correct: A
+- question: |-
+    Was bedeutet dieses Sichtzeichen?
+
+    ![Bild zu Frage 129](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-028a-Tag.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Fahrzeug hat gesundheitsschädliche Stoffe geladen, Abstand beim Stillliegen 50 m.
+  - Fahrzeug hat explosive Stoffe geladen, Abstand beim Stillliegen 100 m.
+  - Fahrzeug hat brennbare Stoffe geladen, Abstand beim Stillliegen 10 m.
+  - Fahrzeug der Überwachungsbehörden im Einsatz.
+  correct: A
+- question: Was bedeuten auf einem Fahrzeug drei blaue Lichter übereinander?
+  type: single
+  answers:
+  - Fahrzeug hat explosive Stoffe geladen, Abstand beim Stillliegen 100 m.
+  - Fahrzeug hat gesundheitsschädliche Stoffe geladen, Abstand beim Stillliegen 50 m.
+  - Fahrzeug hat brennbare Stoffe geladen, Abstand beim Stillliegen 10 m.
+  - Fahrzeug der Überwachungsbehörden im Einsatz.
+  correct: A
+- question: |-
+    Was bedeutet dieses Sichtzeichen?
+
+    ![Bild zu Frage 131](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-029a-Tag.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Fahrzeug hat explosive Stoffe geladen, Abstand beim Stillliegen 100 m.
+  - Fahrzeug hat gesundheitsschädliche Stoffe geladen, Abstand beim Stillliegen 50 m.
+  - Fahrzeug hat brennbare Stoffe geladen, Abstand beim Stillliegen 10 m.
+  - Fahrzeug der Überwachungsbehörden im Einsatz.
+  correct: A
+- question: |-
+    Welches Fahrzeug führt die nachstehende Tagbezeichnung?
+
+    ![Bild zu Frage 132](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-037-Tag.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Ein Fahrzeug, dem die zuständige Behörde einen Vorrang zur Durchfahrt durch Stellen an denen eine
+    bestimmte Reihenfolge gilt eingeräumt hat.
+  - Fahrzeug unter 20 m Länge, für mehr als 12 Fahrgäste zugelassen.
+  - Geschlepptes Fahrzeug eines Schleppverbandes.
+  - Festgefahrenes Fahrzeug, das einseitig nicht passierbar ist.
+  correct: A
+- question: Ein Kleinfahrzeug unter Segel fährt nachts auf einer Binnenschifffahrtsstraße und führt ein
+    weißes Rundumlicht im Topp. Wie wird zweckmäßigerweise die weiße Handlampe, die bei Annäherung anderer
+    Fahrzeuge gezeigt werden muss, benutzt?
+  type: single
+  answers:
+  - Die eigenen Segel anleuchten.
+  - Das Wasser anleuchten.
+  - Das heranfahrende Fahrzeug anleuchten.
+  - Die Handlampe nach oben halten.
+  correct: A
+- question: Ein Kleinfahrzeug unter Segel fährt nachts auf einer Binnenschifffahrtsstraße und führt ein
+    weißes Rundumlicht im Topp. Welche zusätzlichen Lichter müssen gesetzt werden, wenn der Motor angeworfen
+    wird?
+  type: single
+  answers:
+  - Seitenlichter unmittelbar nebeneinander oder in einer einzigen Laterne.
+  - Es muss ein weißes Funkellicht geführt werden.
+  - Es muss kein weiteres Licht geführt werden.
+  - Es muss ein zweites weißes Topplicht geführt werden.
+  correct: A
+- question: Welche Lichter muss ein Kleinfahrzeug unter Motor führen, wenn es ein anderes Kleinfahrzeug
+    ohne Maschinenantrieb schleppt?
+  type: single
+  answers:
+  - Lichter eines Kleinfahrzeugs mit Maschinenantrieb.
+  - Zwei weiße Lichter übereinander.
+  - Weißes Rundumlicht.
+  - Lichter eines Kleinfahrzeugs mit Maschinenantrieb und ein zweites weißes Topplicht.
+  correct: A
+- question: Welche Lichter muss ein geschlepptes Kleinfahrzeug führen?
+  type: single
+  answers:
+  - Weißes Rundumlicht.
+  - Lichter eines Kleinfahrzeugs mit Maschinenantrieb.
+  - Zwei weiße Lichter übereinander.
+  - Weißes Funkellicht.
+  correct: A
+- question: Welchen Sichtwinkel und welche Farben haben die vorgeschriebenen Lichter an Bord?
+  type: single
+  answers:
+  - 'Topplicht: weiß 225°, Hecklicht 135° weiß, Seitenlichter: Backbord rot und Steuerbord grün, jeweils
+    112,5°.'
+  - 'Topplicht: weiß 135°, Hecklicht 225° weiß, Seitenlichter: Backbord rot und Steuerbord grün, jeweils
+    112,5°'
+  - 'Topplicht: weiß 225°, Hecklicht 112,5° weiß, Seitenlichter: Backbord rot und Steuerbord grün, jeweils
+    135°'
+  - 'Topplicht: weiß 112,5°, Hecklicht 225° weiß, Seitenlichter: Backbord rot und Steuerbord grün, jeweils
+    112,5°'
+  correct: A
+- question: Welches Licht muss ein Kleinfahrzeug ohne Maschinenantrieb mindestens führen?
+  type: single
+  answers:
+  - Ein von allen Seiten sichtbares weißes Licht.
+  - Dreifarbenlaterne im Topp.
+  - Seitenlichter.
+  - Topp- und Hecklicht.
+  correct: A
+- question: |-
+    Was bedeuten diese Lichter?
+
+    ![Bild zu Frage 145](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-051-Nacht.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an jeder Seite gestattet. Sog und Wellenschlag vermeiden.
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt nicht gestattet.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet. Sog und Wellenschlag
+    vermeiden.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.
+  correct: A
+- question: |-
+    Was bedeuten diese Sichtzeichen?
+
+    ![Bild zu Frage 146](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-051-Tag.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an jeder Seite gestattet. Sog und Wellenschlag vermeiden.
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt nicht gestattet.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet. Sog und Wellenschlag
+    vermeiden.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.
+  correct: A
+- question: |-
+    Was bedeuten diese Lichter?
+
+    ![Bild zu Frage 147](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-052-Nacht.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der rot-weißen Seite gestattet; rote Seite
+    gesperrt. Sog und Wellenschlag vermeiden.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der rot-weißen Seite gestattet; rote Seite
+    gesperrt. Vorbeifahrt mit unverminderter Geschwindigkeit möglich.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der roten Seite gestattet; rot-weiße Seite
+    gesperrt. Vorbeifahrt mit unverminderter Geschwindigkeit möglich.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der roten Seite gestattet; rot-weiße Seite
+    gesperrt. Sog und Wellenschlag vermeiden.
+  correct: A
+- question: |-
+    Was bedeuten diese Sichtzeichen?
+
+    ![Bild zu Frage 148](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-052-Tag.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der rot-weißen Seite gestattet; rote Seite
+    gesperrt. Sog und Wellenschlag vermeiden.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der rot-weißen Seite gestattet; rote Seite
+    gesperrt. Vorbeifahrt mit unverminderter Geschwindigkeit möglich.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der roten Seite gestattet; rot-weiße Seite
+    gesperrt. Vorbeifahrt mit unverminderter Geschwindigkeit möglich.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der roten Seite gestattet; rot-weiße Seite
+    gesperrt. Sog und Wellenschlag vermeiden.
+  correct: A
+- question: |-
+    Was bedeuten diese Lichter?
+
+    ![Bild zu Frage 149](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-050a-Nacht.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet; rote Seite gesperrt.
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet; rote Seite gesperrt.
+    Sog und Wellenschlag vermeiden.
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet. Vorbeifahrt an der roten
+    Seite mit unverminderter Geschwindigkeit möglich.
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der roten Seite gestattet; grüne Seite gesperrt.
+  correct: A
+- question: |-
+    Was bedeuten diese Sichtzeichen?
+
+    ![Bild zu Frage 150](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-050b-Tag.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet; rote Seite gesperrt.
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet; rote Seite gesperrt.
+    Sog und Wellenschlag vermeiden.
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet. Vorbeifahrt an der roten
+    Seite mit unverminderter Geschwindigkeit möglich.
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der roten Seite gestattet; grüne Seite gesperrt.
+  correct: A
+- question: |-
+    Was bedeuten im Fahrwasser nachstehende Zeichen?
+
+    ![Bild zu Frage 151](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-050a-Tag.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der Seite mit dem grün-weiß-grünen Tafelzeichen
+    gestattet; rot-weiß-rote Seite gesperrt.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Seite mit dem grün-weiß-grünen Tafelzeichen
+    gestattet; rot-weiß-rote Seite gesperrt. Sog und Wellenschlag vermeiden.
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der Seite mit dem grün-weiß-grünen Tafelzeichen
+    gestattet; rot-weiß-rote Seite gesperrt. Sog und Wellenschlag vermeiden.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Seite mit dem rot-weiß-roten Tafelzeichen
+    gestattet; grün-weiß-grüne Seite gesperrt.
+  correct: A
+- question: |-
+    Was bedeuten diese Lichter?
+
+    ![Bild zu Frage 152](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-049a-Nacht.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an jeder Seite gestattet.
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt nicht gestattet.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.
+  correct: A
+- question: |-
+    Was bedeuten diese Sichtzeichen?
+
+    ![Bild zu Frage 153](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-049b-Tag.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an jeder Seite gestattet.
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt nicht gestattet.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.
+  correct: A
+- question: |-
+    Was bedeuten diese Sichtzeichen?
+
+    ![Bild zu Frage 154](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-049a-Tag.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an jeder Seite gestattet.
+  - Schwimmendes Gerät bei der Arbeit. Vorbeifahrt nicht gestattet.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet. Sog und Wellenschlag
+    vermeiden.
+  - Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.
+  correct: A
+- question: |-
+    Was bedeutet diese Tag- und Nachtbezeichnung?
+
+    ![Bild zu Frage 155](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-03/Bild-058-Tag.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Schutzbedürftiges Fahrzeug, Vorbeifahrt in möglichst weitem Abstand, Geschwindigkeit vermindern, Sog
+    und Wellenschlag vermeiden.
+  - Ein festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.
+  - Ein festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an jeder Seite mit unverminderter Geschwindigkeit
+    gestattet.
+  - Schwimmende Anlage / Schwimmkörper. Vorbeifahrt in möglichst weitem Abstand, Geschwindigkeit vermindern,
+    Sog und Wellenschlag vermeiden.
+  correct: A
+- question: Ein Fahrzeug zeigt an der Steuerbordseite seines Ruderhauses eine blaue Tafel mit weißem Funkellicht.
+    Welche Bedeutung hat dieses Zeichen?
+  type: single
+  answers:
+  - Fahrzeuge begegnen sich an Steuerbord. Dieses Zeichen gilt nicht für Kleinfahrzeuge, verpflichtet
+    aber zu erhöhter Aufmerksamkeit.
+  - Fahrzeuge begegnen sich an Steuerbord. Dieses Zeichen gilt nur für Kleinfahrzeuge.
+  - Fahrzeuge begegnen sich an Steuerbord. Dieses Zeichen braucht gar nicht beachtet zu werden.
+  - Fahrzeuge begegnen sich an Steuerbord. Dieses Zeichen gilt auch für alle Kleinfahrzeuge.
+  correct: A
+- question: Ein Sportfahrzeug fährt hinter einem Fahrzeug, das nicht Kleinfahrzeug ist, in den Schleusenvorhafen
+    ein. Aus der Schleusenkammer kommt ein Fahrzeug, das an Steuerbord eine blaue Tafel mit einem weißen
+    Funkellicht zeigt. Was bedeutet dieses Zeichen?
+  type: single
+  answers:
+  - Das aus- und die einfahrenden Fahrzeuge passieren sich an der Steuerbordseite, das Kleinfahrzeug ist
+    nur zu erhöhter Aufmerksamkeit verpflichtet.
+  - Das aus- und die einfahrenden Fahrzeuge passieren sich an der Backbordseite, das Kleinfahrzeug ist
+    nur zu erhöhter Aufmerksamkeit verpflichtet.
+  - Das aus- und die einfahrenden Fahrzeuge passieren sich an der Steuerbordseite, das Kleinfahrzeug ist
+    wartepflichtig.
+  - Das aus- und die einfahrenden Fahrzeuge passieren sich an der Backbordseite, das Kleinfahrzeug hat
+    Vorrang.
+  correct: A
+- question: Welche Fahrzeuge in Fahrt führen nachts nur ein weißes Rundumlicht?
+  type: single
+  answers:
+  - Geschleppte oder längsseits gekuppelte Kleinfahrzeuge.
+  - Kleinfahrzeuge mit Maschinenantrieb unter 20 m Länge.
+  - Kleinfahrzeuge mit Maschinenantrieb und geschleppte Fahrzeuge.
+  - Fahrzeuge die geschoben werden.
+  correct: A
+- question: |-
+    Ein Kleinfahrzeug unter Segel kreuzt nachts das Fahrwasser. An Backbord tauchen die nachstehenden Lichter eines Fahrzeugs auf, das in spitzem Winkel den Kurs des Kleinfahrzeugs unter Segel kreuzen will. Was bedeuten diese Lichter?
+
+    ![Bild zu Frage 192](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Lichter-Frage-192.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Kleinfahrzeug mit Maschinenantrieb.
+  - Frei fahrende Fähre.
+  - Schubverband von vorne.
+  - Geschlepptes Kleinfahrzeug.
+  correct: A
+- question: |-
+    Ein Kleinfahrzeug unter Segel kreuzt nachts das Fahrwasser. An Backbord tauchen die nachstehenden Lichter eines Fahrzeugs auf, das in spitzem Winkel den Kurs des Kleinfahrzeugs unter Segel kreuzen will. Wer ist ausweichpflichtig?
+
+    ![Bild zu Frage 193](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Lichter-Frage-192.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Kleinfahrzeug mit Maschinenantrieb.
+  - Kleinfahrzeug unter Segel.
+  - Kleinfahrzeug, welches das Andere auf der Backbordseite hat.
+  - Beide sind ausweichpflichtig.
+  correct: A
+- question: Ein Kleinfahrzeug unter Segel und mit Maschinenantrieb kreuzt nachts stromauf. Ein Fahrzeug
+    kommt entgegen, das nur ein weißes Licht führt. Was bedeutet dieses Licht?
+  type: single
+  answers:
+  - Kleinfahrzeug ohne Maschinenantrieb.
+  - Kleinfahrzeug mit Maschinenantrieb.
+  - Kleinfahrzeug unter Segel.
+  - Kleinfahrzeug unter Segel mit Maschinenantrieb.
+  correct: A
+- question: Ein Kleinfahrzeug unter Segel kreuzt nachts im Fahrwasser. Von achtern kommt ein Fahrzeug,
+    das eine Zweifarbenlaterne und ein Topplicht führt. Was bedeuten diese Lichter?
+  type: single
+  answers:
+  - Kleinfahrzeug mit Maschinenantrieb.
+  - Kleinfahrzeug ohne Maschinenantrieb.
+  - Kleinfahrzeug unter Segel.
+  - Kleinfahrzeug unter Segel mit Maschinenantrieb.
+  correct: A
+- question: Welche Lichter führt ein Schubverband?
+  type: single
+  answers:
+  - Drei weiße Topplichter in einem Dreieck angebracht, die Seitenlichter und drei weiße Hecklichter waagerecht
+    nebeneinander.
+  - Drei weiße Topplichter senkrecht untereinander angebracht, die Seitenlichter und drei weiße Hecklichter
+    waagerecht nebeneinander.
+  - Drei weiße Topplichter in einem Dreieck angebracht, die Seitenlichter und zwei weiße Hecklichter waagerecht
+    nebeneinander.
+  - Drei weiße Topplichter waagerecht nebeneinander, die Seitenlichter und drei weiße Hecklichter waagerecht
+    nebeneinander.
+  correct: A
+- question: Welches Fahrzeug führt am Bug einen roten Wimpel?
+  type: single
+  answers:
+  - Ein Fahrzeug mit Vorrang beim Schleusen.
+  - Ein Fahrzeug mit Vorrang beim Be- und Entladen.
+  - Ein Fahrzeug, das explosive Stoffe geladen hat.
+  - Ein Fahrzeug, das brennbare Stoffe geladen hat.
+  correct: A
+- question: Welche Bedeutung hat die Bezeichnung eines Fahrzeuges mit einer rot-weißen Flagge und was
+    ist zu beachten?
+  type: single
+  answers:
+  - Schutzbedürftiges Fahrzeug, Geschwindigkeit vermindern und Sog und Wellenschlag vermeiden.
+  - Schutzbedürftiges Fahrzeug, Geschwindigkeit beibehalten und Sog und Wellenschlag vermeiden.
+  - Schutzbedürftiges Fahrzeug, Geschwindigkeit vermindern.
+  - Schutzbedürftiges Fahrzeug, Sog und Wellenschlag vermeiden.
+  correct: A

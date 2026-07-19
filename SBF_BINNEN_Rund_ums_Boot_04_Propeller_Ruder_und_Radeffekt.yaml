@@ -1,0 +1,83 @@
+- question: Wie verhält sich im Allgemeinen das Schiff im Rückwärtsgang bei einem rechtsdrehenden Propeller?
+  type: single
+  answers:
+  - Das Heck dreht nach Backbord.
+  - Das Heck dreht nach Steuerbord.
+  - Der Kurs des Schiffes ändert sich nicht.
+  - Der Bug dreht nach Backbord.
+  correct: A
+- question: Was ist unter einem rechtsdrehenden Propeller zu verstehen?
+  type: single
+  answers:
+  - Von achtern gesehen in Vorausfahrt Drehung des Propellers im Uhrzeigersinn.
+  - Von vorne gesehen in Vorausfahrt Drehung des Propellers im Uhrzeigersinn.
+  - Von achtern gesehen in Vorausfahrt Drehung des Propellers gegen den Uhrzeigersinn.
+  - Von vorne gesehen in Rückwärtsfahrt Drehung des Propellers gegen den Uhrzeigersinn.
+  correct: A
+- question: Was ist unter einem linksdrehenden Propeller zu verstehen?
+  type: single
+  answers:
+  - Von achtern gesehen in Vorausfahrt Drehung des Propellers gegen den Uhrzeigersinn.
+  - Von vorne gesehen in Vorausfahrt Drehung des Propellers gegen den Uhrzeigersinn.
+  - Von achtern gesehen in Vorausfahrt Drehung des Propellers im Uhrzeigersinn.
+  - Von vorne gesehen in Rückwärtsfahrt Drehung des Propellers im Uhrzeigersinn.
+  correct: A
+- question: Was ist unter der indirekten Ruderwirkung (Radeffekt) des Propellers zu verstehen?
+  type: single
+  answers:
+  - Das seitliche Versetzen des Hecks.
+  - Das Versetzen nach vorne.
+  - Das Versetzen nach hinten.
+  - Das seitliche Versetzen des Bugs.
+  correct: A
+- question: Weshalb ist die Kenntnis der Propellerdrehrichtung von Bedeutung?
+  type: single
+  answers:
+  - Sie hilft beim Manövrieren.
+  - Sie hilft beim Kurshalten.
+  - Sie hilft beim Überholen.
+  - Sie hilft beim Begegnen.
+  correct: A
+- question: Welche Anlegeseite ist mit rechtsdrehendem Propeller empfehlenswert und warum?
+  type: single
+  answers:
+  - Die Backbordseite - der Radeffekt zieht das Fahrzeug an die Pier.
+  - Die Steuerbordseite - der Radeffekt zieht das Fahrzeug an die Pier.
+  - Die Steuerbord- oder Backbordseite je nach Ruderlage.
+  - Es gibt keine empfehlenswerte Anlegeseite.
+  correct: A
+- question: Wodurch wird bei einem Fahrzeug mit Außenbordmotor und ohne Ruderanlage die Ruderwirkung erzielt?
+  type: single
+  answers:
+  - Durch Schraubenstrom und Richtung des Propellers.
+  - Durch Schraubenstrom und Anstellwinkel des Propellers.
+  - Durch den Schraubenwiderstand und Anstellwinkel des Propellers.
+  - Durch den Schraubenwiderstand und Richtung des Propellers.
+  correct: A
+- question: Weshalb setzt bei einem Fahrzeug mit Einbaumaschine und starrer Welle bei Aufnahme der Rückwärtsfahrt
+    die Ruderwirkung erst relativ spät ein?
+  type: single
+  answers:
+  - Weil sie erst mit Anströmung des Ruderblattes einsetzt.
+  - Weil sich durch den Radeffekt ein Unterdruck am Propeller entwickelt.
+  - Durch den Abstand von Propeller und Ruderblatt.
+  - Weil sich durch den Radeffekt ein Unterdruck am Ruder entwickelt.
+  correct: A
+- question: Der Motor ist gestartet worden. Was kann die Ursache sein, wenn nach dem Einkuppeln der Antriebswelle
+    der Motor stehenbleibt?
+  type: single
+  answers:
+  - Blockierter Propeller.
+  - Blockierte Kraftstoffzufuhr.
+  - Verschmutzter Ölfilter.
+  - Verschmutzter Luftfilter.
+  correct: A
+- question: Wodurch kann eine Pinnensteuerung auch bei Krängung des Bootes sicher erreicht und bedient
+    werden?
+  type: single
+  answers:
+  - Durch einen Pinnenausleger.
+  - Durch Verstellen des Travellers.
+  - Durch das Ausreiten mit Hilfe des Trapezes.
+  - Durch Ersetzen der Pinne durch ein Rad.
+  correct: A

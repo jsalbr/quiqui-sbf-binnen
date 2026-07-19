@@ -1,0 +1,53 @@
+- question: Wie wird die Schifffahrt vom Erreichen bestimmter Wasserstände und Hochwassermarken informiert?
+  type: single
+  answers:
+  - Durch Nautischen Informationsfunk, Information im Rundfunk, im Fernsehen und im Internet.
+  - Durch Aushang bei Hafenämtern und Schleusen.
+  - Durch Aushang bei Wasserschutzpolizei-Stationen.
+  - Durch Bekanntgaben der Hochwasserschutzzentrale.
+  correct: A
+- question: Wo kann der Sportbootfahrer vor Ort das Erreichen bestimmter Wasserstände und Hochwassermarken
+    feststellen?
+  type: single
+  answers:
+  - An den Pegeln und ausgewiesenen Hochwassermarken.
+  - An den Aushängen bei Hafenämtern und Schleusen.
+  - An den Aushängen bei Wasserschutzpolizei-Stationen.
+  - An den Pegeln und den Einsenkungsmarken der Fahrzeuge.
+  correct: A
+- question: Welche Auswirkungen kann das Erreichen der Hochwassermarke I für die Sportschifffahrt haben?
+  type: single
+  answers:
+  - Geschwindigkeitsbeschränkung und Fahrverbot für Fahrzeuge ohne Sprechfunk.
+  - Einstellung der Schifffahrt.
+  - Verbot der Schifffahrt bei Nacht und unsichtigem Wetter.
+  - Überholverbot und Fahrverbot für Fahrzeuge ohne Sprechfunk.
+  correct: A
+- question: Welche Auswirkungen hat das Erreichen der Hochwassermarke II für die Sportschifffahrt?
+  type: single
+  answers:
+  - Einstellung der Schifffahrt.
+  - Geschwindigkeitsbeschränkung und Fahrverbot für Fahrzeuge ohne Sprechfunk.
+  - Überholverbot und Fahrverbot für Fahrzeuge ohne Sprechfunk.
+  - Verbot der Schifffahrt bei Nacht und unsichtigem Wetter.
+  correct: A
+- question: Wie hat sich ein Schiffsführer bei Hochwasser zu verhalten?
+  type: single
+  answers:
+  - Er muss die Geschwindigkeit anpassen und soweit wie möglich in der Fahrwassermitte bleiben, gegebenenfalls
+    besondere Geschwindigkeitsbegrenzungen und Fahrtbeschränkungen beachten.
+  - Er muss die Geschwindigkeit anpassen und soweit wie möglich in seiner Fahrtrichtung rechts fahren,
+    gegebenenfalls besondere Geschwindigkeitsbegrenzungen und Fahrtbeschränkungen beachten.
+  - Er muss die Geschwindigkeit anpassen und soweit wie möglich in seiner Fahrtrichtung links fahren,
+    gegebenenfalls besondere Geschwindigkeitsbegrenzungen und Fahrtbeschränkungen beachten.
+  - Er muss die Geschwindigkeit anpassen und soweit wie möglich in der Fahrwassermitte bleiben, besondere
+    Geschwindigkeitsbegrenzungen und Fahrtbeschränkungen sind nicht zu beachten.
+  correct: A
+- question: Wie hat sich ein Schiffsführer bei Erreichen der Hochwassermarke II zu verhalten?
+  type: single
+  answers:
+  - Er hat die Fahrt unverzüglich einzustellen.
+  - Er hat die Geschwindigkeit anzupassen.
+  - Er hat das Fahrverbot für Fahrzeuge ohne Sprechfunk zu beachten.
+  - Er hat das Verbot der Schifffahrt bei Nacht zu beachten.
+  correct: A

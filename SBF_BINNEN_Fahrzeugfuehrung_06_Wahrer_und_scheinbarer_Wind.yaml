@@ -1,0 +1,68 @@
+- question: Woran kann wärend der Fahrt die Richtung des wahren Windes erkannt werden?
+  type: single
+  answers:
+  - An Flaggen oder anderen Anzeichen an Land.
+  - An der Zugrichtung von Wolken.
+  - An der Nationalflagge am Heck.
+  - An den Trimmfäden im Großsegel.
+  correct: A
+- question: Welcher Wind wird in Fahrt von Standern bzw. Verklickern angezeigt?
+  type: single
+  answers:
+  - Der scheinbare Wind.
+  - Der Fahrtwind.
+  - Der wahre Wind.
+  - Die Windrichtung.
+  correct: A
+- question: Wann kommen wahrer Wind und scheinbarer Wind auf einem segelnden Boot aus der gleichen Richtung?
+  type: single
+  answers:
+  - Auf Vorwindkurs.
+  - Auf Halbwindkurs.
+  - Auf Amwindkurs.
+  - Auf Raumschotkurs.
+  correct: A
+- question: Warum ist der scheinbare Wind auf einem Vorwindkurs schwächer als der wahre Wind?
+  type: single
+  answers:
+  - Der wahre Wind vermindert sich um den entgegenstehenden Fahrtwind.
+  - Der wahre Wind wird durch den Fahrtwind abgebremst.
+  - Der scheinbare Wind wird durch den Unterdruck am Segel entlang abgebremst.
+  - Der scheinbare Wind ist unabhängig von der Windrichtung immer schwächer als der wahre Wind.
+  correct: A
+- question: Warum ist der scheinbare Wind auf einem Kurs hoch am Wind stärker als der wahre Wind?
+  type: single
+  answers:
+  - Da sich auf diesem Kurs der wahre Wind und der Fahrtwind in Richtung und Stärke addieren.
+  - Da sich auf diesem Kurs eine Düse zwischen Fock- und Großsegel bildet, die den Wind verstärkt.
+  - Da der wahre Wind beim Amwindkurs stärker ist als bei raumen Kursen.
+  - Da der scheinbare Wind unabhängig von der Windrichtung immer stärker als der wahre Wind ist.
+  correct: A
+- question: Auf einem Amwindkurs wurde gerefft. Ein entgegenkommendes Boot gleichen Typs segelt ungerefft.
+    Wie lässt sich das erklären?
+  type: single
+  answers:
+  - Der scheinbare Wind ist auf Amwindkursen stärker, auf Raumschot- und Vorwindkursen schwächer als der
+    wahre Wind.
+  - Boote sind stabiler, wenn der Wind achterlicher einfällt.
+  - Der wahre Wind staut sich am Segel bei Raumschotkurs und ist deshalb schwächer.
+  - Bei Amwindkurs streicht der Wind am tragflächenartig gewölbten Segel entlang und wird dadurch beschleunigt.
+  correct: A
+- question: Warum raumt beim Einfallen einer Bö auf Amwindkurs der scheinbare Wind?
+  type: single
+  answers:
+  - Da der Fahrtwind zunächst gleich bleibt, der wahre Wind jedoch zunimmt, kommt der daraus resultierende
+    scheinbare Wind raumer.
+  - Da durch die Koreoliskraft der Wind auch seine Richtung ändert, wenn er stärker wird.
+  - Da durch den Trimm des Bootes sich der Kurs automatisch ändert, wenn der Wind zunimmt.
+  - Da die Windrichtung durch die Segelstellung beeinflusst wird, verändert sich auch der scheinbare Wind.
+  correct: A
+- question: Beim Einfallen einer Bö auf Amwindkurs raumt der scheinbare Wind. Welchen Nutzen kann auf
+    der Kreuz daraus gezogen werden?
+  type: single
+  answers:
+  - Mitluven, um weitere Höhe zu gewinnen.
+  - Abfallen, um maximale Höhe zu segeln.
+  - Segel etwas fieren, um die Bö in Krängung umzusetzen.
+  - Ein Spinnacker kann gesetzt werden.
+  correct: A

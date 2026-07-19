@@ -1,0 +1,60 @@
+- question: Was wird unter "Formstabilität" verstanden?
+  type: single
+  answers:
+  - Die Fähigkeit eines Schiffes, durch seine Rumpfform der Krängung entgegenzuwirken.
+  - Die Fähigkeit eines Schiffes, sich nach einer Kenterung wieder von selbst aufzurichten.
+  - Die Fähigkeit eines Schiffes beim Loslassen der Pinne den Kurs beizubehalten.
+  - Die Fähigkeit eines Schiffes über Jahre die Rumpfform auch bei starker Beanspruchung beizubehalten.
+  correct: A
+- question: Was wird unter "Gewichtsstabilität" verstanden?
+  type: single
+  answers:
+  - Die Fähigkeit eines Schiffes, durch seinen tief liegenden Ballast der Krängung entgegenzuwirken.
+  - Die Möglichkeit durch zusätzlichen Innenballast die Krängung zu verringern.
+  - Die Möglichkeit durch ein hohes Crewgewicht der Krängung entgegenzuwirken.
+  - Die Fähigkeit eines Schiffes, durch seine Rumpfform der Krängung entgegenzuwirken.
+  correct: A
+- question: Welche Boote sind vorwiegend "gewichtsstabil"?
+  type: single
+  answers:
+  - Kielyachten sind vorwiegend "gewichtsstabil".
+  - Jollen sind vorwiegend "gewichtsstabil".
+  - Katamarane sind vorwiegend "gewichtsstabil".
+  - Trimarane sind vorwiegend "gewichtsstabil".
+  correct: A
+- question: Welche Boote sind vorwiegend "formstabil"?
+  type: single
+  answers:
+  - Jollen sind vorwiegend "formstabil".
+  - Kielyachten sind vorwiegend "formstabil".
+  - Kimmkieler sind vorwiegend "formstabil".
+  - Kielschwertyachten sind vorwiegend "formstabil".
+  correct: A
+- question: Wodurch kann bei formstabilen Booten bei viel Wind die Stabilität erhöht werden?
+  type: single
+  answers:
+  - Durch Ausreiten <abbr title="beziehungsweise">bzw.</abbr> durch Benutzung der Trapezeinrichtung.
+  - Durch Verlagerung von Innenballast.
+  - Durch Umpumpen von Wasserballast.
+  - Durch Ausfahren von sogenannten Trimmklappen oder eines Zusatzschwertes.
+  correct: A
+- question: Wie verändert sich das aufrichtende Kraftmoment einer Jolle bei Krängung?
+  type: single
+  answers:
+  - Es nimmt anfangs zu bis zu einem Maximum, von da wieder ab, bis Auftriebs- und Gewischtsschwerpunkt
+    übereinander liegen, anschließend kentert die Jolle.
+  - Es nimmt anfangs ab bis zu einem Minimum, von da wieder zu, bis Auftriebs- und Gewichtsschwerpunkt
+    übereinander liegen, anschließend kentert die Jolle.
+  - Es nimmt anfangs ab und erreicht ein Maximum, wenn Auftriebs- und Gewichtsschwerpunkt übereinander
+    liegen, anschließend kentert die Jolle.
+  - Es nimmt anfangs ab und erreicht sein Minimum, bis Auftriebs- und Gewichtsschwerpunkt übereinander
+    liegen, anschließend kentert die Jolle.
+  correct: A
+- question: Wie verändert sich das aufrichtende Kraftmoment einer Kielyacht bei stetig zunehmender Krängung?
+  type: single
+  answers:
+  - Es nimmt zu und erreicht nach Überschreitung des Maximums seinen kritischen Winkel erst bei über 90°.
+  - Es nimmt bis zum Erreichen des kritischen Winkels zu, der bei etwa 70° liegt.
+  - Es nimmt bis zum Erreichen des kritischen Winkels von 90° ab.
+  - Es nimmt bis 90° Krängung ab und dann stetig zu.
+  correct: A

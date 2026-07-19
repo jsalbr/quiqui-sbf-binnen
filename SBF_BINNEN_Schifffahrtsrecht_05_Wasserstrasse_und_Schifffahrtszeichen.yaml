@@ -1,0 +1,147 @@
+- question: Was versteht man unter "Fahrwasser"?
+  type: single
+  answers:
+  - Den Teil der Wasserstraße, der den örtlichen Umständen nach vom durchgehenden Schiffsverkehr benutzt
+    wird.
+  - Es ist der Teil der Wasserstraße, der durch die Ufer begrenzt ist.
+  - Den Teil der Wasserstraße, in dem für den durchgehenden Schiffsverkehr bestimmte Breiten und Tiefen
+    vorgehalten bzw. angestrebt werden.
+  - Es ist der Teil der Wasserstraße, deren Tiefe bei 2,50 m und mehr beginnt.
+  correct: A
+- question: Was versteht man unter "Fahrrinne"?
+  type: single
+  answers:
+  - Es ist der Teil der Wasserstraße, in dem für den durchgehenden Schiffsverkehr bestimmte Breiten und
+    Tiefen vorgehalten bzw. angestrebt werden.
+  - Den Teil der Wasserstraße, der den örtlichen Umständen nach vom durchgehenden Schiffsverkehr benutzt
+    wird.
+  - Es ist der Teil der Wasserstraße, deren Breite mindestens 150 m und deren Tiefe mindestens 3,00 m
+    beträgt.
+  - Es ist der Teil der Wasserstraße, deren Breite mindestens 88 m und deren Tiefe mindestens 2,50 m beträgt.
+  correct: A
+- question: In welche Richtung werden bei Flüssen die Uferseiten als rechtes bzw. linkes Ufer bezeichnet?
+  type: single
+  answers:
+  - Von der Quelle bis zur Mündung.
+  - Von der Mündung bis zur Quelle.
+  - Bei der Bergfahrt liegt die rechte Uferseite rechts.
+  - Bei der Talfahrt liegt die rechte Uferseite links.
+  correct: A
+- question: Was bedeutet "zu Berg" oder "Bergfahrt" auf Flüssen?
+  type: single
+  answers:
+  - Die Fahrt in Richtung Quelle.
+  - Die Fahrt über Grund.
+  - Die Fahrt mit der Strömung.
+  - Die Fahrt in Richtung Mündung.
+  correct: A
+- question: Was bedeutet "zu Berg" oder "Bergfahrt" auf Kanälen?
+  type: single
+  answers:
+  - Die Fahrt, die in Teil II der Binnenschifffahrtsstraßen-Ordnung als Fahrt "zu Berg" oder "Bergfahrt"
+    festgelegt ist.
+  - Die Fahrt, die in Teil I der Binnenschifffahrtsstraßen-Ordnung als Fahrt "zu Berg" oder "Bergfahrt"
+    festgelegt ist.
+  - Die Fahrt in Richtung Quelle.
+  - Die Fahrt gegen die Strömung.
+  correct: A
+- question: Welche Zeichen begrenzen die Fahrrinne zum rechten Ufer?
+  type: single
+  answers:
+  - Rote Stumpftonnen oder Schwimmstangen.
+  - Grüne Spitztonnen oder Schwimmstangen.
+  - Rote Spierentonnen oder Schwimmstangen.
+  - Grüne Spierentonnen oder Schwimmstangen.
+  correct: A
+- question: Welche Zeichen begrenzen die Fahrrinne zum linken Ufer?
+  type: single
+  answers:
+  - Grüne Spitztonnen oder Schwimmstangen.
+  - Rote Stumpftonnen oder Schwimmstangen.
+  - Rote Spierentonnen oder Schwimmstangen.
+  - Grüne Spierentonnen oder Schwimmstangen.
+  correct: A
+- question: Welche Fahrrinnenseite hat ein Bergfahrer an seiner Steuerbordseite und wie ist diese gekennzeichnet?
+  type: single
+  answers:
+  - Die linke Fahrrinnenseite, gekennzeichnet durch grüne Spitztonnen oder Schwimmstangen.
+  - Die rechte Fahrrinnenseite, gekennzeichnet durch rote Stumpftonnen oder Schwimmstangen.
+  - Die linke Fahrrinnenseite, gekennzeichnet durch rote Stumpftonnen oder Schwimmstangen.
+  - Die rechte Fahrrinnenseite, gekennzeichnet durch grüne Spitztonnen oder Schwimmstangen.
+  correct: A
+- question: Was bedeutet eine rot-grün gestreifte Tonne oder Schwimmstange und was ist zu beachten?
+  type: single
+  answers:
+  - Fahrrinnenspaltung. Vorbeifahrt an beiden Seiten möglich.
+  - Fahrrinnenspaltung. In Fahrtrichtung links halten.
+  - Fahrrinnenspaltung. Vorbeifahrt nur an Steuerbord möglich.
+  - Fahrrinnenspaltung. In Fahrtrichtung rechts halten.
+  correct: A
+- question: Mit welchen Zeichen werden Hindernisse wie zum Beispiel Buhnen und Kribben an der rechten
+    Seite der Wasserstraße bezeichnet?
+  type: single
+  answers:
+  - 'Stangen mit Toppzeichen: roter Kegel, Spitze nach unten, oder rot-weiß gestreifte Schwimmstange mit
+    rotem Zylinder.'
+  - 'Stangen mit Toppzeichen: grüner Kegel, Spitze nach oben, oder grün-weiß gestreifte Schwimmstange
+    mit grünem Kegel.'
+  - 'Stangen mit Toppzeichen: roter Kegel, Spitze nach oben, oder rot-weiß gestreifte Schwimmstange mit
+    rotem Zylinder.'
+  - 'Stangen mit Toppzeichen: grüner Kegel, Spitze nach unten, oder grün-weiß gestreifte Schwimmstange
+    mit grünem Kegel.'
+  correct: A
+- question: Was kennzeichnet eine grün-weiß gestreifte Schwimmstange mit grünem Kegel, Spitze nach oben,
+    oder eine grüne Tonne mit grün-weiß gestreiftem Aufsatz mit grünem Kegel, Spitze nach oben?
+  type: single
+  answers:
+  - Hindernis an der linken Seite der Wasserstraße.
+  - Fahrrinnenrand an der linken Seite der Wasserstraße.
+  - Hindernis an der rechten Seite der Wasserstraße.
+  - Fahrrinnenrand an der rechten Seite der Wasserstraße.
+  correct: A
+- question: Welche Fahrrinnenseite hat ein Talfahrer an seiner Backbordseite?
+  type: single
+  answers:
+  - Die linke Fahrrinnenseite, gekennzeichnet durch grüne Spitztonnen oder Schwimmstangen.
+  - Die rechte Fahrrinnenseite, gekennzeichnet durch rote Stumpftonnen oder Schwimmstangen.
+  - Die linke Fahrrinnenseite, gekennzeichnet durch rote Stumpftonnen oder Schwimmstangen.
+  - Die rechte Fahrrinnenseite, gekennzeichnet durch grüne Spitztonnen oder Schwimmstangen.
+  correct: A
+- question: Ein Fahrzeug fährt zu Tal. Voraus liegt eine rote Tonne. Auf welcher Fahrrinnenseite befindet
+    sich diese Tonne und an welcher Schiffsseite muss diese Tonne passiert werden?
+  type: single
+  answers:
+  - Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert
+    werden.
+  - Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert
+    werden.
+  - Sie befindet sich auf der linken Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert
+    werden.
+  - Sie befindet sich auf der linken Fahrrinnenseite und muss an Backbordseite des Schiffes passiert werden.
+  correct: A
+- question: Ein Fahrzeug fährt zu Berg. Voraus liegt eine rote Tonne. Auf welcher Fahrrinnenseite befindet
+    sich diese Tonne und an welcher Schiffsseite muss diese Tonne passiert werden?
+  type: single
+  answers:
+  - Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert
+    werden.
+  - Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert
+    werden.
+  - Sie befindet sich auf der linken Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert
+    werden.
+  - Sie befindet sich auf der linken Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert
+    werden.
+  correct: A
+- question: Ein Fahrzeug fährt in der Fahrrinne gegen den Strom. Voraus liegt eine grüne Tonne. Auf welcher
+    Fahrrinnenseite befindet sich diese Tonne und an welcher Schiffsseite muss diese Tonne passiert werden?
+  type: single
+  answers:
+  - Sie befindet sich auf der linken Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert
+    werden.
+  - Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert
+    werden.
+  - Sie befindet sich auf der linken Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert
+    werden.
+  - Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert
+    werden.
+  correct: A

@@ -1,0 +1,55 @@
+- question: |-
+    Welche Bedeutung haben folgende Tafelzeichen?
+
+    ![Bild zu Frage 25](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Hinweiszeichen-E17.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Wasserflächen, auf denen mit Wasserski oder Wassermotorrädern gefahren werden darf.
+  - Genehmigungspflichtige Übungsstrecke für das Fahren mit Wasserski oder Wassermotorrädern.
+  - Fahren mit Wasserski oder Wassermotorrädern erlaubt. Wasserskiläufer und Wassermotorräder haben Vorfahrt.
+  - Genehmigungsfreie Übungsstrecke für das Fahren mit Wasserski oder Wassermotorrädern.
+  correct: A
+- question: Wo darf auf Binnenschifffahrtsstraßen Wasserski gelaufen werden?
+  type: single
+  answers:
+  - Nur in durch Tafelzeichen freigegebenen Bereichen.
+  - Außerhalb des Fahrwassers.
+  - Außerhalb der Fahrrinne.
+  - Überall, ohne die Schifffahrt zu gefährden.
+  correct: A
+- question: Zu welcher Tageszeit und bei welchen Sichtweiten darf auf den erlaubten Gewässerabschnitten
+    Wasserski gelaufen werden?
+  type: single
+  answers:
+  - Sonnenaufgang bis -untergang, Sicht 1 000 m und mehr.
+  - Sonnenaufgang bis -untergang, Sicht 1 500 m und mehr.
+  - Sonnenaufgang bis -untergang, Sicht 500 m und mehr.
+  - Sonnenaufgang bis -untergang, Sicht 300 m und mehr.
+  correct: A
+- question: Wie muss sich der Wasserskiläufer bei der Vorbeifahrt an Fahrzeugen, Schwimmkörpern oder Badenden
+    verhalten?
+  type: single
+  answers:
+  - Er muss im Kielwasser des Zugbootes bleiben.
+  - Er darf bis zu 10 m beiderseits außerhalb des Kielwassers fahren.
+  - Er darf bis zu 5 m beiderseits außerhalb des Kielwassers fahren.
+  - Er muss uferseitig des Kielwassers fahren.
+  correct: A
+- question: Unter welchen Voraussetzungen darf außerhalb der ausgewiesenen Strecken/Wasserflächen Wassermotorrad
+    gefahren werden?
+  type: single
+  answers:
+  - Bei Touren- und Wanderfahrten mit klarem Geradeauskurs.
+  - Bei großen Sonderveranstaltungen außerhalb der Fahrrinne.
+  - Wenn kein anderer Verkehrsteilnehmer behindert wird.
+  - Ab Hochwassermarke I nur im Fahrwasser.
+  correct: A
+- question: Wie hat sich der Führer eines Wassermotorrades außerhalb der ausgewiesenen Strecken/Wasserflächen
+    zu verhalten?
+  type: single
+  answers:
+  - Klaren Geradeauskurs fahren.
+  - Im Abstand von 10 m zum Ufer fahren.
+  - Im Abstand von 10 m außerhalb des Tonnenstrichs fahren.
+  - Am Rande der Fahrrinne fahren.
+  correct: A

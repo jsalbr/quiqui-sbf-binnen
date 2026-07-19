@@ -1,0 +1,151 @@
+- question: Welcher Feuerlöscher ist für Sportboote zweckmäßig und wie oft muss man einen Feuerlöscher
+    überprüfen lassen?
+  type: single
+  answers:
+  - <abbr title="universelles Löschmittel für alle häufiger auftretenden Brandklassen">ABC</abbr>-Pulver-
+    und Schaumlöscher, mindestens alle 2 Jahre.
+  - Feuerlöscher mit Löschschaum, mindestens einmal pro Jahr.
+  - <abbr title="Kohlendioxid">CO<sub>2</sub></abbr>-Feuerlöscher, mindestens alle 2 Jahre.
+  - ABC-Pulverlöscher, mindestens einmal pro Jahr.
+  correct: A
+- question: Welche Maßnahmen muss man ergreifen, um einen Brand mit dem Feuerlöscher wirksam zu bekämpfen?
+  type: single
+  answers:
+  - Luftzufuhr verhindern, Feuerlöscher erst am Brandherd einsetzen und das Feuer möglichst von unten
+    bekämpfen.
+  - Rauchabzug sicherstellen und Feuerlöscher rechtzeitig einsetzen, dabei den Löschstrahl möglichst in
+    die lodernden Flammen halten.
+  - Luftzufuhr verhindern und den Feuerlöscher mit sparsamen Löschstrahlstößen einsetzen, dabei das Feuer
+    möglichst von oben bekämpfen.
+  - Handhabungshinweise durchlesen und den Feuerlöscher sofort einsetzen, dabei das Feuer möglichst von
+    unten bekämpfen.
+  correct: A
+- question: Wie hat man sich nach einem Zusammenstoß zu verhalten?
+  type: single
+  answers:
+  - Hilfe leisten und so lange am Unfallort bleiben, bis ein weiterer Beistand nicht mehr erforderlich
+    ist; alle erforderlichen Daten austauschen.
+  - Hilfe leisten und so lange am Unfallort bleiben, bis ein weiterer Beistand nicht mehr erforderlich
+    ist; die Wasserschutzpolizei benachrichtigen.
+  - Hilfe leisten und so lange am Unfallort bleiben, bis ein weiterer Beistand nicht mehr erforderlich
+    ist; Notsignal geben.
+  - Hilfe leisten und so lange am Unfallort bleiben, bis ein weiterer Beistand nicht mehr erforderlich
+    ist; Verschlusszustand herstellen.
+  correct: A
+- question: In welcher Situation dürfen Notsignale gegeben werden?
+  type: single
+  answers:
+  - Wenn Gefahr für Leib oder Leben von Personen besteht und daher Hilfe benötigt wird.
+  - Wenn Gefahr für Leib oder Leben von Personen besteht oder das Schiff nicht mehr sicher manövriert
+    werden kann.
+  - Wenn Gefahr für Leib oder Leben von Personen oder erhebliche Sachwerte besteht und daher Hilfe benötigt
+    wird.
+  - Wenn Gefahr für Leib oder Leben von Personen, erhebliche Sachwerte oder die maritime Umwelt besteht.
+  correct: A
+- question: Welche Maßnahmen sind zu treffen, wenn das Fahrzeug innerhalb des Fahrwassers bzw der Fahrrinne
+    Grundberührung hat?
+  type: single
+  answers:
+  - Die Wasserstraßen- und Schifffahrtsverwaltung oder die Wasserschutzpolizei ist mit genauer Angabe
+    der Hindernisstelle zu benachrichtigen.
+  - Die Wasserschutzpolizei oder die Wasserstraßen- und Schifffahrtsverwaltung ist mit genauer Angabe
+    der Schiffsdaten zu informieren.
+  - Das Fahrzeug verbleibt vor Ort bis die Wasserschutzpolizei eintrifft.
+  - Ein Baggerunternehmen ist zu verständigen, damit das Hindernis beseitigt wird.
+  correct: A
+- question: Was ist vorrangig zu beachten, wenn eine Jolle gekentert ist und sie nicht wieder aufgerichtet
+    werden kann?
+  type: single
+  answers:
+  - Vollständigkeit der Crew überprüfen, gegebenenfalls Hilfe leisten. Am Boot festhalten oder gegebenenfalls
+    aufs Boot legen, Hilfe abwarten.
+  - Sofort vorgeschriebene Notsignale geben, mit allen Mitteln versuchen, das Fahrzeug aus dem Fahrwasser
+    zu bringen.
+  - Auf das gekenterte Boot steigen und sich ruhig verhalten, um Wärmeverlust zu minimieren. Sollte das
+    nicht möglich sein, ans benachbarte Ufer schwimmen und Hilfe holen.
+  - Rettungswesten anlegen und mit geeigneten Mitteln Hilfe herbeiholen. Gegebenenfalls Segel bergen.
+  correct: A
+- question: Welches Schallsignal ist zu geben, wenn in einer Notsituation Hilfe gebraucht wird?
+  type: single
+  answers:
+  - Wiederholte lange Töne geben oder Gruppen von Glockenschlägen.
+  - Wiederholte kurze Töne geben, keine Glockenschläge.
+  - Einen langen Ton geben, vereinzelt Glockenschläge.
+  - Drei kurze Töne geben, keine Glockenschläge.
+  correct: A
+- question: Welche Bedeutung hat am Tag das Kreisen einer roten Flagge auf einem Wasserfahrzeug?
+  type: single
+  answers:
+  - Ein in Not befindliches Fahrzeug, das durch Sichtzeichen Hilfe herbeirufen will.
+  - Ein manövrierbehindertes Fahrzeug, das durch Sichtzeichen Hilfe herbeirufen will.
+  - Keine Bedeutung für den durchgehenden Schiffsverkehr.
+  - Schützenswertes Fahrzeug, Vermeidung von Sog und Wellenschlag.
+  correct: A
+- question: Welche Notsignale kann ein Segelsurfer auf Binnenschifffahrtsstraßen geben?
+  type: single
+  answers:
+  - Kreisförmiges Schwenken der Arme oder eines Gegenstandes.
+  - Kreisförmiges Schwenken einer grünen Flagge, die mit anderen Zeichen nicht verwechselt werden kann.
+  - Wiederholt lange Gruppen von Glockenschlägen.
+  - Kreisförmiges Schwenken der Arme ist zu vermeiden, das Surfsegel ist möglichst senkrecht zu stellen.
+  correct: A
+- question: Welches optische Zeichen kann am Tage anstelle von vier kurzen Tönen gegeben werden?
+  type: single
+  answers:
+  - Eine rote Flagge im unteren Halbkreis schwenken.
+  - Eine rote Flagge im oberen Halbkreis schwenken.
+  - Eine rote Flagge im Kreis schwenken.
+  - Eine rote Flagge zeigen.
+  correct: A
+- question: Welches optische Zeichen kann in der Nacht oder bei verminderter Sicht anstelle von vier kurzen
+    Tönen gegeben werden?
+  type: single
+  answers:
+  - Ein rotes Licht im unteren Halbkreis schwenken.
+  - Ein rotes Licht im oberen Halbkreis schwenken.
+  - Ein rotes Licht im Kreis schwenken.
+  - Ein rotes Licht zeigen.
+  correct: A
+- question: Wodurch wirken die Bodenlenzventile einer Jolle, die unterhalb der Wasserlinie liegen?
+  type: single
+  answers:
+  - Durch den Sog, der bei Fahrt durchs Wasser entsteht.
+  - Durch die Schwerkraft fließt das Wasser außenbords.
+  - Durch die Massenträgheit, die das Boot besitzt.
+  - Durch das Druckgefälle zwischen Luft- und Wasserdruck.
+  correct: A
+- question: Welche Maßnahme ist bei Ruderbruch auf einer Jolle zu treffen?
+  type: single
+  answers:
+  - Notruder oder Paddel als Ersatz nehmen, Fahrwasser verlassen, sich als manövrierunfähig zu erkennen
+    geben.
+  - Sofort ankern und einen Notruf absetzen, Signalkörper (blauer Kegel) setzen.
+  - Rote Flagge kreisförmig schwenken, Schleppleine bereithalten.
+  - Segel bergen, Motor starten und in Rückwärtsfahrt das Ufer ansteuern.
+  correct: A
+- question: Ein Segelboot segelt am Wind, plötzlich bricht das Luvwant. Welches Manöver ist sinnvoll?
+  type: single
+  answers:
+  - Wende.
+  - Halse.
+  - Q-Wende.
+  - Aufschießer.
+  correct: A
+- question: Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht
+    das Vorstag. Was ist sofort zu unternehmen?
+  type: single
+  answers:
+  - Abfallen auf Vorwindkurs.
+  - Dichtholen und Anluven.
+  - Einen Aufschießer fahren.
+  - Eine Halse fahren.
+  correct: A
+- question: Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht
+    das Vorstag. Womit kann das gebrochene Vorstag schnell provisorisch ersetzt werden?
+  type: single
+  answers:
+  - Durch die Fock oder ein Fall.
+  - Durch die Fockschot oder das Großfall.
+  - Durch die Vor- oder die Achterleine.
+  - Durch die Fockschot oder eine Reffleine.
+  correct: A

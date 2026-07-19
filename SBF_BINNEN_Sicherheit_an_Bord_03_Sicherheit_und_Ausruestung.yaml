@@ -1,0 +1,68 @@
+- question: Wie oft muss man aufblasbare Rettungsmittel warten lassen?
+  type: single
+  answers:
+  - Entsprechend der Herstellerangabe, mindestens alle 2 Jahre.
+  - Jährlich und nach jedem Einsatz oder Übungsgebrauch.
+  - Entsprechend der Herstellerangabe, mindestens alle 3 Jahre.
+  - Jährlich, jeweils vor Beginn der Wassersportsaison.
+  correct: A
+- question: Welcher Feuerlöscher ist für Sportboote zweckmäßig und wie oft muss man einen Feuerlöscher
+    überprüfen lassen?
+  type: single
+  answers:
+  - <abbr title="universelles Löschmittel für alle häufiger auftretenden Brandklassen">ABC</abbr>-Pulver-
+    und Schaumlöscher, mindestens alle 2 Jahre.
+  - Feuerlöscher mit Löschschaum, mindestens einmal pro Jahr.
+  - <abbr title="Kohlendioxid">CO<sub>2</sub></abbr>-Feuerlöscher, mindestens alle 2 Jahre.
+  - ABC-Pulverlöscher, mindestens einmal pro Jahr.
+  correct: A
+- question: Welche Maßnahmen muss man ergreifen, um einen Brand mit dem Feuerlöscher wirksam zu bekämpfen?
+  type: single
+  answers:
+  - Luftzufuhr verhindern, Feuerlöscher erst am Brandherd einsetzen und das Feuer möglichst von unten
+    bekämpfen.
+  - Rauchabzug sicherstellen und Feuerlöscher rechtzeitig einsetzen, dabei den Löschstrahl möglichst in
+    die lodernden Flammen halten.
+  - Luftzufuhr verhindern und den Feuerlöscher mit sparsamen Löschstrahlstößen einsetzen, dabei das Feuer
+    möglichst von oben bekämpfen.
+  - Handhabungshinweise durchlesen und den Feuerlöscher sofort einsetzen, dabei das Feuer möglichst von
+    unten bekämpfen.
+  correct: A
+- question: Wie muss ein Fahrzeug ausgerüstet sein, um bei unsichtigem Wetter zu fahren?
+  type: single
+  answers:
+  - Mit einer für die Binnenschifffahrt zugelassenen funktionsfähigen Radaranlage und einer Sprechfunkanlage
+    für den Binnenschifffahrtsfunk.
+  - Mit einer für die Binnenschifffahrt zugelassenen funktionsfähigen Radaranlage und einer Sprechfunkanlage
+    ohne <span lang="en-GB"><abbr title="Automatic Transmitter Identification System">ATIS</abbr></span>.
+  - Mit einer für die Binnenschifffahrt zugelassenen funktionsfähigen Radaranlage und einer Sprechfunkanlage
+    für den Seefunkdienst.
+  - Mit einer Radaranlage ohne Wendeanzeiger und einer Sprechfunkanlage für den Binnenschifffahrtsfunk.
+  correct: A
+- question: Was ist zu beachten, wenn während der Fahrt unsichtiges Wetter eintritt?
+  type: single
+  answers:
+  - Auf bestimmten Wasserstraßen ist ohne Radar und Sprechfunk die Fahrt unverzüglich einzustellen.
+  - Auf allen Wasserstraßen ist ohne Radar und Sprechfunk die Fahrt unverzüglich einzustellen.
+  - Auf bestimmten Wasserstraßen ist ohne Radar und AIS-- die Fahrt unverzüglich einzustellen.
+  - Auf allen Wasserstraßen ist ohne Radar und <span lang="en-GB"><abbr title="Electronic Chart Display
+    and Information System">ECDIS</abbr></span> die Fahrt unverzüglich einzustellen.
+  correct: A
+- question: Welchen Vorteil bietet ein Radarreflektor auf einem Sportboot?
+  type: single
+  answers:
+  - Bessere Erkennbarkeit des Sportbootes auf Radarbildschirmen.
+  - Bessere Erkennbarkeit des Sportbootes bei Nacht.
+  - Bessere Erkennbarkeit des Sportbootes bei Taglicht.
+  - Bessere Erkennbarkeit des Sportbootes bei unsichtigem Wetter.
+  correct: A
+- question: Welcher Befähigungsnachweis ist zur Teilnahme am Binnenschifffahrtsfunk erforderlich?
+  type: single
+  answers:
+  - Das <abbr title="Ultrakurzwellen">UKW</abbr>-Sprechfunkzeugnis für den Binnenschifffahrtsfunk.
+  - Das <span lang="en-GB"><abbr title="Citizens’ Band Radio">CB</abbr></span>-Sprechfunkzeugnis für den
+    Binnenschifffahrtsfunk.
+  - Das Seefunkzeugnis für den Binnenschifffahrtsfunk.
+  - Das <span lang="en-GB"><abbr title="Short Range Certificate">SRC</abbr></span>-Sprechfunkzeugnis für
+    den Binnenschifffahrtsfunk.
+  correct: A

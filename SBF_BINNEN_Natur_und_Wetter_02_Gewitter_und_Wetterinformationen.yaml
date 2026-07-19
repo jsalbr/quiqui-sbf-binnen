@@ -1,0 +1,9 @@
+- question: Was ist bei Sturmwarnung vom Schiffsführer eines Sportbootes unter Segel auf einem größeren
+    Gewässer zu veranlassen?
+  type: single
+  answers:
+  - Rettungsweste anlegen. Segel bergen, versuchen einen Hafen oder eine geschützte Bucht anzulaufen.
+  - Rettungsweste anlegen. Alle Segel setzen, versuchen, einen Hafen oder eine geschützte Bucht anzulaufen.
+  - Rettungsweste bereit halten. Segel bergen, versuchen, einen Hafen oder eine geschützte Bucht anzulaufen.
+  - Rettungsweste anlegen. Segel setzen, versuchen die Gewässermitte anzulaufen.
+  correct: A

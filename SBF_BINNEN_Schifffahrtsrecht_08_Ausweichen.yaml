@@ -1,0 +1,222 @@
+- question: Wie weichen zwei Motorboote aus, die sich auf entgegengesetzten Kursen nähern?
+  type: single
+  answers:
+  - Jedes Fahrzeug muss seinen Kurs nach Steuerbord ändern.
+  - Jedes Fahrzeug muss seinen Kurs nach Backbord ändern.
+  - Es muss das luvwärtige Fahrzeug dem leewärtigen Fahrzeug ausweichen.
+  - Es muss das leewärtige Fahrzeug dem luvwärtigen Fahrzeug ausweichen.
+  correct: A
+- question: Zwei Motorboote nähern sich auf kreuzenden Kursen. Es besteht die Gefahr eines Zusammenstoßes.
+    Wer ist ausweichpflichtig?
+  type: single
+  answers:
+  - Dasjenige Fahrzeug muss ausweichen, welches das Andere an seiner Steuerbordseite hat.
+  - Dasjenige Fahrzeug muss ausweichen, welches das Andere an seiner Backbordseite hat.
+  - Es muss das luvwärtige Fahrzeug dem leewärtigen Fahrzeug ausweichen.
+  - Es muss das leewärtige Fahrzeug dem luvwärtigen Fahrzeug ausweichen.
+  correct: A
+- question: Wie muss sich ein Segelfahrzeug auf einer Binnenschifffahrtsstraße, welches sich auf Kollisionskurs
+    mit einem Kleinfahrzeug mit Maschinenantrieb befindet, verhalten?
+  type: single
+  answers:
+  - Es hält Kurs und Geschwindigkeit bei.
+  - Es wechselt den Kurs nach Steuerbord und reduziert die Geschwindigkeit.
+  - Es hält Kurs und reduziert die Geschwindigkeit.
+  - Es wechselt den Kurs nach Steuerbord und hält die Geschwindigkeit.
+  correct: A
+- question: Wie muss sich ein Fahrzeug mit Topplicht und Seitenlichtern gegenüber einem Kleinfahrzeug
+    mit Seitenlichtern, welches sich auf Kollisionskurs befindet, verhalten?
+  type: single
+  answers:
+  - Es hält Kurs und Geschwindigkeit bei.
+  - Es wechselt den Kurs nach Steuerbord und reduziert die Geschwindigkeit.
+  - Es hält Kurs und reduziert die Geschwindigkeit.
+  - Es muss ausweichen.
+  correct: A
+- question: Wie muss sich ein Kleinfahrzeug mit Maschinenantrieb gegenüber einem Segelsurfer, der auf
+    Kollisionskurs liegt, verhalten?
+  type: single
+  answers:
+  - Es muss ausweichen.
+  - Es hält Kurs und Geschwindigkeit bei.
+  - Es hält Kurs und reduziert die Geschwindigkeit.
+  - Es muss nicht ausweichen.
+  correct: A
+- question: Wer ist ausweichpflichtig, wenn ein Segler mit Wind von Backbord einer Segelyacht mit Wind
+    von Steuerbord und einem schwarzen Kegel auf Kollisionskurs begegnet?
+  type: single
+  answers:
+  - Die Segelyacht mit Wind von Steuerbord, weil sie als Kleinfahrzeug mit Maschinenantrieb gilt.
+  - Die Segelyacht mit Wind von Backbord, weil sie als Kleinfahrzeug unter Segel gilt.
+  - Die Segelyacht mit Wind von Steuerbord, weil sie als Kleinfahrzeug unter Segel gilt.
+  - Beide Segelyachten, weil eines als Kleinfahrzeug mit Maschinenantrieb gilt und das andere den Wind
+    von Backbord hat.
+  correct: A
+- question: Wie lautet eine der drei Grundregeln der Binnenschifffahrtsstraßen-Ordnung, nach denen Kleinfahrzeuge
+    unter Segel einander ausweichen?
+  type: single
+  answers:
+  - Wenn sie den Wind nicht von derselben Seite haben, muss das Segelfahrzeug mit Wind von Backbord dem
+    Segelfahrzeug mit Wind von Steuerbord ausweichen.
+  - Wenn sie den Wind nicht von derselben Seite haben, muss das Segelfahrzeug mit Wind von Steuerbord
+    dem Segelfahrzeug mit Wind von Backbord ausweichen.
+  - Wenn sie den Wind von derselben Seite haben, muss das leeseitige dem luvseitigen ausweichen.
+  - Wenn sie den Wind von derselben Seite haben, müssen beide Fahrzeuge ausweichen.
+  correct: A
+- question: Wann besteht die Gefahr eines Zusammenstoßes?
+  type: single
+  answers:
+  - Wenn sich zwei Fahrzeuge bei gleichbleibender Peilung einander nähern.
+  - Wenn sich zwei Fahrzeuge einander nähern und sich der Kurs der Fahrzeuge nicht ändert.
+  - Wenn sich zwei Fahrzeuge einander nähern und sich der Kurs eines Fahrzeuges ändert.
+  - Wenn sich zwei Fahrzeuge einander nähern und beide Fahrzeuge ihren Kurs nach steuerbord ändern.
+  correct: A
+- question: Wie müssen Ausweichmanöver durchgeführt werden?
+  type: single
+  answers:
+  - Rechtzeitig, klar erkennbar und entschlossen.
+  - Rechtzeitig, klar erkennbar und nach Steuerbord.
+  - Rechtzeitig, klar erkennbar und nach Backbord.
+  - Rechtzeitig, klar erkennbar und vorsichtig.
+  correct: A
+- question: Ein Kleinfahrzeug und ein Fahrzeug über 20 m Länge nähern sich auf kreuzenden Kursen. Es besteht
+    die Gefahr eines Zusammenstoßes. Wer ist ausweichpflichtig?
+  type: single
+  answers:
+  - Ausweichpflichtig ist das Kleinfahrzeug.
+  - Ausweichpflichtig ist das Fahrzeug über 20 m Länge.
+  - Ausweichpflichtig ist das Fahrzeug, welches das andere an seiner Steuerbordseite sieht.
+  - Ausweichpflichtig ist das Fahrzeug, welches das andere an seiner Backbordseite sieht.
+  correct: A
+- question: Wie muss sich ein kreuzendes Kleinfahrzeug unter Segel am Wind in der Nähe eines Ufers gegenüber
+    einem anderen Kleinfahrzeug verhalten?
+  type: single
+  answers:
+  - Es darf ein anderes Kleinfahrzeug, das sein steuerbordseitiges Ufer anhält, nicht zum Ausweichen zwingen.
+  - Es darf ein anderes Kleinfahrzeug, das sein steuerbordseitiges Ufer verlässt, nicht zum Ausweichen
+    zwingen.
+  - Es darf ein anderes Kleinfahrzeug, das sein backbordseitiges Ufer verlässt, zum Ausweichen zwingen.
+  - Es darf ein anderes Kleinfahrzeug, das sein steuerbordseitiges Ufer anhält, zum Ausweichen zwingen.
+  correct: A
+- question: |-
+    Wer ist ausweichpflichtig bzw. wer ist nicht ausweichpflichtig?
+
+    ![Bild zu Frage 180](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Bild-Frage-180.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Das Fahrzeug unter Segel ist ausweichpflichtig.
+  - Das Fahrzeug unter Segel ist nicht ausweichpflichtig.
+  - Das Fahrzeug unter Maschinenantrieb ist ausweichpflichtig.
+  - Beide Fahrzeuge sind ausweichpflichtig.
+  correct: A
+- question: Was hat der Schiffsführer eines Kleinfahrzeugs beim Begegnen mit Fahrzeugen, die nicht Kleinfahrzeuge
+    sind, zu beachten?
+  type: single
+  answers:
+  - Kleinfahrzeuge sind gegenüber Fahrzeugen, die nicht Kleinfahrzeuge sind, ausweichpflichtig. Sie müssen
+    für deren Kurs und zum Manövrieren notwendigen Raum lassen.
+  - Kleinfahrzeuge sind gegenüber anderen Fahrzeugen, die nicht Kleinfahrzeuge sind, nicht ausweichpflichtig.
+  - Kleinfahrzeuge sind gegenüber Fahrzeugen, die nicht Kleinfahrzeuge sind, bei der Begegnung gleichgestellt.
+  - Kleinfahrzeuge sind gegenüber Fahrzeugen, die nicht Kleinfahrzeuge sind, ausweichpflichtig. Sie brauchen
+    aber keinen besonderen Raum zum Manövrieren frei zu geben.
+  correct: A
+- question: Von Backbord kommend kreuzt ein Fahrzeug unter Segel mit einem schwarzen Kegel, Spitze nach
+    unten, den Kurs eines Fahrzeuges mit Maschinenantrieb. Wer ist ausweichpflichtig?
+  type: single
+  answers:
+  - Das Fahrzeug unter Segel mit einem schwarzen Kegel ist ausweichpflichtig.
+  - Das Fahrzeug ohne Segel ist ausweichpflichtig.
+  - Das Fahrzeug unter Segel mit einem schwarzen Kegel ist nicht ausweichpflichtig.
+  - Beide Fahrzeuge sind ausweichpflichtig.
+  correct: A
+- question: |-
+    Zwei Kleinfahrzeuge unter Segel A und B liegen auf Kollisionskurs; A führt einen schwarzen Kegel. Wer ist ausweichpflichtig?
+
+    ![Bild zu Frage 183](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Bild-Frage-183.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Fahrzeug A ist ausweichpflichtig.
+  - Fahrzeug B ist ausweichpflichtig.
+  - Ausweichpflichtig ist das Fahrzeug, welches das Andere an seiner Backbordseite sieht.
+  - Ausweichpflichtig ist das Fahrzeug, welches den Wind von Backbord hat.
+  correct: A
+- question: Ein Fahrzeug unter Segel kreuzt eine Binnenschifffahrtsstraße. In der Fahrwassermitte kommt
+    ihm ein Kleinfahrzeug mit Maschinenantrieb zu Berg entgegen. Wer ist ausweichpflichtig?
+  type: single
+  answers:
+  - Fahrzeug mit Maschinenantrieb.
+  - Fahrzeug in der Talfahrt.
+  - Fahrzeug unter Segel.
+  - Beide sind ausweichpflichtig.
+  correct: A
+- question: |-
+    Zwei Kleinfahrzeuge A und B unter Segel liegen auf Kollisionskurs (Skizze). Wer ist ausweichpflichtig?
+
+    ![Bild zu Frage 185](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Bild-Frage-185.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - A ist ausweichpflichtig. Segelfahrzeuge mit Wind von Backbord müssen Segelfahrzeugen mit Wind von
+    Steuerbord ausweichen.
+  - B ist ausweichpflichtig. Segelfahrzeuge mit Wind von Backbord müssen Segelfahrzeugen mit Wind von
+    Steuerbord ausweichen.
+  - A ist ausweichpflichtig. Segelfahrzeuge mit Wind von Steuerbord müssen Segelfahrzeugen mit Wind von
+    Backbord ausweichen.
+  - B ist ausweichpflichtig. Segelfahrzeuge mit Wind von Steuerbord müssen Segelfahrzeugen mit Wind von
+    Backbord ausweichen.
+  correct: A
+- question: |-
+    Zwei Kleinfahrzeuge unter Segel liegen auf Kollisionskurs. Wer ist ausweichpflichtig?
+
+    ![Bild zu Frage 186](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Bild-Frage-186.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - B ist ausweichpflichtig. Das luvseitige Boot muss dem leeseitigen ausweichen.
+  - A ist ausweichpflichtig. Das luvseitige Boot muss dem leeseitigen ausweichen.
+  - A ist ausweichpflichtig. Das leeseitige Boot muss dem luvseitigen ausweichen.
+  - B ist ausweichpflichtig. Das leeseitige Boot muss dem luvseitigen ausweichen.
+  correct: A
+- question: Ein Kleinfahrzeug A segelt nachts auf Vorwindkurs stromab, Großsegel an Steuerbord. Backbord
+    querab kommt ein grünes Seitenlicht eines Bootes B immer näher, das kein Topplicht führt. Wer ist
+    ausweichpflichtig?
+  type: single
+  answers:
+  - Das Kleinfahrzeug A ist ausweichpflichtig. Ein Boot mit Wind von Backbord muss ausweichen, wenn es
+    nicht klar ausmachen kann, ob das luvseitige Boot den Wind von Steuerbord hat.
+  - Das Kleinfahrzeug A ist ausweichpflichtig. Ein Boot mit Wind von Steuerbord muss ausweichen, wenn
+    es nicht klar ausmachen kann, ob das luvseitige Boot den Wind von Backbord hat.
+  - Boot B ist ausweichpflichtig, weil es sich bei Fahrzeug A um ein Kleinfahrzeug unter Segel handelt,
+    das den Wind von Backbord hat.
+  - Boot B ist ausweichpflichtig, weil es sich um ein Kleinfahrzeug handelt und Kleinfahrzeuge anderen
+    Kleinfahrzeugen unter Segel ausweichen müssen.
+  correct: A
+- question: |-
+    Der seitliche Abstand zwischen den Booten A, B und C verringert sich ständig. Welches Boot kann seinen Kurs beibehalten?
+
+    ![Bild zu Frage 188](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Bild-Frage-188.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Boot A, weil leeseitig.
+  - Boot A, weil luvseitig.
+  - Boot B, weil leeseitig.
+  - Boot C, weil leeseitig.
+  correct: A
+- question: |-
+    Wer ist wem gegenüber kurshaltepflichtig?
+
+    ![Bild zu Frage 189](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Bild-Frage-189.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - A gegenüber B und C, B gegenüber C.
+  - C gegenüber A und B, B gegenüber A.
+  - B gegenüber C und A, A gegenüber C.
+  - A gegenüber B und C, C gegenüber B.
+  correct: A
+- question: Ein Segelboot gerät in das Feld einer Segelregatta, ohne selbst Teilnehmer zu sein. Welche
+    Ausweichregeln sind zu beachten?
+  type: single
+  answers:
+  - Die der Binnenschifffahrtsstraßen-Ordnung.
+  - Die der Wettsegelbestimmungen.
+  - Gegenüber Regattateilnehmern, die der Wettfahrtregeln, gegenüber anderen Fahrzeugen die der Binnenschifffahrtsstraßen-Ordnung.
+  - Fahrzeuge, die an einer Regatta teilnehmen, müssen unbeteiligten Fahrzeugen ausweichen.
+  correct: A

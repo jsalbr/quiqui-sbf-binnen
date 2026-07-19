@@ -1,0 +1,42 @@
+- question: Warum sollte Tauwerk an Bord stets ordentlich aufgeschossen werden?
+  type: single
+  answers:
+  - Damit es im Gebrauchsfall klar liegt.
+  - Damit es trocknen kann und nicht verrottet.
+  - Damit die Reißfestigkeit erhalten bleibt.
+  - Damit es nicht durch <abbr title="Ultraviolett">UV</abbr>-Strahlung beschädigt wird.
+  correct: A
+- question: Warum sollten Fallen stets ordentlich aufgeschossen werden?
+  type: single
+  answers:
+  - Damit sie im Gebrauchsfall schnell und sicher gefiert werden können.
+  - Damit sie trocknen können und nicht verrotten.
+  - Damit sie nicht durch UV-Strahlung beschädigt werden.
+  - Damit sie nicht mit den Schoten verwechselt werden können.
+  correct: A
+- question: Ein Segelboot segelt am Wind, plötzlich bricht das Luvwant. Welches Manöver ist sinnvoll?
+  type: single
+  answers:
+  - Wende.
+  - Halse.
+  - Q-Wende.
+  - Aufschießer.
+  correct: A
+- question: Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht
+    das Vorstag. Was ist sofort zu unternehmen?
+  type: single
+  answers:
+  - Abfallen auf Vorwindkurs.
+  - Dichtholen und Anluven.
+  - Einen Aufschießer fahren.
+  - Eine Halse fahren.
+  correct: A
+- question: Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht
+    das Vorstag. Womit kann das gebrochene Vorstag schnell provisorisch ersetzt werden?
+  type: single
+  answers:
+  - Durch die Fock oder ein Fall.
+  - Durch die Fockschot oder das Großfall.
+  - Durch die Vor- oder die Achterleine.
+  - Durch die Fockschot oder eine Reffleine.
+  correct: A

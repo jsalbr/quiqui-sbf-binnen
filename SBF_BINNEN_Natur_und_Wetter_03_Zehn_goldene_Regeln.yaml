@@ -1,0 +1,59 @@
+- question: Welches Merkblatt enthält Hinweise für das Verhalten zum Schutz seltener Tiere und Pflanzen
+    sowie zur Reinhaltung der Gewässer?
+  type: single
+  answers:
+  - Die 10 goldenen Regeln für Wassersportler.
+  - Die 15 goldenen Regeln für Wassersportler.
+  - Die 10 Grundregeln für Wassersportler.
+  - Die 15 Verhaltensregeln für Wassersportler.
+  correct: A
+- question: Wie kann mitgeholfen werden, die Lebensmöglichkeiten der Pflanzen- und Tierwelt in Gewässern
+    und Feuchtgebieten zu bewahren und zu fördern?
+  type: single
+  answers:
+  - Durch umweltbewusstes Verhalten und Beachtung der "Zehn goldenen Regeln für das Verhalten von Wassersportlern
+    in der Natur".
+  - Durch umweltbewusstes Verhalten und Beachtung der "Zehn Grundregeln für den Wassersport".
+  - Durch umsichtiges Verhalten und Beachtung der Verkehrsvorschriften.
+  - Durch vorausschauendes Fahren und Ausweichen entsprechend der Verkehrsvorschriften.
+  correct: A
+- question: Warum sollte man sich von Schilf- und Röhrichtzonen sowie von dicht bewachsenen Uferzonen
+    möglichst weit fernhalten?
+  type: single
+  answers:
+  - Weil diese Zonen vielfach Rast- und Brutplätze besonders schutzwürdiger Vögel oder Fischlaichplätze
+    sind.
+  - Weil in diesen Zonen die Gefahr von Grundberührungen besteht.
+  - Weil durch die Pflanzen der Propeller blockiert werden könnte.
+  - Weil in diesen Zonen badende Personen schwer zu erkennen sind.
+  correct: A
+- question: Was ist mit Abfällen jeglicher Art zu tun, die an Bord anfallen?
+  type: single
+  answers:
+  - An Bord sammeln und an Land in den entsprechenden Abfallsammelbehältern umweltgerecht entsorgen.
+  - An Bord sammeln und bei einer Liegestelle an Land stellen.
+  - An Bord sammeln und nur in geschlossenen Behältern über Bord werfen.
+  - An Bord sammeln. Die Abgabe ist an jeder Schleuse möglich.
+  correct: A
+- question: Wie müssen Abfälle entsorgt werden?
+  type: single
+  answers:
+  - Es dürfen keinerlei Abfälle ins Wasser gelangen, Fäkalien und Öle sind an Land zu entsorgen.
+  - Nur Abfälle, die die Umwelt nicht gefährden, dürfen 300 m vom Ufer ins Wasser eingeleitet werden.
+  - Auf Seen dürfen keine Abfälle ins Wasser gelangen, auf Binnenschifffahrtsstraßen gibt es Sonderregelungen.
+  - Alle Schiffe müssen mit Fäkalientanks ausgerüstet sein und geeignete Behältnisse für die getrennte
+    Aufnahme von Abfällen an Bord haben.
+  correct: A
+- question: Was ist beim Neuanstrich des Unterwasserschiffs und bei der Entfernung des alten Anstrichs
+    zu beachten?
+  type: single
+  answers:
+  - Der Arbeitsbereich ist großzügig abzudecken und der anfallende Abfall ist als Sondermüll zu behandeln
+    und entsprechend zu entsorgen.
+  - Es dürfen nur Unterwasseranstriche verwendet werden, deren Umweltverträglichkeit an der <abbr title="Europäische
+    Union">EU</abbr>-Kennzeichnung erkenntlich ist.
+  - Es sind bei Arbeiten mit Unterwasseranstrichen die Richtlinien der Schiffsuntersuchungskommission
+    zu beachten.
+  - Unterwasserarbeiten dürfen nur von zertifizierten Fachbetrieben, nach den Bestimmungen des Umweltschutzes
+    ausgeführt werden.
+  correct: A

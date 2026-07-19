@@ -1,0 +1,151 @@
+- question: |-
+    Wie lang ist die Dauer eines kurzen Tons?
+
+    ![Bild zu Frage 4](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-06/EinkurzerTon.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Etwa 1 Sekunde.
+  - Etwa 2 Sekunden.
+  - Weniger als 1 Sekunde.
+  - Weniger als 4 Sekunden.
+  correct: A
+- question: |-
+    Wie lang ist die Dauer eines langen Tons?
+
+    ![Bild zu Frage 5](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-06/EinlangerTon.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Etwa 4 - 6 Sekunden.
+  - Etwa 2 - 6 Sekunden.
+  - Etwa 1 - 2 Sekunden.
+  - Etwa 6 - 8 Sekunden.
+  correct: A
+- question: |-
+    Welche Bedeutung hat folgendes Schallsignal?
+
+    ![Bild zu Frage 16](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Basisfragen/Schallzeichen-Frage-16.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Bleib-weg-Signal, Gefahrenbereich sofort verlassen.
+  - Allgemeines Gefahr- und Warnsignal.
+  - Ankerlieger über 100 m Länge.
+  - Manövrierbehinderter Schleppverband über 200 m Länge.
+  correct: A
+- question: Was bedeutet ein langer Ton?
+  type: single
+  answers:
+  - Achtung!
+  - Maschine geht rückwärts.
+  - Fahrzeug ist manövrierunfähig.
+  - Überholen nicht möglich.
+  correct: A
+- question: Was bedeuten vier kurze Töne?
+  type: single
+  answers:
+  - Fahrzeug ist manövrierunfähig.
+  - Maschine geht rückwärts.
+  - Achtung!
+  - Überholen nicht möglich.
+  correct: A
+- question: Was bedeuten fünf kurze Töne?
+  type: single
+  answers:
+  - Überholen nicht möglich.
+  - Maschine geht rückwärts.
+  - Fahrzeug ist manövrierunfähig.
+  - Achtung!
+  correct: A
+- question: |-
+    Was bedeutet dieses Schallsignal?
+
+    ![Bild zu Frage 162](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Schallsignal-Frage-162.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Wenden über Steuerbord.
+  - Kursänderung über Steuerbord.
+  - Kursänderung nach Backbord.
+  - Wenden über Backbord.
+  correct: A
+- question: |-
+    Was bedeutet dieses Schallsignal?
+
+    ![Bild zu Frage 163](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Schallsignal-Frage-163.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Wenden über Backbord.
+  - Wenden über Steuerbord.
+  - Kursänderung nach Backbord.
+  - Kursänderung nach Steuerbord.
+  correct: A
+- question: |-
+    Was bedeutet dieses Schallsignal?
+
+    ![Bild zu Frage 164](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Schallsignal-Frage-164.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Überholen an der Steuerbordseite des Vorausfahrenden.
+  - Überholen an der Backbordseite des Vorausfahrenden.
+  - Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Steuerbord.
+  - Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Backbord.
+  correct: A
+- question: |-
+    Was bedeutet dieses Schallsignal?
+
+    ![Bild zu Frage 165](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Schallsignal-Frage-165.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Überholen an der Backbordseite des Vorausfahrenden.
+  - Überholen an der Steuerbordseite des Vorausfahrenden.
+  - Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Steuerbord.
+  - Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Backbord.
+  correct: A
+- question: |-
+    Was bedeutet dieses Schallsignal?
+
+    ![Bild zu Frage 166](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Schallsignal-Frage-166.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Steuerbord.
+  - Überholen an der Backbordseite des Vorausfahrenden.
+  - Überholen an der Steuerbordseite des Vorausfahrenden.
+  - Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Backbord.
+  correct: A
+- question: |-
+    Was bedeutet dieses Schallsignal?
+
+    ![Bild zu Frage 167](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Schallsignal-Frage-167.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Backbord.
+  - Überholen an der Backbordseite des Vorausfahrenden.
+  - Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Steuerbord.
+  - Überholen an der Steuerbordseite des Vorausfahrenden.
+  correct: A
+- question: Was ist eine Folge sehr kurzer Töne?
+  type: single
+  answers:
+  - Eine Folge von mindestens 6 Tönen, von je etwa einer viertel Sekunde Dauer und mit je einer viertel
+    Sekunde Pause.
+  - Eine Folge von mindestens 4 Tönen von je etwa einer viertel Sekunde Dauer und mit je einer viertel
+    Sekunde Pause.
+  - Eine Folge von mindestens 2 Tönen von je etwa einer viertel Sekunde Dauer und mit je einer viertel
+    Sekunde Pause.
+  - Eine Folge von mindestens 8 Tönen von je etwa einer viertel Sekunde Dauer und mit je einer viertel
+    Sekunde Pause.
+  correct: A
+- question: Was bedeutet eine Folge sehr kurzer Töne?
+  type: single
+  answers:
+  - Gefahr eines Zusammenstoßes.
+  - Achtung!
+  - Fahrzeug ist manövrierunfähig.
+  - Überholen nicht möglich.
+  correct: A
+- question: Welche Schallsignale bzw. Zeichen sind zu geben, wenn das Boot manövrierunfähig geworden ist?
+  type: single
+  answers:
+  - Vier kurze Töne. Bei Tag eine rote Flagge, bei Nacht ein rotes Licht im unteren Halbkreis schwenken.
+  - Fünf kurze Töne. Bei Tag eine rote Flagge, bei Nacht ein rotes Licht im oberen Halbkreis schwenken.
+  - Ein langer, vier kurze Töne. Bei Tag eine rote Flagge, bei Nacht ein rotes Licht setzen.
+  - Eine Gruppe von kurzen und langen Tönen im Intervall geben. Bei Nacht ein rotes Blinklicht einschalten.
+  correct: A

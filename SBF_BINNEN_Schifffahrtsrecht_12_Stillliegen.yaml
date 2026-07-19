@@ -1,0 +1,80 @@
+- question: |-
+    Welche Bedeutung hat folgendes Tafelzeichen?
+
+    ![Bild zu Frage 22](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Verbotszeichen-A06.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Ankern verboten für alle Fahrzeuge.
+  - Ankern verboten für Kleinfahrzeuge unter 12 m Länge.
+  - Ankern verboten für Kleinfahrzeuge ab 12 m Länge.
+  - Ankern und Festmachen verboten.
+  correct: A
+- question: |-
+    Welche Bedeutung haben folgende Tafelzeichen?
+
+    ![Bild zu Frage 23](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Verbotszeichen-A07.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Festmache- und Liegeverbot.
+  - Festmache- und Liegeverbot für Sportboote.
+  - Festmache- und Liegeverbot für Sportboote über 12 m Länge.
+  - Festmache- und Liegeverbot für gewerbliche Schiffe.
+  correct: A
+- question: Wo finden Sie Informationen über umweltfreundliche Farben, Lacke und Antifouling-Beschichtungen
+    für Ihr Boot?
+  type: single
+  answers:
+  - Beim Umweltbundesamt.
+  - Beim Bundesministerium für Digitales und Verkehr.
+  - In der Sportbootführerscheinverordnung.
+  - In der Sportbootvermietungsverordnung.
+  correct: A
+- question: Woran kann man erkennen, ob der Anker hält?
+  type: single
+  answers:
+  - Wenn beim Handauflegen auf die Ankerkette oder -leine kein Rucken zu verspüren ist und sich die Ankerpeilung
+    nicht ändert.
+  - Wenn Ankerkette oder -leine nicht vibrieren und sich der anliegende Magnetkompasskurs nicht verändert.
+  - Wenn beim Handauflegen auf die Ankerkette oder -leine kein Rucken zu verspüren ist und das Fahrzeug
+    nicht schwojt.
+  - Wenn beim Handauflegen auf die Ankerkette oder -leine kein Rucken zu verspüren ist und sich die Ankerpeilung
+    ändert.
+  correct: A
+- question: Was ist in Kanälen verboten?
+  type: single
+  answers:
+  - Ankern.
+  - Wenden.
+  - Überholen.
+  - Begegnen.
+  correct: A
+- question: |-
+    Was bedeutet dieses Tafelzeichen?
+
+    ![Bild zu Frage 107](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Hinweiszeichen-E057.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Liegestelle für Fahrzeuge mit explosiven Stoffen, für Kleinfahrzeuge verboten.
+  - Liegestelle für Fahrzeuge mit brennbaren Stoffen, für Kleinfahrzeuge verboten.
+  - Liegestelle für Fahrzeuge mit gesundheitsgefährdeten Stoffen, für Kleinfahrzeuge verboten.
+  - Liegestelle für alle Fahrzeuge, für Kleinfahrzeuge verboten.
+  correct: A
+- question: |-
+    Was bedeuten diese Tafelzeichen?
+
+    ![Bild zu Frage 108](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Hinweiszeichen-E0512.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Liegestelle für Fahrzeuge ohne gefährliche Güter, auch für Kleinfahrzeuge.
+  - Liegestelle für Fahrzeuge ohne gefährliche Güter, nicht für Kleinfahrzeuge.
+  - Liegestelle für Fahrzeuge mit gefährlichen Gütern, auch für Kleinfahrzeuge.
+  - Liegestelle für Fahrzeuge mit gefährlichen Gütern, nicht für Kleinfahrzeuge.
+  correct: A
+- question: Wo besteht ohne besondere Bezeichnung der Stellen bzw. Strecken ein allgemeines Liegeverbot?
+  type: single
+  answers:
+  - Auf Schifffahrtskanälen und Schleusenkanälen.
+  - Auf Schifffahrtskanälen und vor Schleusenkanälen.
+  - Vor Brücken und Hochspannungsleitungen.
+  - Vor Brücken und nach Hochspannungsleitungen.
+  correct: A

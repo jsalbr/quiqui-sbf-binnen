@@ -1,0 +1,52 @@
+- question: Wo sollen die Gasbehälter einer Flüssiggasanlage gelagert werden?
+  type: single
+  answers:
+  - Möglichst an Deck, geschützt vor Sonneneinstrahlung, sonst in einem besonders abgeschlossenen Raum
+    für Gasbehälter, der in Bodenhöhe eine Öffnung nach außenbords hat.
+  - Möglichst unten im Schiff, geschützt vor Sonneneinstrahlung, sonst in einem besonders abgeschlossenen
+    Raum für Gasbehälter, der in Bodenhöhe eine Öffnung nach außenbords hat.
+  - Möglichst auf dem Vorschiff, geschützt vor Sonneneinstrahlung, sonst in einem besonders abgeschlossenen
+    Raum für Gasbehälter, der in Bodenhöhe eine Öffnung nach außenbords hat.
+  - Möglichst an Deck, geschützt vor Sonneneinstrahlung, sonst in einem besonders abgeschlossenen Raum
+    für Gasbehälter, der oben belüftet ist.
+  correct: A
+- question: Warum sind die Flüssiggase Propan und Butan an Bord besonders gefährlich?
+  type: single
+  answers:
+  - Beide Gase sind schwerer als Luft und bilden mit Luft ein explosives Gemisch.
+  - Beide Gase sind leichter als Luft und bilden mit Luft ein explosives Gemisch.
+  - Beide Gase sind schwerer als Wasser und bilden mit Wasser ein explosives Gemisch.
+  - Beide Gase sind schwerer als Luft und bilden mit Wasser ein explosives Gemisch.
+  correct: A
+- question: Was ist zu tun, wenn Flüssiggas in das Innere des Bootes gelangt?
+  type: single
+  answers:
+  - Gaszuführung absperren und für Lüftung sorgen. Außerdem keine elektrischen Schalter betätigen und
+    keinen Funk und keine Mobiltelefone benutzen.
+  - Gasleitung entleeren und für Lüftung sorgen. Außerdem keine elektrischen Schalter betätigen und keine
+    Telefone benutzen.
+  - Gaszuführung absperren und für Lüftung sorgen. Außerdem keine elektrischen Schalter betätigen und
+    per Telefon Hilfe holen.
+  - Gasleitung entleeren und die Gasfreiheit mit dem Feuerzeug prüfen sowie über Funk oder Mobiltelefon
+    Hilfe anfordern.
+  correct: A
+- question: Was ist vor Inbetriebnahme einer Flüssiggasanlage zu prüfen?
+  type: single
+  answers:
+  - Die Anlage muss abgenommen sein, Leitungen und Anschlüsse müssen dicht sein. Haupthahn und andere
+    Absperrventile sind zu öffnen.
+  - Die Anlage muss abgenommen sein, die Inbetriebnahme darf nur durch eine besonders geprüfte Person
+    erfolgen.
+  - Die Anlage muss abgenommen sein und jährlich überprüft werden. Die Inbetriebnahme darf nur durch eine
+    besonders geprüfte Person erfolgen.
+  - Die Abnahme der Anlage darf nicht länger als drei Jahre zurückliegen. Haupthahn und andere Absperrventile
+    sind zu öffnen.
+  correct: A
+- question: Was ist zu beachten, wenn eine Flüssiggasanlage außer Betrieb gesetzt wird?
+  type: single
+  answers:
+  - Haupthahn und Absperrventile sind zu schließen.
+  - Die Anlage ist gasfrei zu machen.
+  - Gasflasche fachgerecht entsorgen.
+  - Der Flüssiggasbehälter ist vollständig zu entleeren.
+  correct: A

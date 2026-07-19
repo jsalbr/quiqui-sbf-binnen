@@ -1,0 +1,24 @@
+- question: Was wird unter einem "Kimmkieler" verstanden?
+  type: single
+  answers:
+  - Eine Yacht mit zwei Seitenkielen.
+  - Eine Yacht mit zwei Seitenschwertern.
+  - Eine Yacht mit einem Kielschwert.
+  - Eine Yacht mit zwei Kielen hintereinander.
+  correct: A
+- question: Worin besteht der Vorteil eines Kimmkielers gegenüber anderen Kielbooten?
+  type: single
+  answers:
+  - Er kann problemlos aufrecht trocken fallen.
+  - Sein Tiefgang ist größer.
+  - Die Abdrift ist geringer als bei anderen Kielbooten.
+  - Der Kiel lässt sich aufholen.
+  correct: A
+- question: Was wird unter einer "Kielschwertyacht" verstanden?
+  type: single
+  answers:
+  - Eine Yacht mit flach gehendem Ballastkiel und zusätzlichem aufholbarem Schwert.
+  - Eine Yacht mit einem Ballastkiel und einem zusätzlichen Schwert.
+  - Eine Yacht mit einem aufholbaren Ballastkiel.
+  - Eine Yacht mit zwei Seitenkielen.
+  correct: A

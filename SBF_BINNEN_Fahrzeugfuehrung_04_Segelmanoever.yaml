@@ -1,0 +1,19 @@
+- question: |-
+    Welche Manöver hat das Boot auf dem eingezeichneten Kurs an den Punkten 1, 2 und 3 gefahren?
+
+    ![Bild zu Frage 295](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Segeln/Bild-Frage-295.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - 1 Wende, 2 Halse, 3 Q-Wende.
+  - 1 Q-Wende, 2 Halse, 3 Wende.
+  - 1 Halse, 2 Wende, 3 Q-Wende.
+  - 1 Wende, 2 Q-Wende, 3 Halse.
+  correct: A
+- question: Warum ist eine Patenthalse gefährlich?
+  type: single
+  answers:
+  - Es kann zu Verletzungen der Crew, zu Riggschäden und zur Kenterung führen.
+  - Es kann zur plötzlichen Änderung der Ausweichpflicht kommen.
+  - Es kann zum Verlust der Steuerfähigkeit des Fahrzeuges führen.
+  - Es kann erneut eine Patenthalse folgen, wenn nicht sofort abgefallen wird.
+  correct: A

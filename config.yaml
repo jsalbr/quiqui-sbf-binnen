@@ -1,0 +1,11 @@
+# Stable URL segment for the participant join link: /join/<session_url>
+# session_url must be unique across all users of the same QuiQui instance —
+# see the quiqui-questions README for naming guidance before going live.
+session_url: sbf
+
+# Randomise each question's answer order — REQUIRED here: the source
+# catalog always lists the correct answer first, so without shuffling
+# every question's correct answer would visibly be option A.
+shuffle: true
+
+title: SBF Binnen Fragenkatalog

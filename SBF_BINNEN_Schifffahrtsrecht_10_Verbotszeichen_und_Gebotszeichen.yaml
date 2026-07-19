@@ -1,0 +1,168 @@
+- question: |-
+    Welche Bedeutung hat folgendes Tafelzeichen?
+
+    ![Bild zu Frage 19](https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Gebotszeichen-A04a.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Sog und Wellenschlag vermeiden.
+  - Gefährdeter Strandbereich, Überspülungsgefahr; Mindestpassierabstand 100 m.
+  - Wasserstraße, die jederzeit sicher befahren werden kann; keine Gefahr durch Seegang.
+  - Wasserstraße, die nicht jederzeit sicher befahren werden kann; Gefahr durch Seegang.
+  correct: A
+- question: |-
+    Welche Bedeutung hat folgendes Tafelzeichen?
+
+    ![Bild zu Frage 20](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Einschraenkungszeichen-C5.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Mindestabstand in Metern, der in der nachfolgenden Strecke vom Aufstellungsort der Tafel an eingehalten
+    werden muss.
+  - Maximalgeschwindigkeit in <abbr title="Kilometer pro Stunde">km/h</abbr>, die auf der in Fahrtrichtung
+    rechten Fahrwasserseite nicht überschritten werden darf.
+  - Maximalabstand in Metern, der in der nachfolgenden Strecke vom Aufstellungsort der Tafel an eingehalten
+    werden muss.
+  - Verengung des Fahrwassers auf 40 m.
+  correct: A
+- question: |-
+    Welche Bedeutung hat folgendes Tafelzeichen?
+
+    ![Bild zu Frage 21](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Gebotszeichen-B05.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Haltegebot vor beweglichen Brücken, Sperrwerken und Schleusen.
+  - Dauernde Sperrung einer Teilstrecke der Wasserstraße.
+  - Gebot zur Abgabe eines langen Signaltons.
+  - Weiterfahrt für Sportfahrzeuge verboten.
+  correct: A
+- question: |-
+    Welche Bedeutung hat folgendes Tafelzeichen?
+
+    ![Bild zu Frage 24](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Schild-10.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Abgabe eines langen Tons.
+  - Abgabe eines kurzen Tons.
+  - Abgabe von zwei langen Tönen.
+  - Abgabe eines kurzen und eines langen Tons.
+  correct: A
+- question: |-
+    Welche Bedeutung hat folgendes Tafelzeichen?
+
+    ![Bild zu Frage 26](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Hinweiszeichen-E11.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Ende einer Gebots- oder Verbotsstrecke.
+  - Streckenabschnitt für eine nicht frei fahrende Fähre.
+  - Queren des Fahrwassers ist gestattet.
+  - Wechseln der Fahrwasserseite ist gestattet.
+  correct: A
+- question: Wie ist ein enges Gewässer zu befahren, wenn man sich am Ufer festgemachten Fahrzeugen nähert?
+  type: single
+  answers:
+  - Verringerung der Geschwindigkeit, um schädlichen Sog und Wellenschlag zu vermeiden.
+  - Beibehaltung der Geschwindigkeit, um durch Gleitfahrt schädlichen Sog und Wellenschlag auszuschließen.
+  - Verringerung der Geschwindigkeit und nötigenfalls vom Rechtsfahrgebot abweichen.
+  - Auf Höhe der festgemachten Fahrzeuge aufstoppen und überprüfen, dass kein Dritter behindert oder geschädigt
+    wird.
+  correct: A
+- question: Wo kann man von bestehenden Höchstgeschwindigkeiten auf den Binnenschifffahrtsstraßen Kenntnis
+    erhalten?
+  type: single
+  answers:
+  - In der Binnenschifffahrtsstraßen-Ordnung, bei der Wasserstraßen- und Schifffahrtsverwaltung und der
+    Wasserschutzpolizei.
+  - In der Binnenschiffsuntersuchungsordnung, bei der Wasserstraßen- und Schifffahrtsverwaltung und der
+    Wasserschutzpolizei.
+  - In der Sportbootführerscheinverordnung, bei der Wasserstraßen- und Schifffahrtsverwaltung und der
+    Wasserschutzpolizei.
+  - In der Binnenschifferpatentverordnung, bei der Wasserstraßen- und Schifffahrtsverwaltung und der Wasserschutzpolizei.
+  correct: A
+- question: |-
+    Was bedeuten nachts auf einer Binnenschifffahrtsstraße die nachstehenden Lichter?
+
+    ![Bild zu Frage 196](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Lichter-Frage-196.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Sog und Wellenschlag vermeiden.
+  - Keine Durchfahrt für Kleinfahrzeuge.
+  - Sperrung der Schifffahrt.
+  - Durchfahrt für Kleinfahrzeuge.
+  correct: A
+- question: Wo ist die Geschwindigkeit zu vermindern, um Sog und Wellenschlag zu vermeiden?
+  type: single
+  answers:
+  - Vor Hafeneinmündungen, an Lade-, Lösch- und Liegeplätzen, in der Nähe nicht frei fahrender Fähren,
+    auf gekennzeichneten Strecken, in der Nähe schwimmender Geräte bei der Arbeit.
+  - Vor Einmündungen, an Lade-, Lösch- und Liegeplätzen, in der Nähe nicht frei fahrender Fähren, auf
+    gekennzeichneten Strecken, in der Nähe schwimmender Geräte bei der Arbeit.
+  - Vor Hafeneinmündungen, an Lade-, Lösch- und Liegeplätzen, in der Nähe frei fahrender Fähren, auf gekennzeichneten
+    Strecken, in der Nähe schwimmender Geräte bei der Arbeit.
+  - Vor Hafeneinmündungen, an Lade-, Lösch- und Liegeplätzen, in der Nähe nicht frei fahrender Fähren,
+    auf gekennzeichneten Strecken, in der Nähe schwimmender Schifffahrtszeichen.
+  correct: A
+- question: |-
+    Was bedeutet dieses Tafelzeichen?
+
+    ![Bild zu Frage 198](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Tafelzeichen-Frage-198.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Vorgeschriebene Fahrtrichtung.
+  - Fahrtrichtung nach links verboten.
+  - Vorgeschriebene Fahrtrichtung nur für Kleinfahrzeuge.
+  - Empfohlene Fahrtrichtung.
+  correct: A
+- question: |-
+    Welche Bedeutung hat das nachstehende Tafelzeichen, wenn das rote Licht leuchtet?
+
+    ![Bild zu Frage 199](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Verbotszeichen-A01-Pfeil.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Verbot der Einfahrt in einen Hafen oder eine Nebenwasserstraße.
+  - Verbot des Überholens auf dem Streckenabschnitt.
+  - Achtung Doppelschleuse, linke Kammer gesperrt.
+  - Achtung Ausfahrt aus Hafen oder Nebenfahrwasser.
+  correct: A
+- question: |-
+    Was bedeutet dieses Tafelzeichen?
+
+    ![Bild zu Frage 200](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Tafelzeichen-Frage-200.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - 10 <abbr title="Kilometer pro Stunde">km/h</abbr> Höchstgeschwindigkeit gegenüber dem Ufer.
+  - 10 km/h Höchstgeschwindigkeit gegenüber der Strömung.
+  - 10 km/h Höchstgeschwindigkeit für Kleinfahrzeuge.
+  - 10 km/h für größere Fahrzeuge.
+  correct: A
+- question: |-
+    Was bedeutet dieses Tafelzeichen?
+
+    ![Bild zu Frage 201](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Gebotszeichen-B08.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - 'Gebot: Besondere Vorsicht walten lassen.'
+  - 'Gebot: Geradeaus zu fahren.'
+  - 'Gebot: Achtungssignal geben.'
+  - 'Gebot: Vor dem Schild anhalten.'
+  correct: A
+- question: |-
+    Was bedeutet dieses Tafelzeichen?
+
+    ![Bild zu Frage 202](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Verbotszeichen-A08.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Wendeverbot.
+  - Verbotene Fahrtrichtung rechts oder links.
+  - Verbote in beiden angezeigten Richtungen zu fahren.
+  - Wendeverbot in der Mitte des Fahrwassers.
+  correct: A
+- question: |-
+    Was bedeutet dieses Tafelzeichen?
+
+    ![Bild zu Frage 203](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Hinweiszeichen-E08.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Empfohlener Wendeplatz. Stillliegen für alle Fahrzeuge verboten.
+  - Empfohlener Wendeplatz. Stillliegen von Kleinfahrzeugen erlaubt.
+  - Vorgeschriebener Wendeplatz. Stillliegen für alle Fahrzeuge verboten.
+  - Vorgeschriebener Wendeplatz. Stillliegen von Kleinfahrzeugen erlaubt.
+  correct: A

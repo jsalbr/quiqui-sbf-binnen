@@ -1,0 +1,82 @@
+- question: Wie heißen die Ecken eines Segels?
+  type: single
+  answers:
+  - Kopf, Hals, Schothorn.
+  - Kopf, Hals, Nock.
+  - Vorliek, Unterliek, Achterliek.
+  - Vorstag, Unterwant, Achterstag.
+  correct: A
+- question: Wie heißen die Kanten eines Segels?
+  type: single
+  answers:
+  - Vorliek, Unterliek, Achterliek.
+  - Kopf, Hals, Nock.
+  - Vorstag, Unterwant, Achterstag.
+  - Kopf, Hals, Schothorn.
+  correct: A
+- question: Wozu dienen Segellatten?
+  type: single
+  answers:
+  - Der Formgebung und Aussteifung des Segels.
+  - Der Erleichterung des Reffens.
+  - Der Verhinderung des Killens von Segeln.
+  - Der Möglichkeit das Segel auch bei Starkwind nutzen zu können.
+  correct: A
+- question: Weshalb dürfen Segel nicht über einen längeren Zeitraum killen?
+  type: single
+  answers:
+  - Killen schädigt das Tuch und lässt Nähte aufgehen.
+  - Killen lässt das Boot bei stärkerem Wind kentern.
+  - Killen führt zu Verletzungen der Besatzung.
+  - Killen führt zu Beschädigungen an nebeneinander liegenden Schiffen.
+  correct: A
+- question: Warum müssen auch kleine Schäden an den Segeln sofort repariert werden?
+  type: single
+  answers:
+  - Weil unter Winddruck daraus schnell große Schäden werden.
+  - Weil dadurch der Vortrieb des Segels leidet.
+  - Weil es nur noch bei Flaute eingesetzt werden kann.
+  - Weil Feuchtigkeit in das Segel eindringen kann.
+  correct: A
+- question: Wie wirkt sich ein Holepunkt, der zu weit vorne liegt, auf Stand und Beanspruchung des Vorsegels
+    aus?
+  type: single
+  answers:
+  - Das Unterliek killt, das Achterliek wird übermäßig gereckt.
+  - Das Achterliek killt, das Vorliek wird übermäßig gereckt.
+  - Das Vorliek killt, das Unterliek wird übermäßig gereckt.
+  - Das Vorliek killt, das Achterliek wird übermäßig gereckt.
+  correct: A
+- question: Wie wirkt sich ein Holepunkt, der zu weit achtern liegt, auf Stand und Beanspruchung des Vorsegels
+    aus?
+  type: single
+  answers:
+  - Das Achterliek killt, das Unterliek wird übermäßig gereckt.
+  - Das Vorliek killt, das Unterliek wird übermäßig gereckt.
+  - Das Unterliek killt, das Achterliek wird übermäßig gereckt.
+  - Das Achterliek killt, das Vorliek wird übermäßig gereckt.
+  correct: A
+- question: Wie muss ein Segel bei leichtem Wind getrimmt werden?
+  type: single
+  answers:
+  - Das Segel soll bauchig stehen.
+  - Das Segel soll flach getrimmt werden.
+  - Die Schoten müssen gefiert werden.
+  - Die Schoten müssen dicht geholt werden.
+  correct: A
+- question: Wie muss ein Segel bei starkem Wind getrimmt werden?
+  type: single
+  answers:
+  - Das Segel soll flach getrimmt werden.
+  - Es soll bauchig getrimmt werden.
+  - Die Schoten müssen dicht geholt werden.
+  - Die Schoten müssen gefiert werden.
+  correct: A
+- question: Wie beeinflusst ein Unterliekstrecker den Trimm des Segels?
+  type: single
+  answers:
+  - Je nach Zugkraft wird der untere Teil des Großsegels bauchiger oder flacher.
+  - Je nach Zugkraft wird der untere Teil des Vorsegels bauchiger oder flacher.
+  - Je nach Zugkraft wird der achtere Teil des Vorsegels bauchiger oder flacher.
+  - Je nach Zugkraft wird der achtere Teil des Großsegels bauchiger oder flacher.
+  correct: A

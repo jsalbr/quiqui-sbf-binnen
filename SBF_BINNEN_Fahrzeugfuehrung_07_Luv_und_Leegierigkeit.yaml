@@ -1,0 +1,71 @@
+- question: Wie sollte das Schwert einer Jolle auf Vorwindkurs gefahren werden und warum?
+  type: single
+  answers:
+  - Es sollte aufgeholt werden. Dadurch vermindert sich der Reibungswiderstand, aber auch die Gefahr der
+    Kenterung bei einer unfreiwilligen Halse.
+  - Es sollte gefiert werden. Dadurch wird das Boot stabiler und die Gefahr der Kenterung bei einer unfreiwilligen
+    Halse reduziert.
+  - Es sollte nie ganz aufgeholt werden, da es sonst bei einer Kenterung zum Aufrichten der Jolle nicht
+    mehr greifbar ist.
+  - Es sollte bei stärkerem Wind ganz aufgeholt werden, um die Steuerfähigkeit der Jolle zu verbessern.
+  correct: A
+- question: Wie verändern sich Abdrift und Krängung, wenn das Schwert einer Jolle auf einem Amwindkurs
+    etwas aufgeholt wird?
+  type: single
+  answers:
+  - Die Abdrift wird größer, die Krängung nimmt ab.
+  - Die Abdrift wird größer, die Krängung nimmt zu.
+  - Die Abdrift nimmt ab, das Boot wird aufgrund des geringeren Wasserwiderstandes schneller.
+  - Die Abdrift wird kleiner, die Krängung nimmt ab.
+  correct: A
+- question: Mit welcher Krängung sollte eine Jolle üblicherweise gesegelt werden und weshalb?
+  type: single
+  answers:
+  - Möglichst aufrecht, da sonst Abdrift und Luvgierigkeit zunehmen.
+  - Möglichst aufrecht, weil sonst Abdrift und Leegierigkeit zunehmen.
+  - Leicht nach Lee geneigt, da sonst die Segel leicht nach Luv überkommen können.
+  - Möglichst nach Luv geneigt, weil dadurch die Abdrift und die Luvgierigkeit abnehmen.
+  correct: A
+- question: Wie wirkt sich auf einem Halbwindkurs ein zu dicht geholtes Großsegel auf die Geschwindigkeit
+    des Bootes aus?
+  type: single
+  answers:
+  - Die Krängung nimmt zu, die Geschwindigkeit nimmt ab.
+  - Die Krängung und die Geschwindigkeit nehmen bis zum kritischen Punkt zu, darüber hinaus schnell ab.
+  - Die Geschwindigkeit nimmt zu, da dadurch die Windkräfte optimaler genutzt werden.
+  - Das Boot bleibt stehen, da die Strömung abreißt.
+  correct: A
+- question: Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark von der Seite
+    der Segel weggezogen werden. Wie kann der Trimmfehler behoben werden?
+  type: single
+  answers:
+  - Großsegel flacher trimmen; Gewichtsverlagerung nach achtern.
+  - Großsegel flacher trimmen; Gewichtsverlagerung nach vorne.
+  - Vorsegel flacher trimmen; Gewichtsverlagerung nach achtern.
+  - Vorsegel flacher trimmen; Gewichtsverlagerung nach vorne.
+  correct: A
+- question: Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark zur Seite der
+    Segel hingedrückt werden. Wie kann der Trimmfehler behoben werden?
+  type: single
+  answers:
+  - Großsegel bauchiger trimmen, Gewichtsverlagerung nach vorn.
+  - Großsegel flacher trimmen, Gewichtsverlagerung nach vorn.
+  - Großsegel bauchiger trimmen, Gewichtsverlagerung nach hinten.
+  - Großsegel flacher trimmen, Gewichtsverlagerung nach hinten.
+  correct: A
+- question: Warum soll ein gut getrimmtes Segelboot leicht luvgierig sein?
+  type: single
+  answers:
+  - Weil es im Notfall von selbst in den Wind schießt.
+  - Weil es sich so anspruchsvoller steuern lässt.
+  - Weil es so weniger Höhe läuft.
+  - Weil es auf Raumschotkurs mehr Geschwindigkeit läuft.
+  correct: A
+- question: Welchen Einfluss hat zunehmende Krängung auf den Trimm des Bootes?
+  type: single
+  answers:
+  - Die Luvgierigkeit nimmt zu.
+  - Die Leegierigkeit nimmt zu.
+  - Keinen.
+  - Bis 45° Krängung nimmt die Luvgierigkeit zu, dann wieder ab.
+  correct: A

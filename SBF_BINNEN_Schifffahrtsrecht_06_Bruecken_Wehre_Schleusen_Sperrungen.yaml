@@ -1,0 +1,238 @@
+- question: |-
+    Welche Bedeutung hat folgendes Tafelzeichen?
+
+    ![Bild zu Frage 27](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Verbotszeichen-A01-Tafeln.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Verbot der Durchfahrt und Sperrung der Schifffahrt.
+  - Verbot der Durchfahrt und Sperrung für Kleinfahrzeuge.
+  - Verbot der Durchfahrt, jedoch für Kleinfahrzeuge ohne laufende Antriebsmaschine befahrbar.
+  - Verbot der Durchfahrt, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.
+  correct: A
+- question: |-
+    Welche Bedeutung haben folgende Schifffahrtszeichen?
+
+    ![Bild zu Frage 28](https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Gebotszeichen-A19aa.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Brücke, Sperrwerk oder Schleuse geschlossen.
+  - Anlage dauerhaft gesperrt.
+  - Stoppsignal für alle Fahrzeuge.
+  - Außergewöhnliche Schifffahrtsbehinderung.
+  correct: A
+- question: |-
+    Welche Bedeutung haben folgende Schifffahrtszeichen?
+
+    ![Bild zu Frage 29](https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Gebotszeichen-A19d.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Anlage dauerhaft gesperrt.
+  - Brücke, Sperrwerk oder Schleuse geschlossen.
+  - Stoppsignal für alle Fahrzeuge.
+  - Außergewöhnliche Schifffahrtsbehinderung.
+  correct: A
+- question: |-
+    Was bedeuten diese Lichter vor einer Schleuse?
+
+    ![Bild zu Frage 30](https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Gebotszeichen-A23bb.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Einfahrt frei, Gegenverkehr gesperrt.
+  - Einfahrt frei, Schleusentor öffnet.
+  - Schleuse in Betrieb, auf Einfahrtsignal gemäß Reihenfolge warten.
+  - Schleuse in Betrieb, auf Ausfahrtsignal gemäß Reihenfolge warten.
+  correct: A
+- question: |-
+    Welche Bedeutung hat das nachstehende Tafelzeichen?
+
+    ![Bild zu Frage 110](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Tafelzeichen-Frage-110.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Empfohlene Durchfahrtsöffnung, Durchfahrt in beide Richtungen erlaubt.
+  - Empfohlene Durchfahrt, Durchfahrt in Gegenrichtung verboten.
+  - Die Durchfahrt ist nur durch diese Brückenöffnung und nur in eine Richtung gestattet.
+  - Die Durchfahrt ist nur durch diese Brückenöffnung und in beide Richtungen gestattet.
+  correct: A
+- question: |-
+    Welche Bedeutung haben die nachstehenden Tafelzeichen?
+
+    ![Bild zu Frage 111](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Empfehlungszeichen-D1b-Rhein-Mosel.jpg?__blob=normal&v=2)
+  type: single
+  answers:
+  - Empfohlene Durchfahrt, Durchfahrt in Gegenrichtung verboten.
+  - Empfohlene Durchfahrtsöffnung, Durchfahrt in beide Richtungen erlaubt.
+  - Die Durchfahrt ist nur durch diese Brückenöffnung und in beide Richtungen gestattet.
+  - Die Durchfahrt ist nur durch diese Brückenöffnung und nur in eine Richtung gestattet.
+  correct: A
+- question: |-
+    Was bedeuten diese Tafelzeichen an Brücken?
+
+    ![Bild zu Frage 112](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Verbotszeichen-A10.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Durchfahrt nur zwischen den beiden Tafeln erlaubt.
+  - Durchfahrt nur außerhalb der beiden Tafeln erlaubt.
+  - Empfohlene Durchfahrt nur zwischen den beiden Tafeln.
+  - Empfohlene Durchfahrt mit Gegenverkehr.
+  correct: A
+- question: |-
+    Was bedeuten diese Tafelzeichen an Brücken?
+
+    ![Bild zu Frage 113](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Empfehlungszeichen-D2.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Empfohlene Durchfahrt nur zwischen den beiden Tafeln.
+  - Durchfahrt nur zwischen den beiden Tafeln erlaubt.
+  - Durchfahrt nur außerhalb der beiden Tafeln erlaubt.
+  - Empfohlene Durchfahrt mit Gegenverkehr.
+  correct: A
+- question: |-
+    Was bedeutet dieses Tafelzeichen an Brücken?
+
+    ![Bild zu Frage 114](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Tafelzeichen-Frage-114.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Empfohlene Durchfahrt mit Gegenverkehr.
+  - Empfohlene Durchfahrt ohne Gegenverkehr.
+  - Empfohlene Durchfahrt nur in eine Richtung.
+  - Durchfahrt nur neben der Tafel erlaubt.
+  correct: A
+- question: |-
+    Was bedeuten diese Tafelzeichen an Brücken?
+
+    ![Bild zu Frage 115](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Tafelzeichen-Frage-115.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Empfohlene Durchfahrt ohne Gegenverkehr.
+  - Empfohlene Durchfahrt mit Gegenverkehr.
+  - Empfohlene Durchfahrt in beide Richtungen.
+  - Durchfahrt nur außerhalb der beiden Tafeln erlaubt.
+  correct: A
+- question: |-
+    Was bedeutet dieses Tafelzeichen im Bereich eines Wehres?
+
+    ![Bild zu Frage 116](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Verbotszeichen-A01-Tafeln.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Verbot der Durchfahrt und Sperrung der Schifffahrt.
+  - Gesperrte Wasserfläche, jedoch für Kleinfahrzeuge mit Antriebsmaschine befahrbar.
+  - Gesperrte Wasserfläche, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.
+  - Schutzbedürftige Anlage.
+  correct: A
+- question: Welche Bedeutung haben vor einer Schleuse ein rotes oder ein rotes und ein grünes Licht?
+  type: single
+  answers:
+  - Einfahrt verboten, Öffnen der Schleuse wird vorbereitet.
+  - Einfahrt verboten, Schließen der Schleuse wird vorbereitet.
+  - Ausfahrt verboten, Öffnen der Schleuse wird vorbereitet.
+  - Ausfahrt verboten, Schließen der Schleuse wird vorbereitet.
+  correct: A
+- question: In welcher Reihenfolge fahren Fahrzeuge, die nicht Kleinfahrzeuge sind, und Kleinfahrzeuge,
+    die gemeinsam geschleust werden sollen, in die Schleuse ein?
+  type: single
+  answers:
+  - Kleinfahrzeuge fahren erst nach den Fahrzeugen, die nicht Kleinfahrzeuge sind und nach Aufforderung
+    durch die Schleusenaufsicht in die Schleuse ein.
+  - Kleinfahrzeuge fahren vor den Fahrzeugen, die nicht Kleinfahrzeuge sind und vor Aufforderung durch
+    die Schleusenaufsicht in die Schleuse ein.
+  - Kleinfahrzeuge fahren vor den Fahrzeugen, die nicht Kleinfahrzeuge sind und ohne Aufforderung durch
+    die Schleusenaufsicht in die Schleuse ein.
+  - Kleinfahrzeuge fahren nach den Fahrzeugen, die nicht Kleinfahrzeuge sind und ohne Aufforderung durch
+    die Schleusenaufsicht in die Schleuse ein.
+  correct: A
+- question: Mehrere Kleinfahrzeuge sollen gemeinsam vom Oberwasser in das Unterwasser geschleust werden.
+    Worauf ist bei deren Einfahrt in die Schleuse und während des Schleusens besonders zu achten?
+  type: single
+  answers:
+  - Das letzte Kleinfahrzeug muss so weit einfahren, dass es beim Leeren der Schleuse nicht auf den Drempel
+    aufsetzen kann. Die Festmacherleinen sind so zu bedienen, dass Stöße gegen Schleusenwände, Schleusentore,
+    andere Fahrzeuge vermieden werden und ein sicheres Fieren der Leinen möglich ist.
+  - Das erste Kleinfahrzeug muss so weit einfahren, dass es beim Leeren der Schleuse nicht auf den Drempel
+    aufsetzen kann. Die Festmacherleinen sind so zu bedienen, dass Stöße gegen Schleusenwände, Schleusentore,
+    andere Fahrzeuge vermieden werden und ein sicheres Fieren der Leinen möglich ist.
+  - Das erste Kleinfahrzeug muss so weit einfahren, dass es beim Füllen der Schleuse nicht auf den Drempel
+    aufsetzen kann. Die Festmacherleinen sind so zu bedienen, dass Stöße gegen Schleusenwände, Schleusentore,
+    andere Fahrzeuge vermieden werden und ein sicheres Fieren der Leinen möglich ist.
+  - Das letzte Kleinfahrzeug muss so weit einfahren, dass es beim Füllen der Schleuse nicht auf den Drempel
+    aufsetzen kann. Die Festmacherleinen sind so zu bedienen, dass Stöße gegen Schleusenwände, Schleusentore,
+    andere Fahrzeuge vermieden werden und ein sicheres Fieren der Leinen möglich ist.
+  correct: A
+- question: |-
+    Was bedeutet dieses Tafelzeichen?
+
+    ![Bild zu Frage 156](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Verbotszeichen-A01a.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Gesperrte Wasserfläche, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.
+  - Gesperrte Wasserfläche, jedoch für Kleinfahrzeuge ohne laufende Antriebsmaschine befahrbar.
+  - Gesperrte Wasserfläche, für Kleinfahrzeuge nicht befahrbar.
+  - Gesperrte Wasserfläche, Verbot der Durchfahrt und Sperrung der Schifffahrt.
+  correct: A
+- question: |-
+    Was bedeutet dieses Tafelzeichen?
+
+    ![Bild zu Frage 157](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Verbotszeichen-A12.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Fahrverbot für Fahrzeuge mit Maschinenantrieb.
+  - Fahrverbot für Kleinfahrzeuge mit Maschinenantrieb.
+  - Fahrverbot für Fahrzeuge ohne Antriebsmaschine.
+  - Fahrverbot für Kleinfahrzeuge ohne laufende Antriebsmaschine.
+  correct: A
+- question: Wie ist eine geschützte Badezone gekennzeichnet?
+  type: single
+  answers:
+  - Durch gelbe Tonnen.
+  - Durch grüne Tonnen.
+  - Durch rote Tonnen.
+  - Durch rot-grün gestreifte Tonnen.
+  correct: A
+- question: |-
+    Was bedeutet dieses Tafelzeichen?
+
+    ![Bild zu Frage 204](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Hinweiszeichen-E03.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Wehr.
+  - Hubbrücke.
+  - Schleuse.
+  - Sicherheitstor.
+  correct: A
+- question: Welche Funktion haben gelbe Tonnen mit einem Radarreflektor vor Brückenpfeilern?
+  type: single
+  answers:
+  - Kenntlichmachung der Brückenpfeiler auf dem Radarschirm.
+  - Kenntlichmachung der Höhe der Brückenpfeiler.
+  - Kenntlichmachung einer gesperrten Brückendurchfahrt.
+  - Kenntlichmachung einer Untiefe im Brückenbereich.
+  correct: A
+- question: |-
+    Welche Bedeutung haben diese Tafeln an der nachstehenden gekennzeichneten Brücke?
+
+    ![Bild zu Frage 243](https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Binnen/Bild-Frage-243.gif?__blob=normal&v=1)
+  type: single
+  answers:
+  - Empfohlene Durchfahrt mit Gegenverkehr und seitlicher Begrenzung der erlaubten Brückendurchfahrt.
+  - Empfohlene Durchfahrt ohne Gegenverkehr und seitlicher Begrenzung der erlaubten Brückendurchfahrt.
+  - Vorgeschriebene Durchfahrt mit Gegenverkehr und seitlicher Begrenzung der erlaubten Brückendurchfahrt.
+  - Empfohlene Durchfahrt mit Gegenverkehr ohne seitliche Begrenzung der erlaubten Brückendurchfahrt.
+  correct: A
+- question: |-
+    Was bedeutet dieses Tafelzeichen an einer Brückendurchfahrt?
+
+    ![Bild zu Frage 244](https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Verbotszeichen-A01-Tafeln.gif?__blob=normal&v=2)
+  type: single
+  answers:
+  - Verbot der Durchfahrt und Sperrung der Schifffahrt.
+  - Gesperrte Durchfahrt, jedoch für Kleinfahrzeuge mit Antriebsmaschine befahrbar.
+  - Gesperrte Durchfahrt, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.
+  - Schutzbedürftige Anlage.
+  correct: A
+- question: Warum ist es bei der Schleusendurchfahrt verboten, Autoreifen als Fender zu benutzen?
+  type: single
+  answers:
+  - Autoreifen sind nicht schwimmfähig und können in den Schleusen zu erheblichen Störungen führen.
+  - Autoreifen erzeugen eine zu hohe Reibung.
+  - Autoreifen erzeugen schwarze Farbspuren am Boot und an der Schleusenmauer.
+  - Autoreifen sind schwimmfähig und können in der Schleuse zu erheblichen Störungen führen.
+  correct: A
