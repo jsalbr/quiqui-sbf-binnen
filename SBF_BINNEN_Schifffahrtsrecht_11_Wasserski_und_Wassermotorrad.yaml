@@ -9,6 +9,14 @@
   - Fahren mit Wasserski oder Wassermotorrädern erlaubt. Wasserskiläufer und Wassermotorräder haben Vorfahrt.
   - Genehmigungsfreie Übungsstrecke für das Fahren mit Wasserski oder Wassermotorrädern.
   correct: A
+  explanation: |
+    **Anlage 7 Abschnitt I E.17 und E.22 BinSchStrO (Hinweiszeichen)** · [Anlage
+    7](https://www.gesetze-im-internet.de/binschstro_2012/anlage_7.html)
+
+    > E.17 Wasserskistrecke
+    >
+    > E.22 Fahrerlaubnis für ein Wassermotorrad (Waterscooter, Jetski usw.)
+
 - question: Wo darf auf Binnenschifffahrtsstraßen Wasserski gelaufen werden?
   type: single
   answers:
@@ -17,6 +25,13 @@
   - Außerhalb der Fahrrinne.
   - Überall, ohne die Schifffahrt zu gefährden.
   correct: A
+  explanation: |
+    **§ 1 Abs. 1 Nr. 1 Wasserskiverordnung** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/wasskiv_1990/__1.html)
+
+    > Auf den Binnenschiffahrtstraßen darf das Wasserskilaufen nur betrieben werden 1. auf den durch
+    > Tafelzeichen E.17 […] hierfür freigegebenen Strecken und Wasserflächen,
+
 - question: Zu welcher Tageszeit und bei welchen Sichtweiten darf auf den erlaubten Gewässerabschnitten
     Wasserski gelaufen werden?
   type: single
@@ -26,6 +41,14 @@
   - Sonnenaufgang bis -untergang, Sicht 500 m und mehr.
   - Sonnenaufgang bis -untergang, Sicht 300 m und mehr.
   correct: A
+  explanation: |
+    **§ 1 Abs. 1 Nr. 2 und 3 Wasserskiverordnung** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/wasskiv_1990/__1.html)
+
+    > 2. in der Zeit von Sonnenaufgang bis Sonnenuntergang, sofern nicht durch zusätzliche Schilder
+    > zu dem Tafelzeichen E.17 bestimmte Zeiten festgesetzt sind, 3. bei Wetter mit einer Sicht von
+    > mehr als 1 000 m,
+
 - question: Wie muss sich der Wasserskiläufer bei der Vorbeifahrt an Fahrzeugen, Schwimmkörpern oder Badenden
     verhalten?
   type: single
@@ -35,6 +58,13 @@
   - Er darf bis zu 5 m beiderseits außerhalb des Kielwassers fahren.
   - Er muss uferseitig des Kielwassers fahren.
   correct: A
+  explanation: |
+    **§ 3 Abs. 1 Satz 2 Nr. 2 Wasserskiverordnung** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/wasskiv_1990/__3.html)
+
+    > Zu diesem Zweck müssen bei der Vorbeifahrt […] 2. sich die Wasserskiläufer, ausgenommen bei
+    > Betätigungen nach § 4 Abs. 1 Satz 1, im Kielwasser des ziehenden Fahrzeugs halten.
+
 - question: Unter welchen Voraussetzungen darf außerhalb der ausgewiesenen Strecken/Wasserflächen Wassermotorrad
     gefahren werden?
   type: single
@@ -44,6 +74,17 @@
   - Wenn kein anderer Verkehrsteilnehmer behindert wird.
   - Ab Hochwassermarke I nur im Fahrwasser.
   correct: A
+  explanation: |
+    **§ 3 Abs. 1 Wassermotorräder-Verordnung** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/wasmotrv/__3.html)
+
+    > Auf den Binnenschiffahrtsstraßen (§ 1 Nr. 1) ist das Fahren mit Wassermotorrädern außerhalb
+    > der durch das Tafelzeichen E.22 […] freigegebenen Wasserflächen verboten. Satz 1 gilt nicht
+    > für 1. Fahrten zum Erreichen einer freigegebenen Wasserfläche auf kürzestem Weg von der
+    > nächstgelegenen Einsetzstelle aus und für Wanderfahrten,
+    >
+    > Satz 2 Nummer 1 gilt nur, wenn a) ein klar erkennbarer Geradeauskurs eingehalten wird,
+
 - question: Wie hat sich der Führer eines Wassermotorrades außerhalb der ausgewiesenen Strecken/Wasserflächen
     zu verhalten?
   type: single
@@ -53,3 +94,8 @@
   - Im Abstand von 10 m außerhalb des Tonnenstrichs fahren.
   - Am Rande der Fahrrinne fahren.
   correct: A
+  explanation: |
+    **§ 3 Abs. 1 Satz 3 Buchstabe a Wassermotorräder-Verordnung** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/wasmotrv/__3.html)
+
+    > Satz 2 Nummer 1 gilt nur, wenn a) ein klar erkennbarer Geradeauskurs eingehalten wird,

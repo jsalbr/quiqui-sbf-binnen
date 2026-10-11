@@ -9,6 +9,21 @@
   - Ankern verboten für Kleinfahrzeuge ab 12 m Länge.
   - Ankern und Festmachen verboten.
   correct: A
+  explanation: |
+    **Anlage 7 Abschnitt I A.6 BinSchStrO (Ankerverbot)** · [Anlage
+    7](https://www.gesetze-im-internet.de/binschstro_2012/anlage_7.html)
+
+    > A.6 Ankerverbot und Verbot des Schleifenlassens von Ankern, Trossen oder Ketten auf der Seite
+    > der Wasserstraße, auf der das Tafelzeichen steht
+
+    **§ 7.03 Nr. 1 Buchstabe b BinSchStrO (Ankern)** ·
+    [§ 7.03](https://www.gesetze-im-internet.de/binschstro_2012/__7_03.html)
+
+    > Ein Fahrzeug, ein Schwimmkörper oder eine schwimmende Anlage darf nicht ankern: […] b) auf
+    > einer durch das Tafelzeichen A.6 (Anlage 7) gekennzeichneten Strecke, auf der Seite der
+    > Wasserstraße, auf der das Tafelzeichen steht; das Ankerverbot gilt von 50,00 m oberhalb bis
+    > 50,00 m unterhalb des Tafelzeichens.
+
 - question: |-
     Welche Bedeutung haben folgende Tafelzeichen?
 
@@ -20,6 +35,21 @@
   - Festmache- und Liegeverbot für Sportboote über 12 m Länge.
   - Festmache- und Liegeverbot für gewerbliche Schiffe.
   correct: A
+  explanation: |
+    **Anlage 7 Abschnitt I A.5 und A.7 BinSchStrO (Stillliege- und Festmacheverbot)** · [Anlage
+    7](https://www.gesetze-im-internet.de/binschstro_2012/anlage_7.html)
+
+    > A.5 Stillliegeverbot auf der Seite der Wasserstraße, auf der das Tafelzeichen steht
+    >
+    > A.7 Festmacheverbot am Ufer auf der Seite der Wasserstraße, auf der das Tafelzeichen steht
+
+    **§ 7.04 Nr. 1 Buchstabe b BinSchStrO (Festmachen)** ·
+    [§ 7.04](https://www.gesetze-im-internet.de/binschstro_2012/__7_04.html)
+
+    > Ein Fahrzeug, ein Schwimmkörper oder eine schwimmende Anlage darf am Ufer nicht festmachen:
+    > […] b) auf einer durch das Tafelzeichen A.7 (Anlage 7) gekennzeichneten Strecke auf der Seite
+    > der Wasserstraße, auf der das Tafelzeichen steht.
+
 - question: Wo finden Sie Informationen über umweltfreundliche Farben, Lacke und Antifouling-Beschichtungen
     für Ihr Boot?
   type: single
@@ -29,6 +59,15 @@
   - In der Sportbootführerscheinverordnung.
   - In der Sportbootvermietungsverordnung.
   correct: A
+  explanation: |
+    Eine Rechtsvorschrift mit dieser Auskunftsstelle gibt es nicht. Maßgeblich ist die allgemeine
+    Sorgfaltspflicht:
+
+    **§ 1.04 Nr. 4 BinSchStrO (Allgemeine Sorgfaltspflicht)** ·
+    [§ 1.04](https://www.gesetze-im-internet.de/binschstro_2012/__1_04.html)
+
+    > jede vermeidbare Beeinträchtigung der Umwelt zu verhindern.
+
 - question: Woran kann man erkennen, ob der Anker hält?
   type: single
   answers:
@@ -40,6 +79,18 @@
   - Wenn beim Handauflegen auf die Ankerkette oder -leine kein Rucken zu verspüren ist und sich die Ankerpeilung
     ändert.
   correct: A
+  explanation: |
+    **§ 7.01 Nr. 3 BinSchStrO (Allgemeine Grundsätze für das Stillliegen)** ·
+    [§ 7.01](https://www.gesetze-im-internet.de/binschstro_2012/__7_01.html)
+
+    > Ein stillliegendes Fahrzeug, ein stillliegender Schwimmkörper oder eine stillliegende
+    > schwimmende Anlage muss so verankert oder festgemacht werden, dass seine oder ihre Lage nicht
+    > in einer Weise verändert werden kann, die ein anderes Fahrzeug, oder einen anderen
+    > Schwimmkörper gefährdet oder behindert.
+
+    Die beschriebene Ankerprobe (Handauflegen, Ankerpeilung) ist seemännische Praxis und steht nicht
+    im Gesetz.
+
 - question: Was ist in Kanälen verboten?
   type: single
   answers:
@@ -48,6 +99,14 @@
   - Überholen.
   - Begegnen.
   correct: A
+  explanation: |
+    **§ 7.03 Nr. 1 Buchstabe a BinSchStrO (Ankern)** ·
+    [§ 7.03](https://www.gesetze-im-internet.de/binschstro_2012/__7_03.html)
+
+    > Ein Fahrzeug, ein Schwimmkörper oder eine schwimmende Anlage darf nicht ankern: a) auf einem
+    > Schifffahrtskanal, in einem Schleusenkanal oder auf dem Abschnitt einer Wasserstraße, für den
+    > ein allgemeines Ankerverbot besteht;
+
 - question: |-
     Was bedeutet dieses Tafelzeichen?
 
@@ -59,6 +118,26 @@
   - Liegestelle für Fahrzeuge mit gesundheitsgefährdeten Stoffen, für Kleinfahrzeuge verboten.
   - Liegestelle für alle Fahrzeuge, für Kleinfahrzeuge verboten.
   correct: A
+  explanation: |
+    **Anlage 7 Abschnitt I E.5.7 BinSchStrO (Liegestelle)** · [Anlage
+    7](https://www.gesetze-im-internet.de/binschstro_2012/anlage_7.html)
+
+    > E.5.7 Liegestelle für ein Fahrzeug der Schubschifffahrt, das die Bezeichnung nach § 3.14
+    > Nummer 3 führen muss
+
+    **§ 7.06 Nr. 1 BinSchStrO (Besondere Liegestellen)** ·
+    [§ 7.06](https://www.gesetze-im-internet.de/binschstro_2012/__7_06.html)
+
+    > Auf einer Liegestelle, bei der eines der Tafelzeichen E.5.4 bis E.5.15 (Anlage 7) aufgestellt
+    > ist, darf nur die Fahrzeugart stillliegen, für die das Tafelzeichen gilt.
+
+    **§ 3.14 Nr. 3 BinSchStrO (explosive Stoffe)** ·
+    [§ 3.14](https://www.gesetze-im-internet.de/binschstro_2012/__3_14.html)
+
+    > Ein Fahrzeug in Fahrt, das bestimmte explosive Stoffe nach Kapitel 3.2 Tabelle A des ADN
+    > befördert, […] a) bei Nacht: drei blaue Lichter; b) bei Tag: drei blaue Kegel mit der Spitze
+    > nach unten.
+
 - question: |-
     Was bedeuten diese Tafelzeichen?
 
@@ -70,6 +149,18 @@
   - Liegestelle für Fahrzeuge mit gefährlichen Gütern, auch für Kleinfahrzeuge.
   - Liegestelle für Fahrzeuge mit gefährlichen Gütern, nicht für Kleinfahrzeuge.
   correct: A
+  explanation: |
+    **Anlage 7 Abschnitt I E.5.12 BinSchStrO (Liegestelle)** · [Anlage
+    7](https://www.gesetze-im-internet.de/binschstro_2012/anlage_7.html)
+
+    > E.5.12 Liegestelle für ein Fahrzeug, das keine Bezeichnung nach § 3.14 führen muss
+
+    **§ 7.06 Nr. 1 BinSchStrO (Besondere Liegestellen)** ·
+    [§ 7.06](https://www.gesetze-im-internet.de/binschstro_2012/__7_06.html)
+
+    > Auf einer Liegestelle, bei der eines der Tafelzeichen E.5.4 bis E.5.15 (Anlage 7) aufgestellt
+    > ist, darf nur die Fahrzeugart stillliegen, für die das Tafelzeichen gilt.
+
 - question: Wo besteht ohne besondere Bezeichnung der Stellen bzw. Strecken ein allgemeines Liegeverbot?
   type: single
   answers:
@@ -78,3 +169,10 @@
   - Vor Brücken und Hochspannungsleitungen.
   - Vor Brücken und nach Hochspannungsleitungen.
   correct: A
+  explanation: |
+    **§ 7.02 Nr. 1 Buchstabe a BinSchStrO (Liegeverbot)** ·
+    [§ 7.02](https://www.gesetze-im-internet.de/binschstro_2012/__7_02.html)
+
+    > Ein Fahrzeug, ein Schwimmkörper oder eine schwimmende Anlage darf nicht stillliegen: a) auf
+    > einem Schifffahrtskanal, in einem Schleusenkanal oder auf einem Abschnitt der Wasserstraße,
+    > für den ein allgemeines Stillliegeverbot besteht;

@@ -6,6 +6,14 @@
   - Wenn es weder auf Grund sitzt noch vor Anker liegt noch manövrierbehindert oder manövrierunfähig ist.
   - Wenn es weder an Land festgemacht ist noch vor Anker liegt noch Fahrt durchs Wasser macht.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 24 BinSchStrO (in Fahrt befindlich)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „fahrend“ oder „in Fahrt befindlich“: ein Fahrzeug, ein Schwimmkörper oder eine schwimmende
+    > Anlage, das, der oder die weder unmittelbar noch mittelbar ankert, unmittelbar noch mittelbar
+    > am Ufer festgemacht ist oder festgefahren ist;
+
 - question: Wann gilt ein Fahrzeug unter Segel als Maschinenfahrzeug?
   type: single
   answers:
@@ -14,6 +22,13 @@
   - Wenn es durch das Segeln keine Fahrt durchs Wasser macht.
   - Wenn es durch das Segeln keine Fahrt über Grund macht.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 15 BinSchStrO (Fahrzeug unter Segel)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „Fahrzeug unter Segel“: ein Fahrzeug, das nur unter Segel fährt; ein Fahrzeug, das unter Segel
+    > fährt und gleichzeitig eine Antriebsmaschine benutzt, gilt als Fahrzeug mit Maschinenantrieb;
+
 - question: Wann gilt ein Sportboot auf den Binnenschifffahrtsstraßen nicht mehr als Kleinfahrzeug?
   type: single
   answers:
@@ -22,6 +37,14 @@
   - Wenn es 10 m oder länger ist.
   - Wenn es 18 m oder länger ist.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 14 BinSchStrO (Kleinfahrzeug)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „Kleinfahrzeug“: ein Fahrzeug, dessen Schiffskörper, ohne Ruder und Bugspriet, eine größte
+    > Länge von weniger als 20,00 m aufweist, einschließlich Segelsurfbrett, Amphibienfahrzeug,
+    > Luftkissenfahrzeug und Tragflügelboot, ausgenommen […]
+
 - question: Welche Sichtbeeinträchtigungen führen zu unsichtigem Wetter?
   type: single
   answers:
@@ -30,6 +53,13 @@
   - Nacht, Schneefall, starker Regen.
   - Dämmerung, Nebel, Schneefall, starker Regen.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 28 BinSchStrO (unsichtiges Wetter)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „unsichtiges Wetter“: ein Zustand, bei dem die Sicht durch Nebel, Schneefall, heftige
+    > Regengüsse oder andere ähnliche Ursachen eingeschränkt ist;
+
 - question: Welche Kennzeichnungsarten für Sportboote gibt es?
   type: single
   answers:
@@ -38,6 +68,14 @@
   - Nur amtlich anerkannte Kennzeichen.
   - Kennzeichen gemäß Konformitätserklärung (<span lang="fr"><abbr title="Conformité Européenne">CE</abbr></span>-Zeichen).
   correct: A
+  explanation: |
+    **§ 2 Abs. 1 KlFzKV-BinSch (Kennzeichnungspflicht)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/klfzkv-binsch/__2.html)
+
+    > Der Schiffsführer darf ein deutsches Kleinfahrzeug auf den Binnenschiffahrtsstraßen nur
+    > führen, wenn es mit einem gültigen amtlichen oder amtlich anerkannten (§ 5) Kennzeichen nach
+    > Absatz 3 Satz 1 versehen ist.
+
 - question: Welche Stelle ist für die Zuteilung eines amtlichen Kennzeichens für Sportboote zuständig?
   type: single
   answers:
@@ -46,6 +84,12 @@
   - Der Deutsche Segler-Verband.
   - Der Allgemeine Deutsche Automobilclub.
   correct: A
+  explanation: |
+    **§ 8 Abs. 1 KlFzKV-BinSch (Zuteilung des Kennzeichens)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/klfzkv-binsch/__8.html)
+
+    > Das Wasserstraßen- und Schifffahrtsamt teilt das amtliche Kennzeichen zu.
+
 - question: Woraus bestehen die amtlich anerkannten Kennzeichen?
   type: single
   answers:
@@ -54,6 +98,14 @@
   - Nummer des Seeschiffsregisters, gefolgt vom Kennbuchstaben für die ausstellende Organisation.
   - Die europäische Schiffsnummer, gefolgt vom Kennbuchstaben für die ausstellende Organisation.
   correct: A
+  explanation: |
+    **§ 5 Satz 1 KlFzKV-BinSch (amtlich anerkannte Kennzeichen)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/klfzkv-binsch/__5.html)
+
+    > Ein Kennzeichen gilt als amtlich anerkannt, wenn es aus der Nummer des Internationalen
+    > Bootsscheines für Wassersportfahrzeuge (Resolution Nr. 13 rev. ECE, Verkehrsblatt 1989 S.
+    > 120), gefolgt von dem Kennbuchstaben der zuteilenden Organisation besteht.
+
 - question: Welche Stellen sind für die Zuteilung eines amtlich anerkannten Kennzeichens für Sportboote
     zuständig?
   type: single
@@ -63,6 +115,17 @@
   - Die Wasserschutzpolizei.
   - Amtsgerichte, bei denen ein Schiffsregister geführt wird.
   correct: A
+  explanation: |
+    **§ 5 Satz 2 und § 8 Abs. 3 KlFzKV-BinSch** ·
+    [§ 5](https://www.gesetze-im-internet.de/klfzkv-binsch/__5.html) ·
+    [§ 8](https://www.gesetze-im-internet.de/klfzkv-binsch/__8.html)
+
+    > Dabei erhalten der Deutsche Motoryachtverband e. V. den Kennbuchstaben M, der Deutsche
+    > Segler-Verband e. V. den Kennbuchstaben S und der Allgemeine Deutsche Automobilclub e. V. den
+    > Kennbuchstaben A.
+    >
+    > Die in § 5 Satz 2 genannten Organisationen teilen das amtlich anerkannte Kennzeichen zu.
+
 - question: Wann muss ein Wassersportfahrzeug in das Binnenschiffsregister eingetragen werden?
   type: single
   answers:
@@ -71,6 +134,14 @@
   - Ab 10 m Schiffslänge.
   - Ab 15 m Schiffslänge.
   correct: A
+  explanation: |
+    **§ 10 Abs. 2 Nr. 2 Schiffsregisterordnung** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/schrego/__10.html)
+
+    > Zur Anmeldung eines Binnenschiffs ist der Eigentümer verpflichtet, […] wenn das Schiff nicht
+    > zur Beförderung von Gütern bestimmt ist und seine Wasserverdrängung bei größter Eintauchung
+    > mindestens 10 Kubikmeter beträgt
+
 - question: Wann gilt ein Sportboot auf den Binnenschifffahrtsstraßen als Kleinfahrzeug?
   type: single
   answers:
@@ -79,6 +150,14 @@
   - Wenn das Fahrzeug eine Länge von 25 m hat.
   - Wenn das Fahrzeug eine Länge von mehr als 20 m hat.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 14 BinSchStrO (Kleinfahrzeug)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „Kleinfahrzeug“: ein Fahrzeug, dessen Schiffskörper, ohne Ruder und Bugspriet, eine größte
+    > Länge von weniger als 20,00 m aufweist, einschließlich Segelsurfbrett, Amphibienfahrzeug,
+    > Luftkissenfahrzeug und Tragflügelboot, ausgenommen […]
+
 - question: Was bedeutet Radarfahrt?
   type: single
   answers:
@@ -87,3 +166,8 @@
   - Eine Fahrt mit Radar.
   - Eine Fahrt am Tage mit Radar.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 27 BinSchStrO (Radarfahrt)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „Radarfahrt“: eine Fahrt bei unsichtigem Wetter mit Radar;

@@ -6,6 +6,23 @@
   - Durch Aushang bei Wasserschutzpolizei-Stationen.
   - Durch Bekanntgaben der Hochwasserschutzzentrale.
   correct: A
+  explanation: |
+    **§ 1.02 Nr. 8 BinSchStrO (Reisevorbereitung)** ·
+    [§ 1.02](https://www.gesetze-im-internet.de/binschstro_2012/__1_02.html)
+
+    > Der Schiffsführer hat vor Fahrtantritt die erforderlichen Reisevorbereitungen zu treffen.
+    > Insbesondere hat er sich über die Bedingungen und Verhältnisse der Wasserstraße, wie
+    > Wasserstände, Durchfahrtshöhen, die er befahren will, zu informieren
+
+    **§ 4.05 Nr. 2 BinSchStrO (Sprechfunk)** ·
+    [§ 4.05](https://www.gesetze-im-internet.de/binschstro_2012/__4_05.html)
+
+    > Während der Fahrt muss eine Sprechfunkanlage in dem Verkehrskreis Schiff-Schiff und die andere
+    > Sprechfunkanlage in dem Verkehrskreis Nautische Information ständig sende- und empfangsbereit
+    > sein.
+
+    Die Aufzählung der Informationswege (Rundfunk, Fernsehen, Internet) steht nicht im Gesetz.
+
 - question: Wo kann der Sportbootfahrer vor Ort das Erreichen bestimmter Wasserstände und Hochwassermarken
     feststellen?
   type: single
@@ -15,6 +32,24 @@
   - An den Aushängen bei Wasserschutzpolizei-Stationen.
   - An den Pegeln und den Einsenkungsmarken der Fahrzeuge.
   correct: A
+  explanation: |
+    **§ 1.02 Nr. 8 BinSchStrO (Reisevorbereitung)** ·
+    [§ 1.02](https://www.gesetze-im-internet.de/binschstro_2012/__1_02.html)
+
+    > Insbesondere hat er sich über die Bedingungen und Verhältnisse der Wasserstraße, wie
+    > Wasserstände, Durchfahrtshöhen, die er befahren will, zu informieren
+
+    **§ 11.11 Nr. 4 BinSchStrO (Schifffahrt bei Hochwasser (Main))** ·
+    [§ 11.11](https://www.gesetze-im-internet.de/binschstro_2012/__11_11.html)
+
+    > Die in den Nummern 1 und 2 genannten Hochwassermarken werden durch folgende Wasserstände
+    > bestimmt, und die Richtpegel gelten für den nachstehend aufgeführten Streckenabschnitt:
+
+    **Anlage 7 Abschnitt I E.23 BinSchStrO (Hinweiszeichen)** · [Anlage
+    7](https://www.gesetze-im-internet.de/binschstro_2012/anlage_7.html)
+
+    > E.23 Hochwassermarken
+
 - question: Welche Auswirkungen kann das Erreichen der Hochwassermarke I für die Sportschifffahrt haben?
   type: single
   answers:
@@ -23,6 +58,31 @@
   - Verbot der Schifffahrt bei Nacht und unsichtigem Wetter.
   - Überholverbot und Fahrverbot für Fahrzeuge ohne Sprechfunk.
   correct: A
+  explanation: |
+    Die Hochwassermarken und ihre Folgen sind für jede Wasserstraße in einem eigenen Paragraphen des
+    Zweiten Teils geregelt. Hier zwei Beispiele, die Werte unterscheiden sich je Strecke.
+
+
+    **§ 26.11 Nr. 1 und 2 BinSchStrO (Schifffahrt bei Hochwasser (Oder))** ·
+    [§ 26.11](https://www.gesetze-im-internet.de/binschstro_2012/__26_11.html)
+
+    > Erreicht oder überschreitet der Wasserstand die Hochwassermarke I an einem der zwei Richtpegel
+    > für den unter Nummer 4 jeweils aufgeführten Streckenabschnitt, ist die Schifffahrt für ein
+    > Kleinfahrzeug, eine Fähre oder ein schwimmendes Gerät verboten.
+    >
+    > Erreicht oder überschreitet der Wasserstand die Hochwassermarke I an einem der zwei Richtpegel
+    > für den unter Nummer 4 jeweils aufgeführten Streckenabschnitt, darf ein Fahrzeug nur am Tag
+    > und nur dann verkehren, wenn es mit in gutem Betriebszustand befindlichen Sprechfunkanlagen
+    > gemäß § 4.05 ausgerüstet ist.
+
+    **§ 11.11 Nr. 1 BinSchStrO (Schifffahrt bei Hochwasser (Main))** ·
+    [§ 11.11](https://www.gesetze-im-internet.de/binschstro_2012/__11_11.html)
+
+    > Erreicht oder überschreitet der Wasserstand die Hochwassermarke I an dem Richtpegel für den
+    > unter Nummer 4 jeweils aufgeführten Streckenabschnitt, a) muss ein Fahrzeug oder ein Verband
+    > bei der Fahrt möglichst weit vom Ufer entfernt bleiben, […] c) darf die Geschwindigkeit eines
+    > Talfahrers nicht größer sein, als zur sicheren Steuerung notwendig ist,
+
 - question: Welche Auswirkungen hat das Erreichen der Hochwassermarke II für die Sportschifffahrt?
   type: single
   answers:
@@ -31,6 +91,26 @@
   - Überholverbot und Fahrverbot für Fahrzeuge ohne Sprechfunk.
   - Verbot der Schifffahrt bei Nacht und unsichtigem Wetter.
   correct: A
+  explanation: |
+    Die Hochwassermarken und ihre Folgen sind für jede Wasserstraße in einem eigenen Paragraphen des
+    Zweiten Teils geregelt. Hier zwei Beispiele, die Werte unterscheiden sich je Strecke.
+
+
+    **§ 11.11 Nr. 2 BinSchStrO (Schifffahrt bei Hochwasser (Main))** ·
+    [§ 11.11](https://www.gesetze-im-internet.de/binschstro_2012/__11_11.html)
+
+    > Erreicht oder überschreitet der Wasserstand den Höchsten Schifffahrtswasserstand (HSW) –
+    > Hochwassermarke II – an dem Richtpegel für den unter Nummer 4 jeweils aufgeführten
+    > Streckenabschnitt, ist die Schifffahrt mit Ausnahme des Übersetzverkehrs innerhalb des
+    > jeweiligen Streckenabschnitts verboten.
+
+    **§ 26.11 Nr. 3 BinSchStrO (Schifffahrt bei Hochwasser (Oder))** ·
+    [§ 26.11](https://www.gesetze-im-internet.de/binschstro_2012/__26_11.html)
+
+    > Erreicht oder überschreitet der Wasserstand den Höchsten Schifffahrtswasserstand
+    > (Hochwassermarke II) an einem der zwei Richtpegel für den unter Nummer 4 jeweils aufgeführten
+    > Streckenabschnitt, ist die Schifffahrt verboten.
+
 - question: Wie hat sich ein Schiffsführer bei Hochwasser zu verhalten?
   type: single
   answers:
@@ -43,6 +123,29 @@
   - Er muss die Geschwindigkeit anpassen und soweit wie möglich in der Fahrwassermitte bleiben, besondere
     Geschwindigkeitsbegrenzungen und Fahrtbeschränkungen sind nicht zu beachten.
   correct: A
+  explanation: |
+    Die Hochwassermarken und ihre Folgen sind für jede Wasserstraße in einem eigenen Paragraphen des
+    Zweiten Teils geregelt. Hier zwei Beispiele, die Werte unterscheiden sich je Strecke.
+
+
+    **§ 11.11 Nr. 1 BinSchStrO (Schifffahrt bei Hochwasser (Main))** ·
+    [§ 11.11](https://www.gesetze-im-internet.de/binschstro_2012/__11_11.html)
+
+    > Erreicht oder überschreitet der Wasserstand die Hochwassermarke I an dem Richtpegel für den
+    > unter Nummer 4 jeweils aufgeführten Streckenabschnitt, a) muss ein Fahrzeug oder ein Verband
+    > bei der Fahrt möglichst weit vom Ufer entfernt bleiben, […] c) darf die Geschwindigkeit eines
+    > Talfahrers nicht größer sein, als zur sicheren Steuerung notwendig ist,
+
+    **§ 1.04 BinSchStrO (Allgemeine Sorgfaltspflicht)** ·
+    [§ 1.04](https://www.gesetze-im-internet.de/binschstro_2012/__1_04.html)
+
+    > Über die Anforderungen nach dieser Verordnung hinaus hat jeder Verkehrsteilnehmer auf
+    > Binnenschifffahrtsstraßen alle Vorsichtsmaßnahmen zu treffen, welche die allgemeine
+    > Sorgfaltspflicht und die Übung der Schifffahrt gebieten
+
+    Die Vorgabe, in der Fahrwassermitte zu bleiben, steht nicht wörtlich im Gesetz. Das Gesetz
+    verlangt bei Marke I je nach Strecke, möglichst weit vom Ufer entfernt zu bleiben.
+
 - question: Wie hat sich ein Schiffsführer bei Erreichen der Hochwassermarke II zu verhalten?
   type: single
   answers:
@@ -51,3 +154,21 @@
   - Er hat das Fahrverbot für Fahrzeuge ohne Sprechfunk zu beachten.
   - Er hat das Verbot der Schifffahrt bei Nacht zu beachten.
   correct: A
+  explanation: |
+    Die Hochwassermarken und ihre Folgen sind für jede Wasserstraße in einem eigenen Paragraphen des
+    Zweiten Teils geregelt. Hier zwei Beispiele, die Werte unterscheiden sich je Strecke.
+
+
+    **§ 11.11 Nr. 2 BinSchStrO (Schifffahrt bei Hochwasser (Main))** ·
+    [§ 11.11](https://www.gesetze-im-internet.de/binschstro_2012/__11_11.html)
+
+    > Erreicht oder überschreitet der Wasserstand den Höchsten Schifffahrtswasserstand (HSW) –
+    > Hochwassermarke II – an dem Richtpegel für den unter Nummer 4 jeweils aufgeführten
+    > Streckenabschnitt, ist die Schifffahrt mit Ausnahme des Übersetzverkehrs innerhalb des
+    > jeweiligen Streckenabschnitts verboten.
+
+    **§ 26.11 Nr. 3 Satz 2 BinSchStrO (Schifffahrt bei Hochwasser (Oder))** ·
+    [§ 26.11](https://www.gesetze-im-internet.de/binschstro_2012/__26_11.html)
+
+    > Ein Fahrzeug oder ein Verband muss rechtzeitig vor Überschreiten der Hochwassermarke II einen
+    > Schutzhafen aufsuchen.

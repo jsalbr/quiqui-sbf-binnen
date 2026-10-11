@@ -9,6 +9,13 @@
   - Überholverbot für Fahrzeuge unter 20 m Länge.
   - Begegnungsverbot für Fahrzeuge über 20 m Länge.
   correct: A
+  explanation: |
+    **§ 6.11 Nr. 1 BinSchStrO (Überholverbot durch Schifffahrtszeichen)** ·
+    [§ 6.11](https://www.gesetze-im-internet.de/binschstro_2012/__6_11.html)
+
+    > Unbeschadet des § 6.08 Nummer 1 besteht 1. auf einer Strecke, deren Beginn durch das
+    > Tafelzeichen A.2 (Anlage 7) gekennzeichnet ist, ein allgemeines Überholverbot;
+
 - question: |-
     Welche Bedeutung hat folgendes Tafelzeichen?
 
@@ -20,6 +27,13 @@
   - Überholverbot; mit Gegenverkehr muss gerechnet werden.
   - Überholverbot für alle Fahrzeuge.
   correct: A
+  explanation: |
+    **§ 6.08 Nr. 1 BinSchStrO (verbotenes Begegnen)** ·
+    [§ 6.08](https://www.gesetze-im-internet.de/binschstro_2012/__6_08.html)
+
+    > Auf einer Strecke, deren Beginn durch das Tafelzeichen A.4 oder A.4.1 (Anlage 7)
+    > gekennzeichnet ist, ist das Begegnen und Überholen verboten.
+
 - question: Warum soll ein kleines Fahrzeug nicht dicht an ein großes in Fahrt befindliches Fahrzeug heranfahren?
   type: single
   answers:
@@ -28,6 +42,23 @@
   - Da es dem großen in Fahrt befindlichen Fahrzeug sonst nicht ausweichen kann.
   - Es kann durch dessen Bug- oder Heckwelle Seeschlag erleiden.
   correct: A
+  explanation: |
+    **§ 6.17 Nr. 1 und 3 BinSchStrO (Fahrt auf gleicher Höhe)** ·
+    [§ 6.17](https://www.gesetze-im-internet.de/binschstro_2012/__6_17.html)
+
+    > Fahrzeuge dürfen nur auf gleicher Höhe fahren, wenn es der verfügbare Raum ohne Störung oder
+    > Gefährdung der Schifffahrt gestattet.
+    >
+    > Das Anlegen oder Anhängen an ein Fahrzeug oder einen Schwimmkörper in Fahrt sowie das
+    > Mitfahren im Sogwasser sind ohne ausdrückliche Erlaubnis des Schiffsführers verboten.
+
+    **§ 6.20 Nr. 1 Satz 1 BinSchStrO (Vermeidung von Wellenschlag)** ·
+    [§ 6.20](https://www.gesetze-im-internet.de/binschstro_2012/__6_20.html)
+
+    > Ein Fahrzeug muss seine Geschwindigkeit so einrichten, dass Wellenschlag oder Sogwirkungen,
+    > die Schäden an einem stillliegenden oder einem in Fahrt befindlichen Fahrzeug oder
+    > Schwimmkörper oder an einer Anlage verursachen können, vermieden werden.
+
 - question: Wie verhält man sich beim Begegnen mit anderen Fahrzeugen in einem engen Fahrwasser?
   type: single
   answers:
@@ -36,6 +67,25 @@
   - Das gegen den Strom fahrende Fahrzeug ist ausweichpflichtig.
   - Das mit dem Strom fahrende Fahrzeug hat aufzustoppen.
   correct: A
+  explanation: |
+    **§ 6.02 Nr. 1 BinSchStrO (Kleinfahrzeuge gegenüber anderen Fahrzeugen)** ·
+    [§ 6.02](https://www.gesetze-im-internet.de/binschstro_2012/__6_02.html)
+
+    > Ein einzeln fahrendes Kleinfahrzeug oder ein Verband, der ausschließlich aus Kleinfahrzeugen
+    > besteht, muss […] b) allen übrigen Fahrzeugen den für deren Kurs und zum Manövrieren
+    > notwendigen Raum lassen. Ein Kleinfahrzeug oder ein Verband im Sinne des Satzes 1 kann nicht
+    > verlangen, dass ein Fahrzeug ihm ausweicht.
+
+    **§ 6.20 Nr. 1 BinSchStrO (Vermeidung von Wellenschlag)** ·
+    [§ 6.20](https://www.gesetze-im-internet.de/binschstro_2012/__6_20.html)
+
+    > Es muss seine Geschwindigkeit rechtzeitig vermindern, jedoch nicht unter das Maß, das zu
+    > seiner sicheren Steuerung notwendig ist
+
+    Die Begegnungsregeln [§ 6.07](https://www.gesetze-im-internet.de/binschstro_2012/__6_07.html)
+    (enges Fahrwasser) gelten nicht für Kleinfahrzeuge. Für sie gelten diese Vorsorgepflichten und
+    [§ 1.04](https://www.gesetze-im-internet.de/binschstro_2012/__1_04.html).
+
 - question: Welche Gefahren können entstehen, wenn ein kleines von einem größeren Fahrzeug überholt wird?
   type: single
   answers:
@@ -48,6 +98,22 @@
   - Das größere Fahrzeug kann durch Wellenbildung aus dem Kurs laufen und kollidieren oder querschlagen,
     in flachen Gewässern auf Grund laufen.
   correct: A
+  explanation: |
+    **§ 6.20 Nr. 1 Satz 1 BinSchStrO (Vermeidung von Wellenschlag)** ·
+    [§ 6.20](https://www.gesetze-im-internet.de/binschstro_2012/__6_20.html)
+
+    > Ein Fahrzeug muss seine Geschwindigkeit so einrichten, dass Wellenschlag oder Sogwirkungen,
+    > die Schäden an einem stillliegenden oder einem in Fahrt befindlichen Fahrzeug oder
+    > Schwimmkörper oder an einer Anlage verursachen können, vermieden werden.
+
+    **§ 1.04 BinSchStrO (Allgemeine Sorgfaltspflicht)** ·
+    [§ 1.04](https://www.gesetze-im-internet.de/binschstro_2012/__1_04.html)
+
+    > Über die Anforderungen nach dieser Verordnung hinaus hat jeder Verkehrsteilnehmer auf
+    > Binnenschifffahrtsstraßen alle Vorsichtsmaßnahmen zu treffen, welche die allgemeine
+    > Sorgfaltspflicht und die Übung der Schifffahrt gebieten, um insbesondere 1. die Gefährdung von
+    > Menschenleben zu vermeiden,
+
 - question: Wie ist ein Überholmanöver durchzuführen?
   type: single
   answers:
@@ -58,3 +124,26 @@
   - Zügig überholen. Dicht am Ufer entlang fahren, eventuelle Schallzeichen müssen von Kleinfahrzeugen
     beachtet werden.
   correct: A
+  explanation: |
+    **§ 6.09 Nr. 1 BinSchStrO (Überholen)** ·
+    [§ 6.09](https://www.gesetze-im-internet.de/binschstro_2012/__6_09.html)
+
+    > Das Überholen ist nur gestattet, nachdem sich der Überholende vergewissert hat, dass dieses
+    > Manöver ohne Gefahr ausgeführt werden kann.
+
+    **§ 6.03 Nr. 1 BinSchStrO (Allgemeine Grundsätze)** ·
+    [§ 6.03](https://www.gesetze-im-internet.de/binschstro_2012/__6_03.html)
+
+    > Das Begegnen, Kreuzen oder Überholen ist nur gestattet, wenn das Fahrwasser unter
+    > Berücksichtigung aller örtlichen Umstände und des übrigen Verkehrs hinreichenden Raum für die
+    > Vorbeifahrt gewährt.
+
+    **§ 6.10 Nr. 1 BinSchStrO (Verhalten beim Überholen)** ·
+    [§ 6.10](https://www.gesetze-im-internet.de/binschstro_2012/__6_10.html)
+
+    > Der Überholende darf an Backbord oder an Steuerbord des Vorausfahrenden überholen. Ist das
+    > Überholen möglich, ohne dass der Vorausfahrende seinen Kurs zu ändern braucht, gibt der
+    > Überholende kein Schallzeichen.
+
+    § 6.10 gilt nicht für Kleinfahrzeuge ([§ 6.02](https://www.gesetze-im-internet.de/binschstro_2012/__6_02.html)). Sie können nach [§ 4.02](https://www.gesetze-im-internet.de/binschstro_2012/__4_02.html) die allgemeinen
+    Schallzeichen geben.

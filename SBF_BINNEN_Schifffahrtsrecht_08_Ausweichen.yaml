@@ -6,6 +6,15 @@
   - Es muss das luvwärtige Fahrzeug dem leewärtigen Fahrzeug ausweichen.
   - Es muss das leewärtige Fahrzeug dem luvwärtigen Fahrzeug ausweichen.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 4 Satz 1 Buchstabe a BinSchStrO (zwei Kleinfahrzeuge mit Maschinenantrieb)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Zwei Kleinfahrzeuge mit Maschinenantrieb, deren Kurse sich derart kreuzen, dass die Gefahr
+    > eines Zusammenstoßes besteht, müssen einander wie folgt ausweichen: a) wenn sie sich auf
+    > entgegengesetzten oder fast entgegengesetzten Kursen nähern, muss jedes seinen Kurs nach
+    > Steuerbord so ändern, dass es an der Backbordseite des anderen vorbeifährt;
+
 - question: Zwei Motorboote nähern sich auf kreuzenden Kursen. Es besteht die Gefahr eines Zusammenstoßes.
     Wer ist ausweichpflichtig?
   type: single
@@ -15,6 +24,14 @@
   - Es muss das luvwärtige Fahrzeug dem leewärtigen Fahrzeug ausweichen.
   - Es muss das leewärtige Fahrzeug dem luvwärtigen Fahrzeug ausweichen.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 4 Satz 1 Buchstabe b BinSchStrO (zwei Kleinfahrzeuge mit Maschinenantrieb)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Zwei Kleinfahrzeuge mit Maschinenantrieb, deren Kurse sich derart kreuzen, dass die Gefahr
+    > eines Zusammenstoßes besteht, müssen einander wie folgt ausweichen: […] b) wenn sich ihre
+    > Kurse kreuzen, muss dasjenige ausweichen, welches das andere an seiner Steuerbordseite hat;
+
 - question: Wie muss sich ein Segelfahrzeug auf einer Binnenschifffahrtsstraße, welches sich auf Kollisionskurs
     mit einem Kleinfahrzeug mit Maschinenantrieb befindet, verhalten?
   type: single
@@ -24,6 +41,16 @@
   - Es hält Kurs und reduziert die Geschwindigkeit.
   - Es wechselt den Kurs nach Steuerbord und hält die Geschwindigkeit.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 1 BinSchStrO (Kleinfahrzeuge untereinander)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Ein Kleinfahrzeug mit Maschinenantrieb muss einem Kleinfahrzeug ohne Maschinenantrieb
+    > ausweichen.
+
+    Wer nicht ausweichpflichtig ist, hält Kurs und Geschwindigkeit bei, damit der Ausweichpflichtige
+    sicher ausweichen kann.
+
 - question: Wie muss sich ein Fahrzeug mit Topplicht und Seitenlichtern gegenüber einem Kleinfahrzeug
     mit Seitenlichtern, welches sich auf Kollisionskurs befindet, verhalten?
   type: single
@@ -33,6 +60,18 @@
   - Es hält Kurs und reduziert die Geschwindigkeit.
   - Es muss ausweichen.
   correct: A
+  explanation: |
+    **§ 6.02 Nr. 1 BinSchStrO (Kleinfahrzeuge gegenüber anderen Fahrzeugen)** ·
+    [§ 6.02](https://www.gesetze-im-internet.de/binschstro_2012/__6_02.html)
+
+    > Ein einzeln fahrendes Kleinfahrzeug oder ein Verband, der ausschließlich aus Kleinfahrzeugen
+    > besteht, muss […] b) allen übrigen Fahrzeugen den für deren Kurs und zum Manövrieren
+    > notwendigen Raum lassen. Ein Kleinfahrzeug oder ein Verband im Sinne des Satzes 1 kann nicht
+    > verlangen, dass ein Fahrzeug ihm ausweicht.
+
+    Wer nicht ausweichpflichtig ist, hält Kurs und Geschwindigkeit bei, damit der Ausweichpflichtige
+    sicher ausweichen kann.
+
 - question: Wie muss sich ein Kleinfahrzeug mit Maschinenantrieb gegenüber einem Segelsurfer, der auf
     Kollisionskurs liegt, verhalten?
   type: single
@@ -42,6 +81,20 @@
   - Es hält Kurs und reduziert die Geschwindigkeit.
   - Es muss nicht ausweichen.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 1 BinSchStrO (Kleinfahrzeuge untereinander)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Ein Kleinfahrzeug mit Maschinenantrieb muss einem Kleinfahrzeug ohne Maschinenantrieb
+    > ausweichen.
+
+    **§ 1.01 Nr. 14 BinSchStrO (Kleinfahrzeug)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „Kleinfahrzeug“: ein Fahrzeug, dessen Schiffskörper, ohne Ruder und Bugspriet, eine größte
+    > Länge von weniger als 20,00 m aufweist, einschließlich Segelsurfbrett, Amphibienfahrzeug,
+    > Luftkissenfahrzeug und Tragflügelboot, ausgenommen […]
+
 - question: Wer ist ausweichpflichtig, wenn ein Segler mit Wind von Backbord einer Segelyacht mit Wind
     von Steuerbord und einem schwarzen Kegel auf Kollisionskurs begegnet?
   type: single
@@ -52,6 +105,25 @@
   - Beide Segelyachten, weil eines als Kleinfahrzeug mit Maschinenantrieb gilt und das andere den Wind
     von Backbord hat.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 15 BinSchStrO (Fahrzeug unter Segel)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „Fahrzeug unter Segel“: ein Fahrzeug, das nur unter Segel fährt; ein Fahrzeug, das unter Segel
+    > fährt und gleichzeitig eine Antriebsmaschine benutzt, gilt als Fahrzeug mit Maschinenantrieb;
+
+    **§ 3.13 Nr. 6 BinSchStrO (Kleinfahrzeug unter Segel mit Maschinenantrieb)** ·
+    [§ 3.13](https://www.gesetze-im-internet.de/binschstro_2012/__3_13.html)
+
+    > Ein Kleinfahrzeug unter Segel, das gleichzeitig mit Maschinenantrieb fährt, muss bei Tag einen
+    > schwarzen Kegel mit der Spitze nach unten […] führen.
+
+    **§ 6.02a Nr. 1 BinSchStrO (Kleinfahrzeuge untereinander)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Ein Kleinfahrzeug mit Maschinenantrieb muss einem Kleinfahrzeug ohne Maschinenantrieb
+    > ausweichen.
+
 - question: Wie lautet eine der drei Grundregeln der Binnenschifffahrtsstraßen-Ordnung, nach denen Kleinfahrzeuge
     unter Segel einander ausweichen?
   type: single
@@ -63,6 +135,15 @@
   - Wenn sie den Wind von derselben Seite haben, muss das leeseitige dem luvseitigen ausweichen.
   - Wenn sie den Wind von derselben Seite haben, müssen beide Fahrzeuge ausweichen.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 5 Satz 1 Buchstabe a BinSchStrO (zwei Kleinfahrzeuge unter Segel)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Zwei Kleinfahrzeuge unter Segel, deren Kurse sich derart kreuzen, dass die Gefahr eines
+    > Zusammenstoßes besteht, müssen einander wie folgt ausweichen: a) wenn sie den Wind nicht von
+    > derselben Seite haben, muss das Fahrzeug, das den Wind von Backbord hat, dem anderen
+    > ausweichen;
+
 - question: Wann besteht die Gefahr eines Zusammenstoßes?
   type: single
   answers:
@@ -71,6 +152,13 @@
   - Wenn sich zwei Fahrzeuge einander nähern und sich der Kurs eines Fahrzeuges ändert.
   - Wenn sich zwei Fahrzeuge einander nähern und beide Fahrzeuge ihren Kurs nach steuerbord ändern.
   correct: A
+  explanation: |
+    Das Gesetz definiert die „Gefahr eines Zusammenstoßes“ nicht. Die Ausweichregeln in
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html) und
+    [§ 6.03a](https://www.gesetze-im-internet.de/binschstro_2012/__6_03a.html) setzen sie voraus,
+    wenn sich Kurse kreuzen. Die Seemannschaft erkennt sie an gleichbleibender Peilung bei sich
+    verringerndem Abstand.
+
 - question: Wie müssen Ausweichmanöver durchgeführt werden?
   type: single
   answers:
@@ -79,6 +167,14 @@
   - Rechtzeitig, klar erkennbar und nach Backbord.
   - Rechtzeitig, klar erkennbar und vorsichtig.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 3 Satz 2 BinSchStrO (Ausweichen)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Sofern diese Regel aus nautischen Gründen nicht eingehalten werden kann, muss das
+    > ausweichpflichtige Kleinfahrzeug rechtzeitig und unmissverständlich durch geeignete Manöver
+    > zeigen, wie es ausweichen will.
+
 - question: Ein Kleinfahrzeug und ein Fahrzeug über 20 m Länge nähern sich auf kreuzenden Kursen. Es besteht
     die Gefahr eines Zusammenstoßes. Wer ist ausweichpflichtig?
   type: single
@@ -88,6 +184,15 @@
   - Ausweichpflichtig ist das Fahrzeug, welches das andere an seiner Steuerbordseite sieht.
   - Ausweichpflichtig ist das Fahrzeug, welches das andere an seiner Backbordseite sieht.
   correct: A
+  explanation: |
+    **§ 6.02 Nr. 1 BinSchStrO (Kleinfahrzeuge gegenüber anderen Fahrzeugen)** ·
+    [§ 6.02](https://www.gesetze-im-internet.de/binschstro_2012/__6_02.html)
+
+    > Ein einzeln fahrendes Kleinfahrzeug oder ein Verband, der ausschließlich aus Kleinfahrzeugen
+    > besteht, muss […] b) allen übrigen Fahrzeugen den für deren Kurs und zum Manövrieren
+    > notwendigen Raum lassen. Ein Kleinfahrzeug oder ein Verband im Sinne des Satzes 1 kann nicht
+    > verlangen, dass ein Fahrzeug ihm ausweicht.
+
 - question: Wie muss sich ein kreuzendes Kleinfahrzeug unter Segel am Wind in der Nähe eines Ufers gegenüber
     einem anderen Kleinfahrzeug verhalten?
   type: single
@@ -98,6 +203,13 @@
   - Es darf ein anderes Kleinfahrzeug, das sein backbordseitiges Ufer verlässt, zum Ausweichen zwingen.
   - Es darf ein anderes Kleinfahrzeug, das sein steuerbordseitiges Ufer anhält, zum Ausweichen zwingen.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 6 BinSchStrO (Kreuzen am Wind)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Ein unter Segel fahrendes Kleinfahrzeug am Wind darf nicht derart kreuzen, dass es ein anderes
+    > Kleinfahrzeug, das das an seiner Steuerbordseite gelegene Ufer anhält, zum Ausweichen zwingt.
+
 - question: |-
     Wer ist ausweichpflichtig bzw. wer ist nicht ausweichpflichtig?
 
@@ -109,6 +221,24 @@
   - Das Fahrzeug unter Maschinenantrieb ist ausweichpflichtig.
   - Beide Fahrzeuge sind ausweichpflichtig.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 4 Satz 1 Buchstabe b BinSchStrO (zwei Kleinfahrzeuge mit Maschinenantrieb)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Zwei Kleinfahrzeuge mit Maschinenantrieb, deren Kurse sich derart kreuzen, dass die Gefahr
+    > eines Zusammenstoßes besteht, müssen einander wie folgt ausweichen: […] b) wenn sich ihre
+    > Kurse kreuzen, muss dasjenige ausweichen, welches das andere an seiner Steuerbordseite hat;
+
+    **§ 1.01 Nr. 15 BinSchStrO (Fahrzeug unter Segel)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „Fahrzeug unter Segel“: ein Fahrzeug, das nur unter Segel fährt; ein Fahrzeug, das unter Segel
+    > fährt und gleichzeitig eine Antriebsmaschine benutzt, gilt als Fahrzeug mit Maschinenantrieb;
+
+    Nach der Katalogantwort fährt das Segelfahrzeug mit Maschinenantrieb. Das Motorboot liegt in der
+    Abbildung an seiner Steuerbordseite, es muss deshalb ausweichen. Ohne laufenden Motor müsste das
+    Motorboot nach § 6.02a Nr. 1 ausweichen.
+
 - question: Was hat der Schiffsführer eines Kleinfahrzeugs beim Begegnen mit Fahrzeugen, die nicht Kleinfahrzeuge
     sind, zu beachten?
   type: single
@@ -120,6 +250,15 @@
   - Kleinfahrzeuge sind gegenüber Fahrzeugen, die nicht Kleinfahrzeuge sind, ausweichpflichtig. Sie brauchen
     aber keinen besonderen Raum zum Manövrieren frei zu geben.
   correct: A
+  explanation: |
+    **§ 6.02 Nr. 1 BinSchStrO (Kleinfahrzeuge gegenüber anderen Fahrzeugen)** ·
+    [§ 6.02](https://www.gesetze-im-internet.de/binschstro_2012/__6_02.html)
+
+    > Ein einzeln fahrendes Kleinfahrzeug oder ein Verband, der ausschließlich aus Kleinfahrzeugen
+    > besteht, muss […] b) allen übrigen Fahrzeugen den für deren Kurs und zum Manövrieren
+    > notwendigen Raum lassen. Ein Kleinfahrzeug oder ein Verband im Sinne des Satzes 1 kann nicht
+    > verlangen, dass ein Fahrzeug ihm ausweicht.
+
 - question: Von Backbord kommend kreuzt ein Fahrzeug unter Segel mit einem schwarzen Kegel, Spitze nach
     unten, den Kurs eines Fahrzeuges mit Maschinenantrieb. Wer ist ausweichpflichtig?
   type: single
@@ -129,6 +268,23 @@
   - Das Fahrzeug unter Segel mit einem schwarzen Kegel ist nicht ausweichpflichtig.
   - Beide Fahrzeuge sind ausweichpflichtig.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 15 BinSchStrO (Fahrzeug unter Segel)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „Fahrzeug unter Segel“: ein Fahrzeug, das nur unter Segel fährt; ein Fahrzeug, das unter Segel
+    > fährt und gleichzeitig eine Antriebsmaschine benutzt, gilt als Fahrzeug mit Maschinenantrieb;
+
+    **§ 6.02a Nr. 4 Satz 1 Buchstabe b BinSchStrO (zwei Kleinfahrzeuge mit Maschinenantrieb)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Zwei Kleinfahrzeuge mit Maschinenantrieb, deren Kurse sich derart kreuzen, dass die Gefahr
+    > eines Zusammenstoßes besteht, müssen einander wie folgt ausweichen: […] b) wenn sich ihre
+    > Kurse kreuzen, muss dasjenige ausweichen, welches das andere an seiner Steuerbordseite hat;
+
+    Das Fahrzeug unter Segel mit dem schwarzen Kegel läuft mit Maschinenantrieb ([§ 3.13](https://www.gesetze-im-internet.de/binschstro_2012/__3_13.html)). Es kommt von Backbord
+    und hat das andere Fahrzeug an Steuerbord.
+
 - question: |-
     Zwei Kleinfahrzeuge unter Segel A und B liegen auf Kollisionskurs; A führt einen schwarzen Kegel. Wer ist ausweichpflichtig?
 
@@ -140,6 +296,21 @@
   - Ausweichpflichtig ist das Fahrzeug, welches das Andere an seiner Backbordseite sieht.
   - Ausweichpflichtig ist das Fahrzeug, welches den Wind von Backbord hat.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 1 BinSchStrO (Kleinfahrzeuge untereinander)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Ein Kleinfahrzeug mit Maschinenantrieb muss einem Kleinfahrzeug ohne Maschinenantrieb
+    > ausweichen.
+
+    **§ 1.01 Nr. 15 BinSchStrO (Fahrzeug unter Segel)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „Fahrzeug unter Segel“: ein Fahrzeug, das nur unter Segel fährt; ein Fahrzeug, das unter Segel
+    > fährt und gleichzeitig eine Antriebsmaschine benutzt, gilt als Fahrzeug mit Maschinenantrieb;
+
+    Fahrzeug A führt den schwarzen Kegel und fährt damit unter Maschinenantrieb ([§ 3.13](https://www.gesetze-im-internet.de/binschstro_2012/__3_13.html)).
+
 - question: Ein Fahrzeug unter Segel kreuzt eine Binnenschifffahrtsstraße. In der Fahrwassermitte kommt
     ihm ein Kleinfahrzeug mit Maschinenantrieb zu Berg entgegen. Wer ist ausweichpflichtig?
   type: single
@@ -149,6 +320,15 @@
   - Fahrzeug unter Segel.
   - Beide sind ausweichpflichtig.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 1 BinSchStrO (Kleinfahrzeuge untereinander)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Ein Kleinfahrzeug mit Maschinenantrieb muss einem Kleinfahrzeug ohne Maschinenantrieb
+    > ausweichen.
+
+    Das Fahrzeug mit Maschinenantrieb weicht dem segelnden Kleinfahrzeug aus.
+
 - question: |-
     Zwei Kleinfahrzeuge A und B unter Segel liegen auf Kollisionskurs (Skizze). Wer ist ausweichpflichtig?
 
@@ -164,6 +344,15 @@
   - B ist ausweichpflichtig. Segelfahrzeuge mit Wind von Steuerbord müssen Segelfahrzeugen mit Wind von
     Backbord ausweichen.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 5 Satz 1 Buchstabe a BinSchStrO (zwei Kleinfahrzeuge unter Segel)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Zwei Kleinfahrzeuge unter Segel, deren Kurse sich derart kreuzen, dass die Gefahr eines
+    > Zusammenstoßes besteht, müssen einander wie folgt ausweichen: a) wenn sie den Wind nicht von
+    > derselben Seite haben, muss das Fahrzeug, das den Wind von Backbord hat, dem anderen
+    > ausweichen;
+
 - question: |-
     Zwei Kleinfahrzeuge unter Segel liegen auf Kollisionskurs. Wer ist ausweichpflichtig?
 
@@ -175,6 +364,14 @@
   - A ist ausweichpflichtig. Das leeseitige Boot muss dem luvseitigen ausweichen.
   - B ist ausweichpflichtig. Das leeseitige Boot muss dem luvseitigen ausweichen.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 5 Satz 1 Buchstabe b BinSchStrO (zwei Kleinfahrzeuge unter Segel)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Zwei Kleinfahrzeuge unter Segel, deren Kurse sich derart kreuzen, dass die Gefahr eines
+    > Zusammenstoßes besteht, müssen einander wie folgt ausweichen: […] b) wenn sie den Wind von
+    > derselben Seite haben, muss das luvseitige Fahrzeug dem leeseitigen Fahrzeug ausweichen;
+
 - question: Ein Kleinfahrzeug A segelt nachts auf Vorwindkurs stromab, Großsegel an Steuerbord. Backbord
     querab kommt ein grünes Seitenlicht eines Bootes B immer näher, das kein Topplicht führt. Wer ist
     ausweichpflichtig?
@@ -189,6 +386,16 @@
   - Boot B ist ausweichpflichtig, weil es sich um ein Kleinfahrzeug handelt und Kleinfahrzeuge anderen
     Kleinfahrzeugen unter Segel ausweichen müssen.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 5 Satz 1 Buchstabe c BinSchStrO (zwei Kleinfahrzeuge unter Segel)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Zwei Kleinfahrzeuge unter Segel, deren Kurse sich derart kreuzen, dass die Gefahr eines
+    > Zusammenstoßes besteht, müssen einander wie folgt ausweichen: […] c) wenn ein Fahrzeug mit
+    > Wind von Backbord ein Fahrzeug in Luv sichtet und nicht mit Sicherheit feststellen kann, ob
+    > das andere Fahrzeug den Wind von Backbord oder von Steuerbord hat, muss es dem anderen
+    > ausweichen.
+
 - question: |-
     Der seitliche Abstand zwischen den Booten A, B und C verringert sich ständig. Welches Boot kann seinen Kurs beibehalten?
 
@@ -200,6 +407,14 @@
   - Boot B, weil leeseitig.
   - Boot C, weil leeseitig.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 5 Satz 1 Buchstabe b BinSchStrO (zwei Kleinfahrzeuge unter Segel)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Zwei Kleinfahrzeuge unter Segel, deren Kurse sich derart kreuzen, dass die Gefahr eines
+    > Zusammenstoßes besteht, müssen einander wie folgt ausweichen: […] b) wenn sie den Wind von
+    > derselben Seite haben, muss das luvseitige Fahrzeug dem leeseitigen Fahrzeug ausweichen;
+
 - question: |-
     Wer ist wem gegenüber kurshaltepflichtig?
 
@@ -211,6 +426,22 @@
   - B gegenüber C und A, A gegenüber C.
   - A gegenüber B und C, C gegenüber B.
   correct: A
+  explanation: |
+    **§ 6.02a Nr. 5 Satz 1 Buchstabe a BinSchStrO (zwei Kleinfahrzeuge unter Segel)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Zwei Kleinfahrzeuge unter Segel, deren Kurse sich derart kreuzen, dass die Gefahr eines
+    > Zusammenstoßes besteht, müssen einander wie folgt ausweichen: a) wenn sie den Wind nicht von
+    > derselben Seite haben, muss das Fahrzeug, das den Wind von Backbord hat, dem anderen
+    > ausweichen;
+
+    **§ 6.02a Nr. 5 Satz 1 Buchstabe b BinSchStrO (zwei Kleinfahrzeuge unter Segel)** ·
+    [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html)
+
+    > Zwei Kleinfahrzeuge unter Segel, deren Kurse sich derart kreuzen, dass die Gefahr eines
+    > Zusammenstoßes besteht, müssen einander wie folgt ausweichen: […] b) wenn sie den Wind von
+    > derselben Seite haben, muss das luvseitige Fahrzeug dem leeseitigen Fahrzeug ausweichen;
+
 - question: Ein Segelboot gerät in das Feld einer Segelregatta, ohne selbst Teilnehmer zu sein. Welche
     Ausweichregeln sind zu beachten?
   type: single
@@ -220,3 +451,13 @@
   - Gegenüber Regattateilnehmern, die der Wettfahrtregeln, gegenüber anderen Fahrzeugen die der Binnenschifffahrtsstraßen-Ordnung.
   - Fahrzeuge, die an einer Regatta teilnehmen, müssen unbeteiligten Fahrzeugen ausweichen.
   correct: A
+  explanation: |
+    **§ 1.23 BinSchStrO (Erlaubnis besonderer Veranstaltungen)** ·
+    [§ 1.23](https://www.gesetze-im-internet.de/binschstro_2012/__1_23.html)
+
+    > Eine sportliche Veranstaltung, Wasserfestlichkeit oder sonstige Veranstaltung, die die
+    > Sicherheit und Leichtigkeit des Verkehrs beeinträchtigen kann, bedarf der Erlaubnis der
+    > zuständigen Behörde.
+
+    Ein Nichtteilnehmer im Regattafeld folgt den allgemeinen Regeln der BinSchStrO, hier
+    insbesondere [§ 6.02a](https://www.gesetze-im-internet.de/binschstro_2012/__6_02a.html).

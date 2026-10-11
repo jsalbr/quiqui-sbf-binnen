@@ -9,6 +9,19 @@
   - Verbot der Durchfahrt, jedoch für Kleinfahrzeuge ohne laufende Antriebsmaschine befahrbar.
   - Verbot der Durchfahrt, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.
   correct: A
+  explanation: |
+    **Anlage 7 Abschnitt I A.1 BinSchStrO (allgemeines Verbotszeichen)** · [Anlage
+    7](https://www.gesetze-im-internet.de/binschstro_2012/anlage_7.html)
+
+    > A.1 Verbot der Durchfahrt und Sperrung der Schifffahrt – allgemeines Verbotszeichen – […]
+    > entweder Tafel oder rote Lichter oder rote Flaggen
+
+    **§ 6.22 Nr. 1 BinSchStrO (Sperrung der Schifffahrt)** ·
+    [§ 6.22](https://www.gesetze-im-internet.de/binschstro_2012/__6_22.html)
+
+    > Wenn die zuständige Behörde durch ein allgemeines Zeichen A.1 (Anlage 7) bekannt gibt, dass
+    > die Schifffahrt gesperrt ist, muss ein Fahrzeug vor dem Zeichen anhalten.
+
 - question: |-
     Welche Bedeutung haben folgende Schifffahrtszeichen?
 
@@ -20,6 +33,18 @@
   - Stoppsignal für alle Fahrzeuge.
   - Außergewöhnliche Schifffahrtsbehinderung.
   correct: A
+  explanation: |
+    **§ 6.26 Nr. 4 Buchstabe c BinSchStrO (bewegliche Brücken)** ·
+    [§ 6.26](https://www.gesetze-im-internet.de/binschstro_2012/__6_26.html)
+
+    > zwei rote Lichter nebeneinander: keine Durchfahrt (Brücke geschlossen oder Gegenverkehr);
+
+    **§ 6.28a Nr. 2 Satz 2 Buchstabe b BinSchStrO (Schleuseneinfahrt)** ·
+    [§ 6.28a](https://www.gesetze-im-internet.de/binschstro_2012/__6_28a.html)
+
+    > ein festes rotes Licht oder zwei feste rote Lichter nebeneinander: Einfahrt verboten, Schleuse
+    > geschlossen;
+
 - question: |-
     Welche Bedeutung haben folgende Schifffahrtszeichen?
 
@@ -31,6 +56,23 @@
   - Stoppsignal für alle Fahrzeuge.
   - Außergewöhnliche Schifffahrtsbehinderung.
   correct: A
+  explanation: |
+    **Anlage 7 Abschnitt I A.1 BinSchStrO (allgemeines Verbotszeichen)** · [Anlage
+    7](https://www.gesetze-im-internet.de/binschstro_2012/anlage_7.html)
+
+    > Werden zwei Lichter oder zwei Flaggen übereinander gezeigt, bedeutet dies ein langdauerndes
+    > Verbot.
+
+    **§ 6.26 Nr. 4 Buchstabe a BinSchStrO (bewegliche Brücken)** ·
+    [§ 6.26](https://www.gesetze-im-internet.de/binschstro_2012/__6_26.html)
+
+    > zwei rote Lichter übereinander: keine Durchfahrt (Brücke gesperrt);
+
+    **§ 6.28a Nr. 2 Satz 2 Buchstabe a BinSchStrO (Schleuseneinfahrt)** ·
+    [§ 6.28a](https://www.gesetze-im-internet.de/binschstro_2012/__6_28a.html)
+
+    > zwei feste rote Lichter übereinander: Einfahrt verboten, Schleuse außer Betrieb;
+
 - question: |-
     Was bedeuten diese Lichter vor einer Schleuse?
 
@@ -42,6 +84,15 @@
   - Schleuse in Betrieb, auf Einfahrtsignal gemäß Reihenfolge warten.
   - Schleuse in Betrieb, auf Ausfahrtsignal gemäß Reihenfolge warten.
   correct: A
+  explanation: |
+    **§ 6.28a Nr. 2 Satz 2 Buchstabe d BinSchStrO (Schleuseneinfahrt)** ·
+    [§ 6.28a](https://www.gesetze-im-internet.de/binschstro_2012/__6_28a.html)
+
+    > ein festes grünes Licht oder zwei feste grüne Lichter nebeneinander: Einfahrt erlaubt.
+
+    Die Abbildung zeigt zwei grüne Lichter nebeneinander. Der Zusatz „Gegenverkehr gesperrt“ der
+    Katalogantwort steht nicht wörtlich im Gesetz.
+
 - question: |-
     Welche Bedeutung hat das nachstehende Tafelzeichen?
 
@@ -53,6 +104,18 @@
   - Die Durchfahrt ist nur durch diese Brückenöffnung und nur in eine Richtung gestattet.
   - Die Durchfahrt ist nur durch diese Brückenöffnung und in beide Richtungen gestattet.
   correct: A
+  explanation: |
+    **Anlage 7 Abschnitt I D.1 BinSchStrO (empfohlene Durchfahrtsöffnung)** · [Anlage
+    7](https://www.gesetze-im-internet.de/binschstro_2012/anlage_7.html)
+
+    > D.1 Empfohlene Durchfahrtsöffnung a) für Verkehr in beiden Richtungen;
+
+    **§ 6.25 Nr. 2 BinSchStrO (feste Brücken)** ·
+    [§ 6.25](https://www.gesetze-im-internet.de/binschstro_2012/__6_25.html)
+
+    > wird empfohlen, vorzugsweise diese Öffnung zu benutzen. Ist die Öffnung nach Satz 1 Buchstabe
+    > a gekennzeichnet, ist die Durchfahrt in beiden Richtungen erlaubt;
+
 - question: |-
     Welche Bedeutung haben die nachstehenden Tafelzeichen?
 
@@ -64,6 +127,18 @@
   - Die Durchfahrt ist nur durch diese Brückenöffnung und in beide Richtungen gestattet.
   - Die Durchfahrt ist nur durch diese Brückenöffnung und nur in eine Richtung gestattet.
   correct: A
+  explanation: |
+    **Anlage 7 Abschnitt I D.1 BinSchStrO (empfohlene Durchfahrtsöffnung)** · [Anlage
+    7](https://www.gesetze-im-internet.de/binschstro_2012/anlage_7.html)
+
+    > D.1 Empfohlene Durchfahrtsöffnung […] b) für Verkehr nur in Richtung, in der die Zeichen
+    > sichtbar sind (in der anderen Richtung untersagt).
+
+    **§ 6.25 Nr. 2 BinSchStrO (feste Brücken)** ·
+    [§ 6.25](https://www.gesetze-im-internet.de/binschstro_2012/__6_25.html)
+
+    > ist sie nach Satz 1 Buchstabe b gekennzeichnet, ist die Durchfahrt in Gegenrichtung verboten.
+
 - question: |-
     Was bedeuten diese Tafelzeichen an Brücken?
 
@@ -75,6 +150,14 @@
   - Empfohlene Durchfahrt nur zwischen den beiden Tafeln.
   - Empfohlene Durchfahrt mit Gegenverkehr.
   correct: A
+  explanation: |
+    **§ 6.24 Nr. 2 Buchstabe a BinSchStrO (Brücken und Wehre)** ·
+    [§ 6.24](https://www.gesetze-im-internet.de/binschstro_2012/__6_24.html)
+
+    > Ist das Durchfahren einer Brücken- oder Wehröffnung gestattet und ist die Öffnung
+    > gekennzeichnet a) durch das Tafelzeichen A.10 (Anlage 7), ist die Schifffahrt in dieser
+    > Öffnung außerhalb des durch die beiden Tafeln dieses Zeichens begrenzten Raumes verboten;
+
 - question: |-
     Was bedeuten diese Tafelzeichen an Brücken?
 
@@ -86,6 +169,15 @@
   - Durchfahrt nur außerhalb der beiden Tafeln erlaubt.
   - Empfohlene Durchfahrt mit Gegenverkehr.
   correct: A
+  explanation: |
+    **§ 6.24 Nr. 2 Buchstabe b BinSchStrO (Brücken und Wehre)** ·
+    [§ 6.24](https://www.gesetze-im-internet.de/binschstro_2012/__6_24.html)
+
+    > Ist das Durchfahren einer Brücken- oder Wehröffnung gestattet und ist die Öffnung
+    > gekennzeichnet […] b) durch das Tafelzeichen D.2 (Anlage 7), wird der Schifffahrt empfohlen,
+    > sich in dieser Öffnung in dem durch die beiden Tafeln dieses Zeichens begrenzten Raum zu
+    > halten.
+
 - question: |-
     Was bedeutet dieses Tafelzeichen an Brücken?
 
@@ -97,6 +189,15 @@
   - Empfohlene Durchfahrt nur in eine Richtung.
   - Durchfahrt nur neben der Tafel erlaubt.
   correct: A
+  explanation: |
+    **§ 6.25 Nr. 2 Satz 2 BinSchStrO (feste Brücken, beide Richtungen)** ·
+    [§ 6.25](https://www.gesetze-im-internet.de/binschstro_2012/__6_25.html)
+
+    > Ist die Öffnung nach Satz 1 Buchstabe a gekennzeichnet, ist die Durchfahrt in beiden
+    > Richtungen erlaubt;
+
+    Zeichen D.1a: Die Durchfahrt ist in beiden Richtungen erlaubt, also mit Gegenverkehr.
+
 - question: |-
     Was bedeuten diese Tafelzeichen an Brücken?
 
@@ -108,6 +209,14 @@
   - Empfohlene Durchfahrt in beide Richtungen.
   - Durchfahrt nur außerhalb der beiden Tafeln erlaubt.
   correct: A
+  explanation: |
+    **§ 6.25 Nr. 2 Satz 2 BinSchStrO (feste Brücken, eine Richtung)** ·
+    [§ 6.25](https://www.gesetze-im-internet.de/binschstro_2012/__6_25.html)
+
+    > ist sie nach Satz 1 Buchstabe b gekennzeichnet, ist die Durchfahrt in Gegenrichtung verboten.
+
+    Zeichen D.1b: Gegenverkehr ist in dieser Öffnung ausgeschlossen.
+
 - question: |-
     Was bedeutet dieses Tafelzeichen im Bereich eines Wehres?
 
@@ -119,6 +228,13 @@
   - Gesperrte Wasserfläche, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.
   - Schutzbedürftige Anlage.
   correct: A
+  explanation: |
+    **§ 6.27 Nr. 1 BinSchStrO (Durchfahren der Wehre)** ·
+    [§ 6.27](https://www.gesetze-im-internet.de/binschstro_2012/__6_27.html)
+
+    > Das Durchfahren einer Wehröffnung ist verboten. Das Verbot, eine Wehröffnung zu durchfahren,
+    > kann durch das Zeichen A.1 (Anlage 7) angezeigt werden.
+
 - question: Welche Bedeutung haben vor einer Schleuse ein rotes oder ein rotes und ein grünes Licht?
   type: single
   answers:
@@ -127,6 +243,15 @@
   - Ausfahrt verboten, Öffnen der Schleuse wird vorbereitet.
   - Ausfahrt verboten, Schließen der Schleuse wird vorbereitet.
   correct: A
+  explanation: |
+    **§ 6.28a Nr. 2 Satz 2 Buchstaben b und c BinSchStrO (Schleuseneinfahrt)** ·
+    [§ 6.28a](https://www.gesetze-im-internet.de/binschstro_2012/__6_28a.html)
+
+    > ein festes rotes Licht oder zwei feste rote Lichter nebeneinander: Einfahrt verboten, Schleuse
+    > geschlossen; c) das Erlöschen eines der beiden nebeneinander gezeigten roten Lichter oder ein
+    > festes rotes und ein festes grünes Licht nebeneinander oder ein festes rotes und ein festes
+    > grünes Licht übereinander: Einfahrt verboten, Öffnung der Schleuse wird vorbereitet;
+
 - question: In welcher Reihenfolge fahren Fahrzeuge, die nicht Kleinfahrzeuge sind, und Kleinfahrzeuge,
     die gemeinsam geschleust werden sollen, in die Schleuse ein?
   type: single
@@ -140,6 +265,14 @@
   - Kleinfahrzeuge fahren nach den Fahrzeugen, die nicht Kleinfahrzeuge sind und ohne Aufforderung durch
     die Schleusenaufsicht in die Schleuse ein.
   correct: A
+  explanation: |
+    **§ 6.29 Nr. 6 BinSchStrO (Reihenfolge der Schleusungen)** ·
+    [§ 6.29](https://www.gesetze-im-internet.de/binschstro_2012/__6_29.html)
+
+    > Bei gemeinsamer Schleusung eines Klein- oder Sportfahrzeugs mit anderen Fahrzeugen darf ein
+    > Klein- oder Sportfahrzeug erst nach den anderen Fahrzeugen und nach Aufforderung durch die
+    > Schleusenaufsicht in die Schleuse einfahren.
+
 - question: Mehrere Kleinfahrzeuge sollen gemeinsam vom Oberwasser in das Unterwasser geschleust werden.
     Worauf ist bei deren Einfahrt in die Schleuse und während des Schleusens besonders zu achten?
   type: single
@@ -157,6 +290,22 @@
     aufsetzen kann. Die Festmacherleinen sind so zu bedienen, dass Stöße gegen Schleusenwände, Schleusentore,
     andere Fahrzeuge vermieden werden und ein sicheres Fieren der Leinen möglich ist.
   correct: A
+  explanation: |
+    **§ 6.28 Nr. 8 BinSchStrO (Einfahrt in Schleusen)** ·
+    [§ 6.28](https://www.gesetze-im-internet.de/binschstro_2012/__6_28.html)
+
+    > Insbesondere muss das oder der letzte vom Oberwasser her einfahrende Fahrzeug oder
+    > Schwimmkörper so weit vorfahren, dass es oder er beim Leeren der Schleusenkammer nicht auf den
+    > Drempel aufsetzen kann.
+
+    **§ 6.28 Nr. 9 Buchstabe b BinSchStrO (in den Schleusenkammern)** ·
+    [§ 6.28](https://www.gesetze-im-internet.de/binschstro_2012/__6_28.html)
+
+    > In den Schleusenkammern […] muss ein Fahrzeug während des Füllens und Leerens der
+    > Schleusenkammer und bis zur Freigabe der Ausfahrt festgemacht sein und die Befestigungsmittel
+    > müssen derart bedient werden, dass Stöße gegen die Schleusenwände, die Schleusentore oder die
+    > Schutzvorrichtungen sowie gegen ein anderes Fahrzeug oder einen Schwimmkörper vermieden werden
+
 - question: |-
     Was bedeutet dieses Tafelzeichen?
 
@@ -168,6 +317,14 @@
   - Gesperrte Wasserfläche, für Kleinfahrzeuge nicht befahrbar.
   - Gesperrte Wasserfläche, Verbot der Durchfahrt und Sperrung der Schifffahrt.
   correct: A
+  explanation: |
+    **§ 6.22 Nr. 2 BinSchStrO (gesperrte Wasserflächen)** ·
+    [§ 6.22](https://www.gesetze-im-internet.de/binschstro_2012/__6_22.html)
+
+    > Das Befahren von einer Wasserfläche, die durch das Tafelzeichen A.1a (Anlage 7) gekennzeichnet
+    > ist, ist einem Fahrzeug oder einem Schwimmkörper – mit Ausnahme eines Kleinfahrzeugs ohne
+    > Antriebsmaschine – verboten.
+
 - question: |-
     Was bedeutet dieses Tafelzeichen?
 
@@ -179,6 +336,12 @@
   - Fahrverbot für Fahrzeuge ohne Antriebsmaschine.
   - Fahrverbot für Kleinfahrzeuge ohne laufende Antriebsmaschine.
   correct: A
+  explanation: |
+    **Anlage 7 Abschnitt I A.12 BinSchStrO (Fahrverbot)** · [Anlage
+    7](https://www.gesetze-im-internet.de/binschstro_2012/anlage_7.html)
+
+    > A.12 Fahrverbot für ein Fahrzeug mit Maschinenantrieb
+
 - question: Wie ist eine geschützte Badezone gekennzeichnet?
   type: single
   answers:
@@ -187,6 +350,22 @@
   - Durch rote Tonnen.
   - Durch rot-grün gestreifte Tonnen.
   correct: A
+  explanation: |
+    **Anlage 8 Abschnitt VIII Nr. 1 BinSchStrO (besondere Wasserfläche)** · [Anlage
+    8](https://www.gesetze-im-internet.de/binschstro_2012/anlage_8.html)
+
+    > Gelbe Stumpftonnen (Bild 33) oder gelbe Tonnen (Bild 34) mit oder ohne Radarreflektoren oder
+    > mit oder ohne Toppzeichen kennzeichnen eine gesperrte Wasserfläche.
+
+    **§ 6.22 Nr. 3 BinSchStrO (gesperrte Wasserflächen)** ·
+    [§ 6.22](https://www.gesetze-im-internet.de/binschstro_2012/__6_22.html)
+
+    > Das Befahren einer Wasserfläche, die […] durch eine Reihe von gelben Tonnen (Anlage 8,
+    > Abschnitt VIII Bild 33/34) begrenzt wird, ist allen Fahrzeugen und Schwimmkörpern verboten.
+
+    Der Begriff „Badezone“ steht nicht wörtlich im Gesetz. Das Bade- und Schwimmverbot regelt
+    [§ 8.10](https://www.gesetze-im-internet.de/binschstro_2012/__8_10.html).
+
 - question: |-
     Was bedeutet dieses Tafelzeichen?
 
@@ -198,6 +377,12 @@
   - Schleuse.
   - Sicherheitstor.
   correct: A
+  explanation: |
+    **Anlage 7 Abschnitt I E.3 BinSchStrO (Hinweiszeichen)** · [Anlage
+    7](https://www.gesetze-im-internet.de/binschstro_2012/anlage_7.html)
+
+    > E.3 Hinweis auf ein Wehr
+
 - question: Welche Funktion haben gelbe Tonnen mit einem Radarreflektor vor Brückenpfeilern?
   type: single
   answers:
@@ -206,6 +391,14 @@
   - Kenntlichmachung einer gesperrten Brückendurchfahrt.
   - Kenntlichmachung einer Untiefe im Brückenbereich.
   correct: A
+  explanation: |
+    **Anlage 8 Abschnitt V A.1 BinSchStrO (Radarschifffahrt)** · [Anlage
+    8](https://www.gesetze-im-internet.de/binschstro_2012/anlage_8.html)
+
+    > Bezeichnung eines Radarzieles 1. Farbe: gelb Form: Tonne mit Toppzeichen als Radarreflektor
+    > Schwimmstange (Spiere) mit Toppzeichen als Radarreflektor jeweils z.B. oberhalb oder unterhalb
+    > eines Brückenpfeilers ausgelegt
+
 - question: |-
     Welche Bedeutung haben diese Tafeln an der nachstehenden gekennzeichneten Brücke?
 
@@ -217,6 +410,19 @@
   - Vorgeschriebene Durchfahrt mit Gegenverkehr und seitlicher Begrenzung der erlaubten Brückendurchfahrt.
   - Empfohlene Durchfahrt mit Gegenverkehr ohne seitliche Begrenzung der erlaubten Brückendurchfahrt.
   correct: A
+  explanation: |
+    **§ 6.24 Nr. 2 BinSchStrO (Brücken und Wehre)** ·
+    [§ 6.24](https://www.gesetze-im-internet.de/binschstro_2012/__6_24.html)
+
+    > durch das Tafelzeichen A.10 (Anlage 7), ist die Schifffahrt in dieser Öffnung außerhalb des
+    > durch die beiden Tafeln dieses Zeichens begrenzten Raumes verboten;
+
+    **§ 6.25 Nr. 2 Satz 2 BinSchStrO (feste Brücken)** ·
+    [§ 6.25](https://www.gesetze-im-internet.de/binschstro_2012/__6_25.html)
+
+    > Ist die Öffnung nach Satz 1 Buchstabe a gekennzeichnet, ist die Durchfahrt in beiden
+    > Richtungen erlaubt;
+
 - question: |-
     Was bedeutet dieses Tafelzeichen an einer Brückendurchfahrt?
 
@@ -228,6 +434,13 @@
   - Gesperrte Durchfahrt, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.
   - Schutzbedürftige Anlage.
   correct: A
+  explanation: |
+    **§ 6.25 Nr. 1 BinSchStrO (feste Brücken)** ·
+    [§ 6.25](https://www.gesetze-im-internet.de/binschstro_2012/__6_25.html)
+
+    > Ist eine bestimmte Öffnung fester Brücken durch ein allgemeines Zeichen A.1 (Anlage 7)
+    > gekennzeichnet, ist das Durchfahren dieser Öffnung verboten.
+
 - question: Warum ist es bei der Schleusendurchfahrt verboten, Autoreifen als Fender zu benutzen?
   type: single
   answers:
@@ -236,3 +449,12 @@
   - Autoreifen erzeugen schwarze Farbspuren am Boot und an der Schleusenmauer.
   - Autoreifen sind schwimmfähig und können in der Schleuse zu erheblichen Störungen führen.
   correct: A
+  explanation: |
+    **§ 6.28 Nr. 9 Buchstabe c BinSchStrO (in den Schleusenkammern)** ·
+    [§ 6.28](https://www.gesetze-im-internet.de/binschstro_2012/__6_28.html)
+
+    > In den Schleusenkammern […] sind Fender zu verwenden, die schwimmfähig sein müssen, wenn sie
+    > nicht fest mit dem Fahrzeug verbunden sind
+
+    Autoreifen werden im Gesetz nicht genannt. Sie sind nicht schwimmfähig und deshalb als nicht
+    fest verbundene Fender unzulässig.

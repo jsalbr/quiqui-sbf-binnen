@@ -9,6 +9,12 @@
   - Weniger als 1 Sekunde.
   - Weniger als 4 Sekunden.
   correct: A
+  explanation: |
+    **Anlage 6 BinSchStrO (Schallzeichen, Vorbemerkung)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > kurzer Ton: ein Ton von etwa einer Sekunde Dauer;
+
 - question: |-
     Wie lang ist die Dauer eines langen Tons?
 
@@ -20,6 +26,15 @@
   - Etwa 1 - 2 Sekunden.
   - Etwa 6 - 8 Sekunden.
   correct: A
+  explanation: |
+    **Anlage 6 BinSchStrO (Schallzeichen, Vorbemerkung)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > langer Ton: ein Ton von etwa vier Sekunden Dauer;
+
+    Die Katalogantwort „etwa 4 – 6 Sekunden“ schließt die gesetzliche Angabe „etwa vier Sekunden“
+    ein.
+
 - question: |-
     Welche Bedeutung hat folgendes Schallsignal?
 
@@ -31,6 +46,14 @@
   - Ankerlieger über 100 m Länge.
   - Manövrierbehinderter Schleppverband über 200 m Länge.
   correct: A
+  explanation: |
+    **Anlage 6 Abschnitt A BinSchStrO (Bleib-Weg-Signal)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > Mindestens 15 Minuten lang ununterbrochene Wiederholung abwechselnd eines kurzen und eines
+    > langen Tones in Verbindung mit dem Lichtzeichen nach § 4.01 Nummer 2 „Bleib-Weg-Signal“ § 8.09
+    > Nummer 2
+
 - question: Was bedeutet ein langer Ton?
   type: single
   answers:
@@ -39,6 +62,12 @@
   - Fahrzeug ist manövrierunfähig.
   - Überholen nicht möglich.
   correct: A
+  explanation: |
+    **Anlage 6 Abschnitt A BinSchStrO (Allgemeine Zeichen)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > 1 langer Ton „Achtung“
+
 - question: Was bedeuten vier kurze Töne?
   type: single
   answers:
@@ -47,6 +76,12 @@
   - Achtung!
   - Überholen nicht möglich.
   correct: A
+  explanation: |
+    **Anlage 6 Abschnitt A BinSchStrO (Allgemeine Zeichen)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > 4 kurze Töne „Ich bin manövrierunfähig“
+
 - question: Was bedeuten fünf kurze Töne?
   type: single
   answers:
@@ -55,6 +90,12 @@
   - Fahrzeug ist manövrierunfähig.
   - Achtung!
   correct: A
+  explanation: |
+    **Anlage 6 Abschnitt C BinSchStrO (Überholzeichen)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > 5 kurze Töne „Man kann mich nicht überholen“ des Vorausfahrenden § 6.10 Nummer 5
+
 - question: |-
     Was bedeutet dieses Schallsignal?
 
@@ -66,6 +107,12 @@
   - Kursänderung nach Backbord.
   - Wenden über Backbord.
   correct: A
+  explanation: |
+    **Anlage 6 Abschnitt D BinSchStrO (Wendezeichen)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > 1 langer Ton, „Ich wende über Steuerbord“ 1 kurzer Ton § 6.13 Nummer 2 Buchstabe a
+
 - question: |-
     Was bedeutet dieses Schallsignal?
 
@@ -77,6 +124,12 @@
   - Kursänderung nach Backbord.
   - Kursänderung nach Steuerbord.
   correct: A
+  explanation: |
+    **Anlage 6 Abschnitt D BinSchStrO (Wendezeichen)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > 1 langer Ton, „Ich wende über Backbord“ 2 kurze Töne § 6.13 Nummer 2 Buchstabe b
+
 - question: |-
     Was bedeutet dieses Schallsignal?
 
@@ -88,6 +141,13 @@
   - Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Steuerbord.
   - Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Backbord.
   correct: A
+  explanation: |
+    **Anlage 6 Abschnitt C BinSchStrO (Überholzeichen)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > 2 lange Töne, „Ich will auf Ihrer Steuerbordseite überholen“ 1 kurzer Ton § 6.10 Nummer 2
+    > Buchstabe b des Überholenden
+
 - question: |-
     Was bedeutet dieses Schallsignal?
 
@@ -99,6 +159,13 @@
   - Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Steuerbord.
   - Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Backbord.
   correct: A
+  explanation: |
+    **Anlage 6 Abschnitt C BinSchStrO (Überholzeichen)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > 2 lange Töne, „Ich will auf Ihrer Backbordseite überholen“ 2 kurze Töne § 6.10 Nummer 2
+    > Buchstabe a des Überholenden
+
 - question: |-
     Was bedeutet dieses Schallsignal?
 
@@ -110,6 +177,13 @@
   - Überholen an der Steuerbordseite des Vorausfahrenden.
   - Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Backbord.
   correct: A
+  explanation: |
+    **Anlage 6 Abschnitt E BinSchStrO (Einfahrt in Häfen und Nebenwasserstraßen)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > 3 lange Töne, „Ich will meinen Kurs nach Steuerbord richten“ 1 kurzer Ton § 6.16 Nummer 2 Satz
+    > 1 Buchstabe a
+
 - question: |-
     Was bedeutet dieses Schallsignal?
 
@@ -121,6 +195,13 @@
   - Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Steuerbord.
   - Überholen an der Steuerbordseite des Vorausfahrenden.
   correct: A
+  explanation: |
+    **Anlage 6 Abschnitt E BinSchStrO (Einfahrt in Häfen und Nebenwasserstraßen)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > 3 lange Töne, „Ich will meinen Kurs nach Backbord richten“ 2 kurze Töne § 6.16 Nummer 2 Satz 1
+    > Buchstabe b
+
 - question: Was ist eine Folge sehr kurzer Töne?
   type: single
   answers:
@@ -133,6 +214,14 @@
   - Eine Folge von mindestens 8 Tönen von je etwa einer viertel Sekunde Dauer und mit je einer viertel
     Sekunde Pause.
   correct: A
+  explanation: |
+    **Anlage 6 BinSchStrO (Schallzeichen, Vorbemerkung)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > Jedoch besteht das Zeichen „Folge von sehr kurzen Tönen“ aus einer Folge von mindestens sechs
+    > Tönen je von etwa einer Viertelsekunde Dauer, wobei die Pause zwischen den Tönen ebenso lang
+    > ist.
+
 - question: Was bedeutet eine Folge sehr kurzer Töne?
   type: single
   answers:
@@ -141,6 +230,12 @@
   - Fahrzeug ist manövrierunfähig.
   - Überholen nicht möglich.
   correct: A
+  explanation: |
+    **Anlage 6 Abschnitt A BinSchStrO (Allgemeine Zeichen)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > Folge sehr kurzer Töne „Gefahr eines Zusammenstoßes“
+
 - question: Welche Schallsignale bzw. Zeichen sind zu geben, wenn das Boot manövrierunfähig geworden ist?
   type: single
   answers:
@@ -149,3 +244,17 @@
   - Ein langer, vier kurze Töne. Bei Tag eine rote Flagge, bei Nacht ein rotes Licht setzen.
   - Eine Gruppe von kurzen und langen Tönen im Intervall geben. Bei Nacht ein rotes Blinklicht einschalten.
   correct: A
+  explanation: |
+    **§ 3.18 Nr. 1 BinSchStrO (manövrierunfähige Fahrzeuge in Fahrt)** ·
+    [§ 3.18](https://www.gesetze-im-internet.de/binschstro_2012/__3_18.html)
+
+    > Ein manövrierunfähiges Fahrzeug in Fahrt muss zusätzlich zu der anderen nach dieser Verordnung
+    > vorgeschriebenen Bezeichnung a) bei Nacht: ein rotes Licht zeigen, das im unteren Halbkreis
+    > geschwenkt wird; b) bei Tag: eine rote Flagge zeigen, die im unteren Halbkreis geschwenkt
+    > wird. Anstelle der Bezeichnung nach Satz 1 kann das vorgeschriebene Schallzeichen gegeben
+    > werden oder beides zugleich.
+
+    **Anlage 6 Abschnitt A BinSchStrO (Allgemeine Zeichen)** · [Anlage
+    6](https://www.gesetze-im-internet.de/binschstro_2012/anlage_6.html)
+
+    > 4 kurze Töne „Ich bin manövrierunfähig“

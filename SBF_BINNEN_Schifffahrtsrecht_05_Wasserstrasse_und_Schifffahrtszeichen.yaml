@@ -8,6 +8,13 @@
     vorgehalten bzw. angestrebt werden.
   - Es ist der Teil der Wasserstraße, deren Tiefe bei 2,50 m und mehr beginnt.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 37 BinSchStrO (Fahrwasser)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „Fahrwasser“: der Teil der Wasserstraße, der den örtlichen Umständen nach vom durchgehenden
+    > Schiffsverkehr benutzt wird;
+
 - question: Was versteht man unter "Fahrrinne"?
   type: single
   answers:
@@ -19,6 +26,14 @@
     beträgt.
   - Es ist der Teil der Wasserstraße, deren Breite mindestens 88 m und deren Tiefe mindestens 2,50 m beträgt.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 38 BinSchStrO (Fahrrinne)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „Fahrrinne“: der Teil des Fahrwassers, in dem für den durchgehenden Schiffsverkehr bestimmte
+    > Breiten und Tiefen vorhanden sind, deren Erhaltung im Rahmen des Möglichen und Zumutbaren
+    > angestrebt wird;
+
 - question: In welche Richtung werden bei Flüssen die Uferseiten als rechtes bzw. linkes Ufer bezeichnet?
   type: single
   answers:
@@ -27,6 +42,16 @@
   - Bei der Bergfahrt liegt die rechte Uferseite rechts.
   - Bei der Talfahrt liegt die rechte Uferseite links.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 39 BinSchStrO (rechte und linke Seite)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „rechte Seite/linke Seite“: die „rechte Seite“ oder „linke Seite“ des Fahrwassers/der
+    > Fahrrinne, bezogen auf die Richtung „Talfahrt“;
+
+    Die Richtung „Talfahrt“ ist auf einem Fluss die Richtung von der Quelle zur Mündung. Das rechte
+    und linke Ufer werden also in Richtung der Strömung bestimmt.
+
 - question: Was bedeutet "zu Berg" oder "Bergfahrt" auf Flüssen?
   type: single
   answers:
@@ -35,6 +60,15 @@
   - Die Fahrt mit der Strömung.
   - Die Fahrt in Richtung Mündung.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 40 BinSchStrO (zu Berg)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „zu Berg“ oder „Bergfahrt“: auf einem Fluss die Richtung zur Quelle, auf einem
+    > Schifffahrtskanal die Richtung, die im zweiten Teil dieser Verordnung für die einzelnen
+    > Binnenschifffahrtsstraßen als „Bergfahrt“ bezeichnet ist, ferner die Fahrt von der
+    > Hafeneinfahrt in den Hafen;
+
 - question: Was bedeutet "zu Berg" oder "Bergfahrt" auf Kanälen?
   type: single
   answers:
@@ -45,6 +79,15 @@
   - Die Fahrt in Richtung Quelle.
   - Die Fahrt gegen die Strömung.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 40 BinSchStrO (zu Berg)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „zu Berg“ oder „Bergfahrt“: auf einem Fluss die Richtung zur Quelle, auf einem
+    > Schifffahrtskanal die Richtung, die im zweiten Teil dieser Verordnung für die einzelnen
+    > Binnenschifffahrtsstraßen als „Bergfahrt“ bezeichnet ist, ferner die Fahrt von der
+    > Hafeneinfahrt in den Hafen;
+
 - question: Welche Zeichen begrenzen die Fahrrinne zum rechten Ufer?
   type: single
   answers:
@@ -53,6 +96,13 @@
   - Rote Spierentonnen oder Schwimmstangen.
   - Grüne Spierentonnen oder Schwimmstangen.
   correct: A
+  explanation: |
+    **Anlage 8 Abschnitt II Nr. 1 BinSchStrO (Bezeichnung der Fahrrinne, rechte Seite)** · [Anlage
+    8](https://www.gesetze-im-internet.de/binschstro_2012/anlage_8.html)
+
+    > Rechte Seite Farbe: rot Form: Stumpftonne, Tonne mit Toppzeichen, Leuchttonne, Schwimmstange
+    > (Spiere)
+
 - question: Welche Zeichen begrenzen die Fahrrinne zum linken Ufer?
   type: single
   answers:
@@ -61,6 +111,13 @@
   - Rote Spierentonnen oder Schwimmstangen.
   - Grüne Spierentonnen oder Schwimmstangen.
   correct: A
+  explanation: |
+    **Anlage 8 Abschnitt II Nr. 2 BinSchStrO (Bezeichnung der Fahrrinne, linke Seite)** · [Anlage
+    8](https://www.gesetze-im-internet.de/binschstro_2012/anlage_8.html)
+
+    > Linke Seite Farbe: grün Form: Spitztonne, Tonne mit Toppzeichen, Leuchttonne, Schwimmstange
+    > (Spiere)
+
 - question: Welche Fahrrinnenseite hat ein Bergfahrer an seiner Steuerbordseite und wie ist diese gekennzeichnet?
   type: single
   answers:
@@ -69,6 +126,22 @@
   - Die linke Fahrrinnenseite, gekennzeichnet durch rote Stumpftonnen oder Schwimmstangen.
   - Die rechte Fahrrinnenseite, gekennzeichnet durch grüne Spitztonnen oder Schwimmstangen.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 39 BinSchStrO (rechte und linke Seite)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „rechte Seite/linke Seite“: die „rechte Seite“ oder „linke Seite“ des Fahrwassers/der
+    > Fahrrinne, bezogen auf die Richtung „Talfahrt“;
+
+    **Anlage 8 Abschnitt II Nr. 2 BinSchStrO (Bezeichnung der Fahrrinne, linke Seite)** · [Anlage
+    8](https://www.gesetze-im-internet.de/binschstro_2012/anlage_8.html)
+
+    > Linke Seite Farbe: grün Form: Spitztonne, Tonne mit Toppzeichen, Leuchttonne, Schwimmstange
+    > (Spiere)
+
+    Wer zu Berg fährt, fährt entgegen der Talfahrtrichtung. Die in Talfahrtrichtung linke Seite
+    liegt für ihn deshalb an Steuerbord.
+
 - question: Was bedeutet eine rot-grün gestreifte Tonne oder Schwimmstange und was ist zu beachten?
   type: single
   answers:
@@ -77,6 +150,18 @@
   - Fahrrinnenspaltung. Vorbeifahrt nur an Steuerbord möglich.
   - Fahrrinnenspaltung. In Fahrtrichtung rechts halten.
   correct: A
+  explanation: |
+    **Anlage 8 Abschnitt II Nr. 3 BinSchStrO (Spaltung der Fahrrinne)** · [Anlage
+    8](https://www.gesetze-im-internet.de/binschstro_2012/anlage_8.html)
+
+    > Spaltung Farbe: rot-grün waagerecht gestreift
+    >
+    > Erforderlichenfalls zeigt ein rotes zylinderförmiges oder ein grünes kegelförmiges Toppzeichen
+    > über dem Zeichen für die Fahrrinnenspaltung an, an welcher Seite die Vorbeifahrt erfolgen
+    > soll.
+
+    Ohne zusätzliches Toppzeichen ist die Vorbeifahrt an beiden Seiten möglich.
+
 - question: Mit welchen Zeichen werden Hindernisse wie zum Beispiel Buhnen und Kribben an der rechten
     Seite der Wasserstraße bezeichnet?
   type: single
@@ -90,6 +175,16 @@
   - 'Stangen mit Toppzeichen: grüner Kegel, Spitze nach unten, oder grün-weiß gestreifte Schwimmstange
     mit grünem Kegel.'
   correct: A
+  explanation: |
+    **Anlage 8 Abschnitt III A.1 und B.1 BinSchStrO (Hindernis an der rechten Seite)** · [Anlage
+    8](https://www.gesetze-im-internet.de/binschstro_2012/anlage_8.html)
+
+    > Rechte Seite Farbe: rot Form: Stange mit Toppzeichen Toppzeichen: roter Kegel - Spitze unten -
+    >
+    > Rechte Seite Farbe: rot-weiß waagerecht gestreift Form: Spierentonne mit Toppzeichen,
+    > Schwimmstange (Spiere), in der Regel jeweils mit Radarreflektor Toppzeichen (wenn vorhanden):
+    > roter Zylinder
+
 - question: Was kennzeichnet eine grün-weiß gestreifte Schwimmstange mit grünem Kegel, Spitze nach oben,
     oder eine grüne Tonne mit grün-weiß gestreiftem Aufsatz mit grünem Kegel, Spitze nach oben?
   type: single
@@ -99,6 +194,16 @@
   - Hindernis an der rechten Seite der Wasserstraße.
   - Fahrrinnenrand an der rechten Seite der Wasserstraße.
   correct: A
+  explanation: |
+    **Anlage 8 Abschnitt III A.2 und B.2 BinSchStrO (Hindernis an der linken Seite)** · [Anlage
+    8](https://www.gesetze-im-internet.de/binschstro_2012/anlage_8.html)
+
+    > Linke Seite Farbe: grün Form: Stange mit Toppzeichen Toppzeichen: grüner Kegel - Spitze oben -
+    >
+    > Linke Seite Farbe: grün-weiß waagerecht gestreift Form: Spierentonne mit Toppzeichen,
+    > Schwimmstange (Spiere), in der Regel jeweils mit Radarreflektor Toppzeichen (wenn vorhanden):
+    > grüner Kegel - Spitze oben -
+
 - question: Welche Fahrrinnenseite hat ein Talfahrer an seiner Backbordseite?
   type: single
   answers:
@@ -107,6 +212,22 @@
   - Die linke Fahrrinnenseite, gekennzeichnet durch rote Stumpftonnen oder Schwimmstangen.
   - Die rechte Fahrrinnenseite, gekennzeichnet durch grüne Spitztonnen oder Schwimmstangen.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 39 BinSchStrO (rechte und linke Seite)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „rechte Seite/linke Seite“: die „rechte Seite“ oder „linke Seite“ des Fahrwassers/der
+    > Fahrrinne, bezogen auf die Richtung „Talfahrt“;
+
+    **Anlage 8 Abschnitt II Nr. 2 BinSchStrO (Bezeichnung der Fahrrinne, linke Seite)** · [Anlage
+    8](https://www.gesetze-im-internet.de/binschstro_2012/anlage_8.html)
+
+    > Linke Seite Farbe: grün Form: Spitztonne, Tonne mit Toppzeichen, Leuchttonne, Schwimmstange
+    > (Spiere)
+
+    Wer zu Tal fährt, fährt in der Bezugsrichtung. Die linke Fahrrinnenseite liegt für ihn an
+    Backbord.
+
 - question: Ein Fahrzeug fährt zu Tal. Voraus liegt eine rote Tonne. Auf welcher Fahrrinnenseite befindet
     sich diese Tonne und an welcher Schiffsseite muss diese Tonne passiert werden?
   type: single
@@ -119,6 +240,28 @@
     werden.
   - Sie befindet sich auf der linken Fahrrinnenseite und muss an Backbordseite des Schiffes passiert werden.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 39 BinSchStrO (rechte und linke Seite)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „rechte Seite/linke Seite“: die „rechte Seite“ oder „linke Seite“ des Fahrwassers/der
+    > Fahrrinne, bezogen auf die Richtung „Talfahrt“;
+
+    **Anlage 8 Abschnitt II Nr. 1 BinSchStrO (Bezeichnung der Fahrrinne, rechte Seite)** · [Anlage
+    8](https://www.gesetze-im-internet.de/binschstro_2012/anlage_8.html)
+
+    > Rechte Seite Farbe: rot Form: Stumpftonne, Tonne mit Toppzeichen, Leuchttonne, Schwimmstange
+    > (Spiere)
+
+    **Anlage 8 Abschnitt I Nr. 1 BinSchStrO (Lage der Tonnen)** · [Anlage
+    8](https://www.gesetze-im-internet.de/binschstro_2012/anlage_8.html)
+
+    > Ein schwimmendes Schifffahrtszeichen wird etwa 5 m außerhalb der zu bezeichnenden Begrenzungen
+    > verankert.
+
+    Das Fahrzeug bleibt in der Fahrrinne und passiert die rote Tonne damit an seiner
+    Steuerbordseite. Zu Tal ist die rechte Fahrrinnenseite die Steuerbordseite.
+
 - question: Ein Fahrzeug fährt zu Berg. Voraus liegt eine rote Tonne. Auf welcher Fahrrinnenseite befindet
     sich diese Tonne und an welcher Schiffsseite muss diese Tonne passiert werden?
   type: single
@@ -132,6 +275,22 @@
   - Sie befindet sich auf der linken Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert
     werden.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 39 BinSchStrO (rechte und linke Seite)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „rechte Seite/linke Seite“: die „rechte Seite“ oder „linke Seite“ des Fahrwassers/der
+    > Fahrrinne, bezogen auf die Richtung „Talfahrt“;
+
+    **Anlage 8 Abschnitt II Nr. 1 BinSchStrO (Bezeichnung der Fahrrinne, rechte Seite)** · [Anlage
+    8](https://www.gesetze-im-internet.de/binschstro_2012/anlage_8.html)
+
+    > Rechte Seite Farbe: rot Form: Stumpftonne, Tonne mit Toppzeichen, Leuchttonne, Schwimmstange
+    > (Spiere)
+
+    Zu Berg liegt die in Talfahrtrichtung rechte Seite an Backbord. Die rote Tonne wird deshalb an
+    der Backbordseite des Fahrzeugs passiert.
+
 - question: Ein Fahrzeug fährt in der Fahrrinne gegen den Strom. Voraus liegt eine grüne Tonne. Auf welcher
     Fahrrinnenseite befindet sich diese Tonne und an welcher Schiffsseite muss diese Tonne passiert werden?
   type: single
@@ -145,3 +304,18 @@
   - Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert
     werden.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 39 BinSchStrO (rechte und linke Seite)** ·
+    [§ 1.01](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „rechte Seite/linke Seite“: die „rechte Seite“ oder „linke Seite“ des Fahrwassers/der
+    > Fahrrinne, bezogen auf die Richtung „Talfahrt“;
+
+    **Anlage 8 Abschnitt II Nr. 2 BinSchStrO (Bezeichnung der Fahrrinne, linke Seite)** · [Anlage
+    8](https://www.gesetze-im-internet.de/binschstro_2012/anlage_8.html)
+
+    > Linke Seite Farbe: grün Form: Spitztonne, Tonne mit Toppzeichen, Leuchttonne, Schwimmstange
+    > (Spiere)
+
+    Gegen den Strom fahren heißt zu Berg fahren. Die in Talfahrtrichtung linke Seite liegt dann an
+    Steuerbord. Die grüne Tonne wird an der Steuerbordseite passiert.
