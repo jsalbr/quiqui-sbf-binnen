@@ -6,6 +6,13 @@
   - Ein Inhaber eines Sportbootführerscheins muss die Fahrzeugführung übernehmen.
   - Ein Inhaber eines Sportbootführerscheins muss die Verantwortung übernehmen.
   correct: A
+  explanation: |
+    **§ 1.02 Nr. 1 BinSchStrO (Schiffsführer)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/binschstro_2012/__1_02.html)
+
+    > Sind mehrere Personen an Bord eines Fahrzeugs, die die Anforderungen des Satzes 2, auch in
+    > Verbindung mit Satz 3, erfüllen, ist der Schiffsführer rechtzeitig zu bestimmen.
+
 - question: In welchen Fällen darf weder ein Sportboot geführt noch dessen Kurs oder Geschwindigkeit selbstständig
     bestimmt werden?
   type: single
@@ -23,6 +30,16 @@
     oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration
     von 0,3 ‰ oder mehr im Körper vorhanden ist.
   correct: A
+  explanation: |
+    **§ 1.02 Nr. 7 BinSchStrO (Schiffsführer, Alkohol)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/binschstro_2012/__1_02.html)
+
+    > Der Schiffsführer oder die Schiffsführerin darf nicht durch Übermüdung, Einwirkung von
+    > Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Es ist dem
+    > Schiffsführer oder der Schiffsführerin verboten, das Fahrzeug zu führen, wenn er oder sie a)
+    > 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut […]
+    > hat
+
 - question: Für welche Sportboote ist der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen
     vorgeschrieben?
   type: single
@@ -40,6 +57,24 @@
     bzw. 7,5 kW bei Verwendung eines Elektromotors Betriebsart S1 (Dauerbetrieb) und weniger als 20 m
     Länge.
   correct: A
+  explanation: |
+    **§ 5 Abs. 1 Nr. 1 SpFV (Ausnahmen) und § 1 Nr. 1 SpFV (Anwendungsbereich)** ·
+    [§ 5](https://www.gesetze-im-internet.de/spfv/__5.html) ·
+    [§ 1](https://www.gesetze-im-internet.de/spfv/__1.html)
+
+    > Keiner Fahrerlaubnis nach dieser Verordnung bedürfen 1. auf allen Binnenschifffahrtsstraßen
+    > und auf den Seeschifffahrtsstraßen Personen beim Führen eines Sportbootes, sofern das zu
+    > führende Sportboot mit einer Antriebsmaschine ausgerüstet ist, deren größte nicht
+    > überschreitbare Nutzleistung bei Verwendung eines a) Verbrennungsmotors höchstens 11,03
+    > Kilowatt, b) Elektromotors höchstens 7,5 Kilowatt in der Betriebsart S1 (Dauerbetrieb) […]
+    > beträgt
+    >
+    > Diese Verordnung gilt 1. auf den Binnenschifffahrtsstraßen für Sportboote von weniger als 20
+    > Metern Länge, gemessen ohne Ruder und Bugspriet
+
+    Umkehrschluss: Über 11,03 kW (Verbrennungsmotor) bzw. 7,5 kW (Elektromotor, S1) ist der
+    Sportbootführerschein Binnen nötig.
+
 - question: Auf welchen Gewässern gilt der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen?
   type: single
   answers:
@@ -48,6 +83,20 @@
   - Auf den Bundeswasserstraßen und allen Landesgewässern.
   - Auf allen Seewasserstraßen.
   correct: A
+  explanation: |
+    **§ 2 Nr. 1 und § 3 Abs. 1 SpFV (Binnenschifffahrtsstraßen, Fahrerlaubnis)** ·
+    [§ 2](https://www.gesetze-im-internet.de/spfv/__2.html) ·
+    [§ 3](https://www.gesetze-im-internet.de/spfv/__3.html)
+
+    > Binnenschifffahrtsstraßen: die Bundeswasserstraßen im Sinne des § 1 Absatz 1 Nummer 2 des
+    > Binnenschifffahrtsaufgabengesetzes mit Ausnahme der Seeschifffahrtsstraßen und der Elbe im
+    > Hamburger Hafen.
+    >
+    > Wer auf den Binnenschifffahrtsstraßen ein Sportboot führen will, bedarf einer Fahrerlaubnis
+    > für die jeweilige Antriebsart. Die Fahrerlaubnis wird unbeschadet des Absatzes 4 durch den
+    > Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen nachgewiesen (Anlage
+    > 1).
+
 - question: Aus welchen Gründen muss der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen
     entzogen werden?
   type: single
@@ -57,6 +106,14 @@
   - Bei zweifelhafter Zuverlässigkeit aus Altersgründen.
   - Bei fehlender Zuverlässigkeit nach einer begangenen Ordnungswidrigkeit.
   correct: A
+  explanation: |
+    **§ 13 Abs. 1 SpFV (Entziehung der Fahrerlaubnis)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/spfv/__13.html)
+
+    > Wenn sich der Inhaber einer Fahrerlaubnis zum Führen von Sportbooten als untauglich oder
+    > unzuverlässig erweist, ist ihm die Fahrerlaubnis oder der Befähigungsnachweis von der nach
+    > § 16 Absatz 3 Satz 1 zuständigen Behörde zu entziehen.
+
 - question: Was beinhaltet die allgemeine Sorgfaltspflicht?
   type: single
   answers:
@@ -69,6 +126,18 @@
   - Es ist alles zu tun, was zur Vermeidung von Beschädigungen an Fahrzeugen, Anlagen oder Ufern, Behinderung
     der Schifffahrt und Beeinträchtigung der Umwelt nötig ist.
   correct: A
+  explanation: |
+    **§ 1.04 BinSchStrO (Allgemeine Sorgfaltspflicht)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/binschstro_2012/__1_04.html)
+
+    > Über die Anforderungen nach dieser Verordnung hinaus hat jeder Verkehrsteilnehmer auf
+    > Binnenschifffahrtsstraßen alle Vorsichtsmaßnahmen zu treffen, welche die allgemeine
+    > Sorgfaltspflicht und die Übung der Schifffahrt gebieten, um insbesondere 1. die Gefährdung von
+    > Menschenleben zu vermeiden, 2. die Beschädigung anderer Fahrzeuge oder Schwimmkörper, der
+    > Ufer, der Regelungsbauwerke sowie von Anlagen jeder Art in der Wasserstraße oder an ihren
+    > Ufern zu vermeiden, 3. die Behinderung der Schifffahrt zu vermeiden und 4. jede vermeidbare
+    > Beeinträchtigung der Umwelt zu verhindern.
+
 - question: Unter welchen Umständen darf von den geltenden Bestimmungen über das Verhalten im Verkehr
     auf den Binnenschifffahrtsstraßen abgewichen werden?
   type: single
@@ -78,6 +147,13 @@
   - Bei unmittelbar bevorstehendem Überholvorgang.
   - Bei mittelbar drohender Gefahr für sich oder andere.
   correct: A
+  explanation: |
+    **§ 1.05 BinSchStrO (Verhalten unter besonderen Umständen)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/binschstro_2012/__1_05.html)
+
+    > Bei unmittelbar drohender Gefahr muss der Schiffsführer alle Maßnahmen treffen, die die
+    > Umstände gebieten, auch wenn er dadurch gezwungen ist, von dieser Verordnung abzuweichen.
+
 - question: Welche Anforderungen neben der körperlichen und geistigen Tauglichkeit und fachlichen Eignung
     muss der Führer eines Sportbootes auf Binnenschifffahrtsstraßen erfüllen, wenn die größte Nutzleistung
     der Antriebsmaschine 11,03 kW bei Verbrennungsmotoren bzw. 7,5 kW bei Elektromotoren Betriebsart S1
@@ -90,6 +166,17 @@
   - Besitz eines Sportbootführerscheins mit dem Geltungsbereich Binnenschifffahrtsstraßen für Sportboote
     mit Antriebsmaschine oder eines gleichgestellten Befähigungszeugnisses.
   correct: A
+  explanation: |
+    **§ 1.09 Nr. 1 BinSchStrO (Besetzung des Ruders)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/binschstro_2012/__1_09.html)
+
+    > Auf jedem in Fahrt befindlichen Fahrzeug hat der Schiffsführer sicherzustellen, dass das Ruder
+    > mit einer hierfür geeigneten Person im Alter von mindestens 16 Jahren besetzt ist.
+
+    Bis 11,03 kW (Verbrennungsmotor) bzw. 7,5 kW (Elektromotor, S1) ist nach § 5 Abs. 1 Nr. 1 SpFV
+    kein Sportbootführerschein nötig ([§ 5 SpFV](https://www.gesetze-im-internet.de/spfv/__5.html)).
+    Das Mindestalter ergibt sich dann aus der Ruderbesetzung.
+
 - question: Welche Anforderungen neben der körperlichen und geistigen Tauglichkeit und fachlichen Eignung
     muss der Führer eines Sportbootes auf dem Rhein erfüllen, wenn die Nutzleistung der Antriebsmaschine
     mehr als 11,03 kW bei Verbrennungsmotoren bzw. 7,5 kW bei Elektromotoren Betriebsart S1 (Dauerbetrieb)
@@ -102,6 +189,22 @@
   - Mindestens 14 Jahre.
   - Mindestalter 16 Jahre.
   correct: A
+  explanation: |
+    **§ 3 Abs. 1 SpFV (Fahrerlaubnis)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/spfv/__3.html)
+
+    > Wer auf den Binnenschifffahrtsstraßen ein Sportboot führen will, bedarf einer Fahrerlaubnis
+    > für die jeweilige Antriebsart. Die Fahrerlaubnis wird unbeschadet des Absatzes 4 durch den
+    > Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen nachgewiesen (Anlage
+    > 1).
+
+    **§ 11.01 Nr. 3 RheinSchPersV (Patentpflicht auf dem Rhein)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/rheinschpersv_2023/__11_01.html)
+
+    > Für Fahrzeuge – ausgenommen Fahrgastschiffe, Schub- und Schleppboote – mit einer Länge von
+    > weniger als 20 m genügt ein Befähigungszeugnis als Schiffsführer, das den nationalen
+    > Vorschriften der Rheinuferstaaten und Belgiens für Binnenwasserstraßen entspricht.
+
 - question: Welche Anforderungen werden an die Person gestellt, mit der der Schiffsführer das Ruder eines
     Sportbootes mit Antriebsmaschine auf Binnenschifffahrtstraßen besetzen will?
   type: single
@@ -112,6 +215,15 @@
     für Sportboote mit Antriebsmaschine sein.
   - Sie muss mindestens 14 Jahre alt und körperlich, geistig und fachlich geeignet sein.
   correct: A
+  explanation: |
+    **§ 1.09 Nr. 1 BinSchStrO (Besetzung des Ruders)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/binschstro_2012/__1_09.html)
+
+    > Auf jedem in Fahrt befindlichen Fahrzeug hat der Schiffsführer sicherzustellen, dass das Ruder
+    > mit einer hierfür geeigneten Person im Alter von mindestens 16 Jahren besetzt ist.
+
+    Ausnahme in Nr. 2: Das Mindestalter gilt nicht für Kleinfahrzeuge ohne Antriebsmaschine.
+
 - question: Wo erhält man Auskünfte über Verkehrsbeschränkungen und aktuelle Informationen über Binnenschifffahrtsstraßen?
   type: single
   answers:
@@ -120,6 +232,22 @@
   - In der Binnenschifffahrtsstraßen-Ordnung Teil II.
   - In der Binnenschiffsuntersuchungsordnung.
   correct: A
+  explanation: |
+    **§ 1.02 Nr. 8 und § 1.22 Nr. 1 BinSchStrO (Reisevorbereitung, Anordnungen vorübergehender
+    Art)** · [§ 1.02](https://www.gesetze-im-internet.de/binschstro_2012/__1_02.html) ·
+    [§ 1.22](https://www.gesetze-im-internet.de/binschstro_2012/__1_22.html)
+
+    > Der Schiffsführer hat vor Fahrtantritt die erforderlichen Reisevorbereitungen zu treffen.
+    > Insbesondere hat er sich über die Bedingungen und Verhältnisse der Wasserstraße, wie
+    > Wasserstände, Durchfahrtshöhen, die er befahren will, zu informieren […]
+    >
+    > Der Schiffsführer muss eine von der zuständigen Behörde erlassene Anordnung vorübergehender
+    > Art beachten, die aus besonderen Anlässen für die Sicherheit und Leichtigkeit des Verkehrs
+    > bekannt gemacht worden ist.
+
+    Die Auskunftsstellen (WSV, [ELWIS](https://www.elwis.de), Wasserschutzpolizei) sind nicht als
+    Aufzählung im Gesetz genannt. Die Pflicht, sich zu informieren, steht in § 1.02 Nr. 8.
+
 - question: Wozu muss der Rudergänger eines Sportbootes zur sicheren Steuerung in der Lage sein?
   type: single
   answers:
@@ -130,6 +258,15 @@
   - Alle Informationen und Weisungen zu empfangen und zu geben und nach allen Seiten genügend freie Sicht
     zu haben.
   correct: A
+  explanation: |
+    **§ 1.09 Nr. 3 BinSchStrO (Rudergänger)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/binschstro_2012/__1_09.html)
+
+    > Zur sicheren Steuerung des Fahrzeugs muss der Rudergänger in der Lage sein, alle im
+    > Steuerstand ankommenden Informationen und Weisungen zu empfangen oder von dort Informationen
+    > zu geben. Insbesondere muss er alle Schallzeichen wahrnehmen können und nach allen Seiten
+    > genügend freie Sicht haben.
+
 - question: Bis zu welcher Schiffslänge berechtigt der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen
     zum Führen eines Sportbootes auf Binnenschifffahrtsstraßen?
   type: single
@@ -139,6 +276,13 @@
   - Bis zu einer Länge von weniger als 25 m (ohne Ruder und Bugspriet).
   - Bis zu einer Länge von weniger als 15 m (mit Ruder und Bugspriet).
   correct: A
+  explanation: |
+    **§ 1 Nr. 1 SpFV (Anwendungsbereich)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/spfv/__1.html)
+
+    > Diese Verordnung gilt 1. auf den Binnenschifffahrtsstraßen für Sportboote von weniger als 20
+    > Metern Länge, gemessen ohne Ruder und Bugspriet
+
 - question: Wo findet man die allgemeinen Verkehrsregeln für die Binnenschifffahrtsstraßen und den Rhein?
   type: single
   answers:
@@ -147,6 +291,16 @@
   - Moselschifffahrtspolizeiverordnung, Donauschifffahrtspolizeiverordnung.
   - Wassermotorräderverordnung, Wasserskiverordnung.
   correct: A
+  explanation: |
+    **§ 1 Nr. 2 Wassermotorräder-Verordnung (Verkehrsordnungen)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/wasmotrv/__1.html)
+
+    > Verkehrsordnungen: a) Binnenschifffahrtsstraßen-Ordnung […] b)
+    > Rheinschifffahrtspolizeiverordnung […] c) Moselschifffahrtspolizeiverordnung […]
+
+    Die BinSchStrO ist die Verkehrsordnung für die Binnenschifffahrtsstraßen, die
+    Rheinschifffahrtspolizeiverordnung gilt auf dem Rhein.
+
 - question: Wo findet man die allgemeinen Verkehrsregeln für die Mosel und die Donau?
   type: single
   answers:
@@ -155,6 +309,18 @@
   - Moselschifffahrtspolizeiverordnung, Binnenschiffsuntersuchungsordnung.
   - Wassermotorräderverordnung, Wasserskiverordnung.
   correct: A
+  explanation: |
+    **§ 1 Nr. 2 Wassermotorräder-Verordnung (Verkehrsordnungen)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/wasmotrv/__1.html)
+
+    > Verkehrsordnungen: a) Binnenschifffahrtsstraßen-Ordnung […] b)
+    > Rheinschifffahrtspolizeiverordnung […] c) Moselschifffahrtspolizeiverordnung […]
+
+    Hinweis: Die aktuelle BinSchStrO hat für die Donau ein eigenes Kapitel 28
+    ([Inhaltsübersicht](https://www.gesetze-im-internet.de/binschstro_2012/index.html)). Die
+    Wassermotorräder-Verordnung nennt als Verkehrsordnungen nur BinSchStrO, Rhein- und
+    Moselschifffahrtspolizeiverordnung.
+
 - question: Wo findet man Regeln für den Verkehr von Wassermotorrädern und für das Wasserskilaufen?
   type: single
   answers:
@@ -163,6 +329,17 @@
   - Binnenschifffahrtsstraßen-Ordnung, Rheinschifffahrtspolizeiverordnung.
   - Moselschifffahrtspolizeiverordnung, Binnenschiffsuntersuchungsordnung.
   correct: A
+  explanation: |
+    **§ 1 Wassermotorräder-Verordnung und § 1 Abs. 1 Wasserskiverordnung** ·
+    [WaMoV](https://www.gesetze-im-internet.de/wasmotrv/__1.html) ·
+    [WasserskiV](https://www.gesetze-im-internet.de/wasskiv_1990/__1.html)
+
+    > Verordnung über das Fahren mit Wassermotorrädern auf den Binnenschiffahrtsstraßen
+    > (Wassermotorräder-Verordnung)
+    >
+    > Auf den Binnenschiffahrtstraßen darf das Wasserskilaufen nur betrieben werden 1. auf den durch
+    > Tafelzeichen E.17 […] hierfür freigegebenen Strecken und Wasserflächen
+
 - question: Wann gilt ein Sportboot auf den Binnenschifffahrtsstraßen nicht mehr als Kleinfahrzeug?
   type: single
   answers:
@@ -171,6 +348,14 @@
   - Wenn es 10 m oder länger ist.
   - Wenn es 18 m oder länger ist.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 14 BinSchStrO (Kleinfahrzeug)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „Kleinfahrzeug“: ein Fahrzeug, dessen Schiffskörper, ohne Ruder und Bugspriet, eine größte
+    > Länge von weniger als 20,00 m aufweist, einschließlich Segelsurfbrett, Amphibienfahrzeug,
+    > Luftkissenfahrzeug und Tragflügelboot, ausgenommen […]
+
 - question: Wem darf der Schiffsführer das Ruder eines motorisierten Sportbootes überlassen?
   type: single
   answers:
@@ -179,6 +364,18 @@
   - Einer Person, die mindestens 14 Jahre alt, sowie körperlich und geistig geeignet ist.
   - Einer Person jeden Alters, die körperlich und geistig geeignet ist.
   correct: A
+  explanation: |
+    **§ 1.09 Nr. 1 BinSchStrO (Ruder) und § 1.02 Nr. 1 BinSchStrO (Eignung)** ·
+    [§ 1.09](https://www.gesetze-im-internet.de/binschstro_2012/__1_09.html) ·
+    [§ 1.02](https://www.gesetze-im-internet.de/binschstro_2012/__1_02.html)
+
+    > Auf jedem in Fahrt befindlichen Fahrzeug hat der Schiffsführer sicherzustellen, dass das Ruder
+    > mit einer hierfür geeigneten Person im Alter von mindestens 16 Jahren besetzt ist.
+    >
+    > Seine Eignung gilt als vorhanden, wenn er ein Befähigungszeugnis oder eine sonstige Erlaubnis
+    > zum Führen von Fahrzeugen für die geführte Fahrzeugart und die zu befahrende Strecke besitzt
+    > sowie körperlich und geistig zum Führen des Fahrzeugs geeignet ist.
+
 - question: Auf welchen Gewässern ist die Fahrerlaubnis für Sportboote unter Segeln erforderlich?
   type: single
   answers:
@@ -187,6 +384,20 @@
   - Auf den Binnenschifffahrtsstraßen und allen Landesgewässern.
   - Auf allen deutschen Wasserstraßen.
   correct: A
+  explanation: |
+    **§ 5 Abs. 2 SpFV und Anlage 8 SpFV** · [§ 5](https://www.gesetze-im-internet.de/spfv/__5.html)
+    · [Anlage 8](https://www.gesetze-im-internet.de/spfv/anlage_8.html)
+
+    > Eine Fahrerlaubnis für das Führen eines Sportbootes unter Segel ist nur auf den in der Anlage
+    > 8 aufgeführten Binnenschifffahrtsstraßen erforderlich.
+    >
+    > Anlage 8: Binnenschifffahrtsstraßen, auf denen für das Führen eines Sportbootes unter Segel
+    > eine Fahrerlaubnis erforderlich ist: Havel-Oder-Wasserstraße von der Spreemündung bei Spandau
+    > bis km 10,20 einschließlich […]
+
+    Die Anlage listet Gewässer in und um Berlin auf, darunter Havel, Spree, Müggelsee und
+    Griebnitzsee.
+
 - question: Weshalb muss sich der Schiffsführer vor dem Befahren fremder Gewässer über die dort geltenden
     Vorschriften informieren?
   type: single
@@ -196,6 +407,15 @@
   - Da diese auf Bundesgewässern grundsätzlich inhaltlich abweichen.
   - Weil die jeweils geltenden Vorschriften wichtige Informationen über die Brückendurchfahrtshöhen enthalten.
   correct: A
+  explanation: |
+    **§ 1.02 Nr. 8 BinSchStrO (Reisevorbereitung)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/binschstro_2012/__1_02.html)
+
+    > Der Schiffsführer hat vor Fahrtantritt die erforderlichen Reisevorbereitungen zu treffen.
+    > Insbesondere hat er sich über die Bedingungen und Verhältnisse der Wasserstraße, wie
+    > Wasserstände, Durchfahrtshöhen, die er befahren will, zu informieren und dafür zu sorgen, dass
+    > das Fahrzeug mit Fahrtbeginn fahrtüchtig und betriebssicher ist.
+
 - question: Welcher Befähigungsnachweis berechtigt zum Führen eines Sportbootes bis zu einer Länge von
     25 m auf dem Rhein?
   type: single
@@ -205,6 +425,21 @@
   - Der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen.
   - Der Sportbootführerschein mit dem Geltungsbereich Seeschifffahrtsstraßen.
   correct: A
+  explanation: |
+    **§ 15 Abs. 3 und § 11 Abs. 6 BinSchPersV (Sportschifferzeugnis, Sportpatent)** ·
+    [§ 15](https://www.gesetze-im-internet.de/binschpersv/__15.html) ·
+    [§ 11](https://www.gesetze-im-internet.de/binschpersv/__11.html)
+
+    > Das Sportschifferzeugnis berechtigt zum Führen von Sportfahrzeugen mit einer Länge von nicht
+    > mehr als 25 Metern auf den Wasserstraßen der Zonen 3 und 4.
+    >
+    > Das Behördenpatent nach der Rheinschiffspersonalverordnung gilt als Behördenschifferzeugnis,
+    > das Sportpatent nach der Rheinschiffspersonalverordnung als Sportschifferzeugnis im Sinne
+    > dieser Verordnung.
+
+    Auf dem Rhein selbst regelt die Rheinschiffspersonalverordnung das Sportpatent: [§ 12.02
+    RheinSchPersV](https://www.gesetze-im-internet.de/rheinschpersv_2023/__12_02.html).
+
 - question: Welcher Befähigungsnachweis berechtigt zum Führen eines Sportbootes mit einer Länge von 20
     m bis 25 m auf den Binnenschifffahrtsstraßen außerhalb des Rheins?
   type: single
@@ -215,6 +450,21 @@
   - Der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen zum Führen von Sportbooten
     mit Antriebsmaschine oder das Sportpatent.
   correct: A
+  explanation: |
+    **§ 15 Abs. 3 und § 11 Abs. 6 BinSchPersV (Sportschifferzeugnis, Sportpatent)** ·
+    [§ 15](https://www.gesetze-im-internet.de/binschpersv/__15.html) ·
+    [§ 11](https://www.gesetze-im-internet.de/binschpersv/__11.html)
+
+    > Das Sportschifferzeugnis berechtigt zum Führen von Sportfahrzeugen mit einer Länge von nicht
+    > mehr als 25 Metern auf den Wasserstraßen der Zonen 3 und 4.
+    >
+    > Das Behördenpatent nach der Rheinschiffspersonalverordnung gilt als Behördenschifferzeugnis,
+    > das Sportpatent nach der Rheinschiffspersonalverordnung als Sportschifferzeugnis im Sinne
+    > dieser Verordnung.
+
+    Zum Führen von Fahrzeugen unter 20 m genügt nach § 15a Abs. 2 BinSchPersV außerhalb des Rheins
+    auch der Sportbootführerschein Binnen. Ab 20 m reicht er nicht mehr.
+
 - question: Wo sind umfangreiche Hinweise auf die Binnenschifffahrtsstraßen und deren Grenzen zu finden?
   type: single
   answers:
@@ -223,6 +473,17 @@
   - In der Binnenschiffsuntersuchungsordnung.
   - In der Kleinfahrzeugkennzeichenverordnung.
   correct: A
+  explanation: |
+    **§ 10.01 BinSchStrO (Anwendungsbereich, Zweiter Teil)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/binschstro_2012/__10_01.html)
+
+    > Die Vorschriften dieses Kapitel gelten auf dem Neckar (Ne) von der Mündung in den Rhein (Rh)
+    > bei Rh-km 428,16 bis zur Gemeindegrenze Wernau-Plochingen (Ne-km 203,01).
+
+    Beispiel: Jedes Kapitel des Zweiten Teils (Kapitel 10 bis 28) beginnt mit dem Anwendungsbereich
+    für eine Wasserstraße und nennt deren Grenzen. Der Erste Teil enthält die allgemeinen
+    Vorschriften.
+
 - question: Was ist bei der Ausübung des Wassersports auf Gewässern außerhalb der Bundeswasserstraßen
     (<abbr title="zum Beispiel">z. B.</abbr> Landeswasserstraßen, kommunale und private Gewässer) zu beachten?
   type: single
@@ -235,6 +496,18 @@
   - Es ist gegebenenfalls die Genehmigung des Eigentümers einzuholen sowie die Binnenschifffahrtsstraßen-Ordnung
     zu beachten.
   correct: A
+  explanation: |
+    **§ 2 Nr. 1 SpFV (Begriff Binnenschifffahrtsstraßen)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/spfv/__2.html)
+
+    > Binnenschifffahrtsstraßen: die Bundeswasserstraßen im Sinne des § 1 Absatz 1 Nummer 2 des
+    > Binnenschifffahrtsaufgabengesetzes mit Ausnahme der Seeschifffahrtsstraßen und der Elbe im
+    > Hamburger Hafen.
+
+    Die SpFV und die BinSchStrO erfassen nur Bundeswasserstraßen. Für Landeswasserstraßen sowie
+    kommunale und private Gewässer gelten Landesrecht, Befahrensordnungen und die Zustimmung des
+    Eigentümers. Eine einzelne Bundesnorm dafür gibt es nicht.
+
 - question: Wann gilt ein Sportboot auf den Binnenschifffahrtsstraßen als Kleinfahrzeug?
   type: single
   answers:
@@ -243,3 +516,10 @@
   - Wenn das Fahrzeug eine Länge von 25 m hat.
   - Wenn das Fahrzeug eine Länge von mehr als 20 m hat.
   correct: A
+  explanation: |
+    **§ 1.01 Nr. 14 BinSchStrO (Kleinfahrzeug)** ·
+    [Gesetzestext](https://www.gesetze-im-internet.de/binschstro_2012/__1_01.html)
+
+    > „Kleinfahrzeug“: ein Fahrzeug, dessen Schiffskörper, ohne Ruder und Bugspriet, eine größte
+    > Länge von weniger als 20,00 m aufweist, einschließlich Segelsurfbrett, Amphibienfahrzeug,
+    > Luftkissenfahrzeug und Tragflügelboot, ausgenommen […]
