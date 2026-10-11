@@ -9,3 +9,7 @@ session_url: sbf
 shuffle: true
 
 title: SBF Binnen Fragenkatalog
+
+# Nach "Reveal" wird die `explanation` einer Frage (falls vorhanden) auch den
+# Teilnehmenden und auf dem Beamer angezeigt.
+reveal_explanation: true
